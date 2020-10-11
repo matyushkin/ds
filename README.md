@@ -14,6 +14,16 @@
 - [Более 100 бесплатных книг по Data Science ](https://www.learndatasci.com/free-data-science-books/) (англ.)
 - [Бесплатные электронные книги по Data Science издательства O'Reilly](https://www.oreilly.com/data/free/archive.html)
 
+## Машинное обучение
+- [Подборка TProger](https://tproger.ru/articles/free-programming-books/#machine-learning)
+- [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) – прекрасный вводный курс в машинное обучение Hal Daume III (PDF)
+- [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage) – качественный, прекрасно оформленный и регулярно обновляемый курс David Barber
+- [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) – курс Max Welling, 2011 г. (PDF)
+- [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
+
+## Обработка естественного языка
+- ...
+
 ## Нейронные сети
 - [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks)
 
@@ -21,14 +31,48 @@
 ### R
 - [Advanced R](http://adv-r.had.co.nz/)
 - [Learning Statistics with R](https://web.archive.org/web/20170319021353/http://health.adelaide.edu.au:80/psychology/ccs/teaching/lsr/)
-- 
 
 # Репозитории и программное обеспечение
 - [100 репозиториев по машинному обучению](http://meta-guide.com/software-meta-guide/100-best-github-machine-learning)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) — тщательно подобранный список фреймворков, библиотек и программного обеспечения для машинного обучения
+- [Docker-образы для Data Science](https://github.com/yang-zhang/docker-setup)
+
+# Блокноты Jupyter
+- [Practical pandas projects](https://github.com/schlende/practical-pandas-projects) – 5 идей для совершенствования навыков Data Science
 
 # Блоги и подборки публикаций
 - [Список публикаций matyushkin/lessons](https://github.com/matyushkin/lessons)
+- [distill.pub](https://distill.pub/)
+- [inference.vc](https://www.inference.vc/)
+- [karpathy.github.io](https://karpathy.github.io/)
+- [deliprao.com](http://deliprao.com/)
+- [fastml.com](https://fastml.com/)
+- [timvieira.github.io](https://timvieira.github.io/)
+- [blogs.princeton.edu](https://blogs.princeton.edu/)
+- [offconvex.org](https://www.offconvex.org/)
+- [ruder.io](http://ruder.io/)
+- [argmin.net](https://www.argmin.net/)
+- [nlpers.blogspot.ru](https://nlpers.blogspot.com/)
+- [blog.shakirm.com](http://blog.shakirm.com/)
+- [blog.paralleldots.com](https://blog.paralleldots.com)
+- [alexanderdyakonov.wordpress.com](https://dyakonov.org/)
+
+# Социальные сети
+## Каналы и чаты телеграм
+- [Канал сообщества DeepLearning](https://t.me/deeplearning_ru)
+- [Новостной канал Open Data Science](https://t.me/opendatascience)
+- [Чат по большим данным, обработке и машинному обучению](https://t.me/bigdata_ru)
+- [Чат по Data Science](https://t.me/datasciencechat)
+- [Spark in me: Internet, statistics, data science, philosophy](https://t.me/snakers4), [чат канала](https://t.me/joinchat/AAAAAEH9JHYBvaPLvaWPGg)
+- [Канал с горячими постами с Reddit на DS-тематику](https://t.me/datascientology)
+
+## Паблики и группы VK
+- [Data Science](https://vk.com/datascience)
+- [Deep Learning](https://vk.com/deeplearning)
+- [Data Mining Labs](https://vk.com/datamininglabs)
+- [DeepLearning (Глубокие нейронные сети)](https://vk.com/deeplearning_ru)
+- [Мемы про машинное обучение для юных леди](https://vk.com/weirdreparametrizationtrick)
+- [Python, Data Science, нейросети, ИИ](https://vk.com/python_ds)
 
 # Открытые источники и базы данных
 ## Российские статистические базы даных

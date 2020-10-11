@@ -1,5 +1,5 @@
 # ds
-👨‍🔬 In Russian: Постоянно обновляемая подборка ресурсов по тематикам Data Science и Machine Learning: курсы, открытые базы данных и датасеты, источники информации и т. д.
+👨‍🔬 In Russian: Обновляемая подборка ресурсов по тематикам Data Science и Machine Learning: курсы, открытые базы данных и датасеты, источники информации и т. д.
 
 # Курсы
 ## Data Science в целом
@@ -39,6 +39,7 @@
 
 # Блокноты Jupyter
 - [Practical pandas projects](https://github.com/schlende/practical-pandas-projects) – 5 идей для совершенствования навыков Data Science
+- [Ветка Reddit JupyterNotebooks](https://www.reddit.com/JupyterNotebooks)
 
 # Блоги и подборки публикаций
 - [Список публикаций matyushkin/lessons](https://github.com/matyushkin/lessons)
@@ -57,22 +58,56 @@
 - [blog.paralleldots.com](https://blog.paralleldots.com)
 - [alexanderdyakonov.wordpress.com](https://dyakonov.org/)
 
-# Социальные сети
-## Каналы и чаты телеграм
+# Reddit
+- [/analyzit](https://www.reddit.com/analyzit)
+- [/bigdata](https://www.reddit.com/bigdata)
+- [/bigdatajobs](https://www.reddit.com/bigdatajobs)
+- [/computervision](https://www.reddit.com/computervision)
+- [/datacleaning](https://www.reddit.com/datacleaning)
+- [/datagangsta](https://www.reddit.com/datagangsta)
+- [/dataisbeautiful](https://www.reddit.com/dataisbeautiful)
+- [/dataisugly](https://www.reddit.com/dataisugly)
+- [/datascience](https://www.reddit.com/datascience)
+- [/datasets](https://www.reddit.com/datasets)
+- [/dataviz](https://www.reddit.com/dataviz)
+- [/JupyterNotebooks](https://www.reddit.com/JupyterNotebooks)
+- [/LanguageTechnology](https://www.reddit.com/LanguageTechnology)
+- [/learnmachinelearning](https://www.reddit.com/learnmachinelearning)
+- [/learnpython](https://www.reddit.com/learnpython)
+- [/MachineLearning](https://www.reddit.com/MachineLearning)
+- [/opendata](https://www.reddit.com/opendata)
+- [/rstats](https://www.reddit.com/rstats)
+- [/probabilitytheory](https://www.reddit.com/probabilitytheory)
+- [/pystats](https://www.reddit.com/pystats)
+- [/SampleSize](https://www.reddit.com/SampleSize)
+- [/semanticweb](https://www.reddit.com/semanticweb)
+- [/statistics](https://www.reddit.com/statistics)
+- [/textdatamining](https://www.reddit.com/textdatamining)
+
+# Социальные сети и аналогичные каналы
+## Slack
+- [Open Data Science](http://ods.ai)
+
+## Telegram
 - [Канал сообщества DeepLearning](https://t.me/deeplearning_ru)
 - [Новостной канал Open Data Science](https://t.me/opendatascience)
 - [Чат по большим данным, обработке и машинному обучению](https://t.me/bigdata_ru)
 - [Чат по Data Science](https://t.me/datasciencechat)
 - [Spark in me: Internet, statistics, data science, philosophy](https://t.me/snakers4), [чат канала](https://t.me/joinchat/AAAAAEH9JHYBvaPLvaWPGg)
-- [Канал с горячими постами с Reddit на DS-тематику](https://t.me/datascientology)
+- [Канал с постами с Reddit на DS-тематику](https://t.me/datascientology)
 
-## Паблики и группы VK
+## VK
 - [Data Science](https://vk.com/datascience)
 - [Deep Learning](https://vk.com/deeplearning)
 - [Data Mining Labs](https://vk.com/datamininglabs)
 - [DeepLearning (Глубокие нейронные сети)](https://vk.com/deeplearning_ru)
 - [Мемы про машинное обучение для юных леди](https://vk.com/weirdreparametrizationtrick)
 - [Python, Data Science, нейросети, ИИ](https://vk.com/python_ds)
+- [Группа вк про тренировки по машинному обучению](https://vk.com/mltrainings)
+- [Томская группа по машинному обучению](https://vk.com/tomskml)
+
+## Facebook
+- [ML-тренировки в Москве](https://www.facebook.com/groups/1413405125598651/)
 
 # Открытые источники и базы данных
 ## Российские статистические базы даных

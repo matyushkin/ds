@@ -27,6 +27,8 @@
 - [/datasets](https://www.reddit.com/datasets)
 - [/dataviz](https://www.reddit.com/dataviz)
 - [/JupyterNotebooks](https://www.reddit.com/JupyterNotebooks)
+- [/opendata](https://www.reddit.com/opendata)
+
 
 ## Социальные сети и аналогичные каналы
 

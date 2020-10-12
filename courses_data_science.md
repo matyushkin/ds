@@ -7,3 +7,5 @@
 ## Data Science в целом
 - [Доска в Trello, с разбиением по различным тематикам Data Science](https://trello.com/b/rbpEfMld/data-science)
 
+# SQL
+- [Интерактивный тренажер по SQL на Stepik](https://stepik.org/course/63054) – один из лучших курсов по введению в SQL на практических примерах

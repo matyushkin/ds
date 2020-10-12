@@ -2,9 +2,9 @@
 👨‍🔬 In Russian: Обновляемая подборка бесплатных ресурсов по тематикам Data Science и Machine Learning: курсы, открытые базы данных и датасеты, источники информации и т. д.
 
 ## Сводная таблица
-Разделы | 👨‍🏫 Курсы | 📚 Книги | 📊 Данные | 🙋‍♂️ Social | ✊ ПО
+Разделы | 👨‍🏫 Курсы | 📚 Книги | 📊 Данные | 🙋‍♂️ Посты | ✊ Программы
 --- | --- | --- | --- | --- | ---
-Общие вопросы | [Курсы по общим вопросам Data Science](couses/courses_data_science.md) | [Смешанные подборки книг по различным тематикам Data Science](books/books_data_science.md) | + | + | [Программное обеспечение для общих задач Data Science](software/software_data_science.md)
+Общие вопросы | [Курсы по общим вопросам Data Science](couses/courses_data_science.md) | [Подборки книг по различным тематикам Data Science](books/books_data_science.md) | + | [Издания, посвященные общим вопросам Data Science](social/social_data_science.md) | [Программное обеспечение для общих задач Data Science](software/software_data_science.md)
 Машинное обучение | [Курсы по машинному обучению](courses/courses_machine_learning.md) | [Книги по машинному обучению](books/books_machine_learning.md) | + | + | [Библиотеки и репозитории для машинного обучения](software/software_machine_learning.md)
 Нейронные сети | [Курсы по нейронным сетям](courses/courses_neural_networks.md) | [Книги по нейронным сетям](books/books_neural_networks.md) | + | + | +
 Компьютерное зрение | [Курсы по компьютерному зрению](courses/courses_computer_vision.md) | + | + | +
@@ -15,36 +15,11 @@ Big Data | [Курсы по Big Data](courses/courses_big_data.md) | + | + | + |
 - [Practical pandas projects](https://github.com/schlende/practical-pandas-projects) – 5 идей для совершенствования навыков Data Science
 - [Ветка Reddit JupyterNotebooks](https://www.reddit.com/JupyterNotebooks)
 
-# Блоги и подборки публикаций
-- [Список публикаций matyushkin/lessons](https://github.com/matyushkin/lessons)
-- [distill.pub](https://distill.pub/)
-- [inference.vc](https://www.inference.vc/)
-- [karpathy.github.io](https://karpathy.github.io/)
-- [deliprao.com](http://deliprao.com/)
-- [fastml.com](https://fastml.com/)
-- [timvieira.github.io](https://timvieira.github.io/)
-- [blogs.princeton.edu](https://blogs.princeton.edu/)
-- [offconvex.org](https://www.offconvex.org/)
-- [ruder.io](http://ruder.io/)
-- [argmin.net](https://www.argmin.net/)
-- [nlpers.blogspot.ru](https://nlpers.blogspot.com/)
-- [blog.shakirm.com](http://blog.shakirm.com/)
-- [blog.paralleldots.com](https://blog.paralleldots.com)
-- [alexanderdyakonov.wordpress.com](https://dyakonov.org/)
-
 # Reddit
-- [/analyzit](https://www.reddit.com/analyzit)
+
 - [/bigdata](https://www.reddit.com/bigdata)
 - [/bigdatajobs](https://www.reddit.com/bigdatajobs)
 - [/computervision](https://www.reddit.com/computervision)
-- [/datacleaning](https://www.reddit.com/datacleaning)
-- [/datagangsta](https://www.reddit.com/datagangsta)
-- [/dataisbeautiful](https://www.reddit.com/dataisbeautiful)
-- [/dataisugly](https://www.reddit.com/dataisugly)
-- [/datascience](https://www.reddit.com/datascience)
-- [/datasets](https://www.reddit.com/datasets)
-- [/dataviz](https://www.reddit.com/dataviz)
-- [/JupyterNotebooks](https://www.reddit.com/JupyterNotebooks)
 - [/LanguageTechnology](https://www.reddit.com/LanguageTechnology)
 - [/learnmachinelearning](https://www.reddit.com/learnmachinelearning)
 - [/learnpython](https://www.reddit.com/learnpython)
@@ -59,27 +34,15 @@ Big Data | [Курсы по Big Data](courses/courses_big_data.md) | + | + | + |
 - [/textdatamining](https://www.reddit.com/textdatamining)
 
 # Социальные сети и аналогичные каналы
-## Slack
-- [Open Data Science](http://ods.ai)
-- [Slack Томской группы по ML](https://tomskml.slack.com/) ([анкета для регистрации](https://docs.google.com/forms/d/e/1FAIpQLSdYpgm7T80JpyBPt6NMgRP_4jne7v_qaGFjy8wDrS4fNajMDA/viewform?c=0&w=1))
-
 ## Telegram
 - [Канал сообщества DeepLearning](https://t.me/deeplearning_ru)
-- [Новостной канал Open Data Science](https://t.me/opendatascience)
-- [Чат по большим данным, обработке и машинному обучению](https://t.me/bigdata_ru)
-- [Чат по Data Science](https://t.me/datasciencechat)
 - [Spark in me: Internet, statistics, data science, philosophy](https://t.me/snakers4), [чат канала](https://t.me/joinchat/AAAAAEH9JHYBvaPLvaWPGg)
 - [Канал с постами с Reddit на DS-тематику](https://t.me/datascientology)
 
 ## VK
-- [Data Science](https://vk.com/datascience)
 - [Deep Learning](https://vk.com/deeplearning)
-- [Data Mining Labs](https://vk.com/datamininglabs)
 - [DeepLearning (Глубокие нейронные сети)](https://vk.com/deeplearning_ru)
 - [Мемы про машинное обучение для юных леди](https://vk.com/weirdreparametrizationtrick)
-- [Python, Data Science, нейросети, ИИ](https://vk.com/python_ds)
-- [Группа вк про тренировки по машинному обучению](https://vk.com/mltrainings)
-- [Томская группа по машинному обучению](https://vk.com/tomskml)
 
 ## Facebook
 - [ML-тренировки в Москве](https://www.facebook.com/groups/1413405125598651/)
@@ -117,9 +80,6 @@ Big Data | [Курсы по Big Data](courses/courses_big_data.md) | + | + | + |
 
 ## Языки, филология и лингвистика
 - [Национальный корпус русского языка](https://ruscorpora.ru/), [другие корпусы](https://ruscorpora.ru/new/corpora-other.html)
-
-
-
 
 
 ## Всемирные статистические базы даных

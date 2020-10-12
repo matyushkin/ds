@@ -1,15 +1,35 @@
 # ds
 👨‍🔬 In Russian: Обновляемая подборка ресурсов по тематикам Data Science и Machine Learning: курсы, открытые базы данных и датасеты, источники информации и т. д.
 
-# Курсы
+# 👨‍🏫 Курсы
+## Если просто хочется понять, интересно или нет
+- [Аналитик данных](https://praktikum.yandex.ru/data-analyst) (Яндекс.Практикум, бесплатен первый курс)
+- [Специалист по Data Science](https://praktikum.yandex.ru/data-scientist) (Яндекс.Практикум, бесплатен первый курс)
+
 ## Data Science в целом
 - [Доска в Trello, с разбиением по различным тематикам Data Science](https://trello.com/b/rbpEfMld/data-science)
+- [Введение в Data Science и машинное обучение](https://stepik.org/course/4852) (Stepik, ★4.9)
+- [Курс лекций К.В.Воронцова](http://machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%28%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%2C_%D0%9A.%D0%92.%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%29)
+
+## Статистика
+- [Основы статистики на Stepik](https://stepik.org/course/76), [Часть 2](https://stepik.org/course/524), [Часть 3](https://stepik.org/course/2152)
+- [Анализ данных в R](https://stepik.org/course/129) (от той же команды, Stepik, ★4.9), [часть 2](https://stepik.org/course/724)
 
 ## Машинное обучение
+- [Машинное обучение](https://stepik.org/course/8057/) ((Stepik, ★4.9))
 - [Записи по семинарам машинного обучения, ВМК МГУ](https://github.com/esokolov/ml-course-msu)
 - [Курс по науке о данных Open Source Society University (OSSU)](https://github.com/ossu/data-science) – в виде GitHub-репозитория
 
-# Книги
+## Компьютерное зрение
+- [Нейронные сети и компьютерное зрение](https://stepik.org/course/50352) (Stepik, ★4.9)
+
+## Обработка естественного языка
+- [Нейронные сети и обработка текста](https://stepik.org/course/54098)  (Stepik, ★4.6)
+
+## Big Data
+- [Hadoop. Система для обработки больших объемов данных](https://stepik.org/course/150/) (Stepik, ★4.8)
+
+# 📚 Книги
 ## Data Science
 - [Более 100 бесплатных книг по Data Science ](https://www.learndatasci.com/free-data-science-books/) (англ.)
 - [Бесплатные электронные книги по Data Science издательства O'Reilly](https://www.oreilly.com/data/free/archive.html)
@@ -20,17 +40,27 @@
 - [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage) – качественный, прекрасно оформленный и регулярно обновляемый курс David Barber
 - [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) – курс Max Welling, 2011 г. (PDF)
 - [Gaussian Processes for Machine Learning](http://www.gaussianprocess.org/gpml/)
+- Murphy. Machine learning a probabilistic perspective — очень объемная и содержательная книга из MIT (~1000 страниц), освещена большая часть мейнстримовых методов машинного обучения
+- Hastie, Tibshirani, Friedman. The elements of statistical learning — классический способ начать знакомиться с машинным обучением, если вас не пугает математика
+- Richert, Coelho. Building Machine Learning Systems with Python — доступное изложение задач машинного обучения (анализ изображений, текстов, звука) с описанием того, как это сделать в Python
+- Harrington. Machine Learning in Action — базовое знакомство с методами машинного обучения, без перегрузки математическими деталями
+- Marshland. Machine Learning: An Algorithmic Perspective — приводятся и объясняются реализации разных методов машинного обучения на Python
 
 ## Обработка естественного языка
-- ...
+- Хобсон Лейн, Коул Ховард, Ханнес Хапке «Обработка естественного языка в действии»
 
 ## Нейронные сети
 - [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks)
+- Хайкин. Нейронные сети. Полный курс
+- Goodfellow, Bengio, Courville. Deep Learning 
 
 ## Языки программирования
 ### R
 - [Advanced R](http://adv-r.had.co.nz/)
 - [Learning Statistics with R](https://web.archive.org/web/20170319021353/http://health.adelaide.edu.au:80/psychology/ccs/teaching/lsr/)
+
+## SQL
+- [Интерактивный тренажер по SQL на Stepik](https://stepik.org/course/63054) – один из лучших курсов по введению в SQL на практических примерах
 
 # Репозитории и программное обеспечение
 - [100 репозиториев по машинному обучению](http://meta-guide.com/software-meta-guide/100-best-github-machine-learning)
@@ -87,6 +117,7 @@
 # Социальные сети и аналогичные каналы
 ## Slack
 - [Open Data Science](http://ods.ai)
+- [Slack Томской группы по ML](https://tomskml.slack.com/) ([анкета для регистрации](https://docs.google.com/forms/d/e/1FAIpQLSdYpgm7T80JpyBPt6NMgRP_4jne7v_qaGFjy8wDrS4fNajMDA/viewform?c=0&w=1))
 
 ## Telegram
 - [Канал сообщества DeepLearning](https://t.me/deeplearning_ru)

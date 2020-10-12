@@ -1,5 +1,5 @@
 # ds
-👨‍🔬 In Russian: Обновляемая подборка бесплатных ресурсов по тематикам Data Science и Machine Learning: курсы, открытые базы данных и датасеты, источники информации и т. д.
+👨‍🔬 In Russian: Обновляемая структурированная подборка бесплатных ресурсов по тематикам Data Science и Machine Learning: курсы, открытые базы данных и датасеты, источники информации и т. д.
 
 ## Сводная таблица
 Разделы | 👨‍🏫 Курсы | 📚 Книги | 📊 Данные | 🙋‍♂️ Посты | ✊ Программы
@@ -7,18 +7,16 @@
 Общие вопросы | [Курсы по общим вопросам Data Science](couses/courses_data_science.md) | [Подборки книг по различным тематикам Data Science](books/books_data_science.md) | + | [Издания, посвященные общим вопросам Data Science](social/social_data_science.md) | [Программное обеспечение для общих задач Data Science](software/software_data_science.md)
 Машинное обучение | [Курсы по машинному обучению](courses/courses_machine_learning.md) | [Книги по машинному обучению](books/books_machine_learning.md) | + | + | [Библиотеки и репозитории для машинного обучения](software/software_machine_learning.md)
 Нейронные сети | [Курсы по нейронным сетям](courses/courses_neural_networks.md) | [Книги по нейронным сетям](books/books_neural_networks.md) | + | + | +
-Компьютерное зрение | [Курсы по компьютерному зрению](courses/courses_computer_vision.md) | + | + | +
+Компьютерное зрение | [Курсы по компьютерному зрению](courses/courses_computer_vision.md) | + | [Источники, посвященные вопросам компьютерного зрения](social/social_computer_vision.md) | +
 Обработка естественного языка | [Курсы по обработке естественного языка](courses/courses_nlp.md) | [Книги по обработке естественного языка](books/books_nlp.md) | + | + | +
-Big Data | [Курсы по Big Data](courses/courses_big_data.md) | + | + | + | +
+Финансовый анализ | + | + | + | + | +
+Big Data | [Курсы по Big Data](courses/courses_big_data.md) | + | + | + | [Источники, посвященные Big Data](social/social_data_science.md)
 
 # Блокноты Jupyter
 - [Practical pandas projects](https://github.com/schlende/practical-pandas-projects) – 5 идей для совершенствования навыков Data Science
 - [Ветка Reddit JupyterNotebooks](https://www.reddit.com/JupyterNotebooks)
 
 # Reddit
-
-- [/bigdata](https://www.reddit.com/bigdata)
-- [/bigdatajobs](https://www.reddit.com/bigdatajobs)
 - [/computervision](https://www.reddit.com/computervision)
 - [/LanguageTechnology](https://www.reddit.com/LanguageTechnology)
 - [/learnmachinelearning](https://www.reddit.com/learnmachinelearning)

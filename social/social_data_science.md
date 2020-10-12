@@ -38,10 +38,16 @@
 - [Новостной канал Open Data Science](https://t.me/opendatascience)
 - [Чат по большим данным, обработке и машинному обучению](https://t.me/bigdata_ru)
 - [Чат по Data Science](https://t.me/datasciencechat)
+- - [Spark in me: Internet, statistics, data science, philosophy](https://t.me/snakers4), [чат канала](https://t.me/joinchat/AAAAAEH9JHYBvaPLvaWPGg)
+- [Канал с постами с Reddit на DS-тематику](https://t.me/datascientology)
 
 ### VK
 - [Data Science](https://vk.com/datascience)
 - [Data Mining Labs](https://vk.com/datamininglabs)
 - [Группа вк про тренировки по машинному обучению](https://vk.com/mltrainings)
 - [Томская группа по машинному обучению](https://vk.com/tomskml)
+- [Мемы про машинное обучение для юных леди](https://vk.com/weirdreparametrizationtrick)
 - [Python, Data Science, нейросети, ИИ](https://vk.com/python_ds)
+
+### Facebook
+- [ML-тренировки в Москве](https://www.facebook.com/groups/1413405125598651/)

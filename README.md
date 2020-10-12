@@ -7,8 +7,8 @@
 Общие вопросы | [Курсы по общим вопросам Data Science](couses/courses_data_science.md) | [Подборки книг по различным тематикам Data Science](books/books_data_science.md) | + | [Издания, посвященные общим вопросам Data Science](social/social_data_science.md) | [Программное обеспечение для общих задач Data Science](software/software_data_science.md)
 Машинное обучение | [Курсы по машинному обучению](courses/courses_machine_learning.md) | [Книги по машинному обучению](books/books_machine_learning.md) | + | + | [Библиотеки и репозитории для машинного обучения](software/software_machine_learning.md)
 Нейронные сети | [Курсы по нейронным сетям](courses/courses_neural_networks.md) | [Книги по нейронным сетям](books/books_neural_networks.md) | + | + | +
-Компьютерное зрение | [Курсы по компьютерному зрению](courses/courses_computer_vision.md) | + | [Источники, посвященные вопросам компьютерного зрения](social/social_computer_vision.md) | +
-Обработка естественного языка | [Курсы по обработке естественного языка](courses/courses_nlp.md) | [Книги по обработке естественного языка](books/books_nlp.md) | + | + | +
+Компьютерное зрение | [Курсы по компьютерному зрению](courses/courses_computer_vision.md) | + | + | [Источники, посвященные вопросам компьютерного зрения](social/social_computer_vision.md) | +
+Обработка естественного языка | [Курсы по обработке естественного языка](courses/courses_nlp.md) | [Книги по обработке естественного языка](books/books_nlp.md) | [Лингвистические и филологические данные](data/data_nlp.md) | [Источники, посвященные вопросам обработки естественного языка](social/social_nlp.md) | +
 Финансовый анализ | + | + | + | + | +
 Big Data | [Курсы по Big Data](courses/courses_big_data.md) | + | + | + | [Источники, посвященные Big Data](social/social_data_science.md)
 
@@ -17,8 +17,6 @@ Big Data | [Курсы по Big Data](courses/courses_big_data.md) | + | + | + |
 - [Ветка Reddit JupyterNotebooks](https://www.reddit.com/JupyterNotebooks)
 
 # Reddit
-- [/computervision](https://www.reddit.com/computervision)
-- [/LanguageTechnology](https://www.reddit.com/LanguageTechnology)
 - [/learnmachinelearning](https://www.reddit.com/learnmachinelearning)
 - [/learnpython](https://www.reddit.com/learnpython)
 - [/MachineLearning](https://www.reddit.com/MachineLearning)
@@ -29,21 +27,15 @@ Big Data | [Курсы по Big Data](courses/courses_big_data.md) | + | + | + |
 - [/SampleSize](https://www.reddit.com/SampleSize)
 - [/semanticweb](https://www.reddit.com/semanticweb)
 - [/statistics](https://www.reddit.com/statistics)
-- [/textdatamining](https://www.reddit.com/textdatamining)
 
 # Социальные сети и аналогичные каналы
 ## Telegram
 - [Канал сообщества DeepLearning](https://t.me/deeplearning_ru)
-- [Spark in me: Internet, statistics, data science, philosophy](https://t.me/snakers4), [чат канала](https://t.me/joinchat/AAAAAEH9JHYBvaPLvaWPGg)
-- [Канал с постами с Reddit на DS-тематику](https://t.me/datascientology)
 
 ## VK
 - [Deep Learning](https://vk.com/deeplearning)
 - [DeepLearning (Глубокие нейронные сети)](https://vk.com/deeplearning_ru)
-- [Мемы про машинное обучение для юных леди](https://vk.com/weirdreparametrizationtrick)
 
-## Facebook
-- [ML-тренировки в Москве](https://www.facebook.com/groups/1413405125598651/)
 
 # Открытые источники и базы данных
 ## Российские статистические базы даных
@@ -75,10 +67,6 @@ Big Data | [Курсы по Big Data](courses/courses_big_data.md) | + | + | + |
 - [BiCoTender](https://www.bicotender.ru/), [Magelan](https://magelan.pro/) – поисковики по государственными и коммерческим тендерам России и СНГ 
 - [Федресурс](https://fedresurs.ru/) – федеральный реестр сведений о фактах деятельности юридических лиц
 - [Декларатор](https://declarator.org/)
-
-## Языки, филология и лингвистика
-- [Национальный корпус русского языка](https://ruscorpora.ru/), [другие корпусы](https://ruscorpora.ru/new/corpora-other.html)
-
 
 ## Всемирные статистические базы даных
 - [Global Open Data Index](https://index.okfn.org/)

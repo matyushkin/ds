@@ -1,4 +1,4 @@
-## Курсы по статистике
+# Курсы по статистике
 - [Основы статистики на Stepik](https://stepik.org/course/76), [Часть 2](https://stepik.org/course/524), [Часть 3](https://stepik.org/course/2152)
 - [Анализ данных в R](https://stepik.org/course/129) (от той же команды, Stepik, ★4.9), [часть 2](https://stepik.org/course/724)
 

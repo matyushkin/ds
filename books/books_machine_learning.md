@@ -1,4 +1,9 @@
-# Книги по машинному обучению
+# Книги по статистике машинному обучению
+## Статистика
+- Брюс П., Брюс Э. Практическая статистика для специалистов Data Science 
+
+
+## Машинное обучение
 - [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) – прекрасный вводный курс в машинное обучение Hal Daume III (PDF)
 - [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage) – качественный, прекрасно оформленный и регулярно обновляемый курс David Barber
 - [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) – курс Max Welling, 2011 г. (PDF)

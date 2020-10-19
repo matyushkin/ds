@@ -1,5 +1,5 @@
 # Блоги, соцсети и другие издания, прицельно посвященные вопросам компьютерного зрения
 
 ## Reddit
-- [/computervision](https://www.reddit.com/computervision)
+- [/computervision](https://www.reddit.com/r/computervision)
 

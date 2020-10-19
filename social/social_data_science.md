@@ -18,16 +18,16 @@
 - [alexanderdyakonov.wordpress.com](https://dyakonov.org/)
 
 ## Reddit
-- [/analyzit](https://www.reddit.com/analyzit)
-- [/datascience](https://www.reddit.com/datascience)
-- [/datacleaning](https://www.reddit.com/datacleaning)
-- [/datagangsta](https://www.reddit.com/datagangsta)
-- [/dataisbeautiful](https://www.reddit.com/dataisbeautiful)
-- [/dataisugly](https://www.reddit.com/dataisugly)
-- [/datasets](https://www.reddit.com/datasets)
-- [/dataviz](https://www.reddit.com/dataviz)
-- [/JupyterNotebooks](https://www.reddit.com/JupyterNotebooks)
-- [/opendata](https://www.reddit.com/opendata)
+- [/analyzit](https://www.reddit.com/r/analyzit)
+- [/datascience](https://www.reddit.com/r/datascience)
+- [/datacleaning](https://www.reddit.com/r/datacleaning)
+- [/datagangsta](https://www.reddit.com/r/datagangsta)
+- [/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful)
+- [/dataisugly](https://www.reddit.com/r/dataisugly)
+- [/datasets](https://www.reddit.com/r/datasets)
+- [/dataviz](https://www.reddit.com/r/dataviz)
+- [/JupyterNotebooks](https://www.reddit.com/r/JupyterNotebooks)
+- [/opendata](https://www.reddit.com/r/opendata)
 
 
 ## Социальные сети и аналогичные каналы

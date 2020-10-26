@@ -30,8 +30,11 @@
 - [/opendata](https://www.reddit.com/r/opendata)
 
 
-## Социальные сети и аналогичные каналы
+## Блокноты Jupyter
+- 🌟 [Jupyter Notebook: галерея блокнотов по ML и Data Science](https://proglib.io/p/jupyter-notebook-best) ([ист.](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks))
 
+
+## Социальные сети и аналогичные каналы
 ### Slack
 - [Open Data Science](http://ods.ai) – то, с чего вообще стоит начинать
 - [Slack Томской группы по ML](https://tomskml.slack.com/) ([анкета для регистрации](https://docs.google.com/forms/d/e/1FAIpQLSdYpgm7T80JpyBPt6NMgRP_4jne7v_qaGFjy8wDrS4fNajMDA/viewform?c=0&w=1))
@@ -53,3 +56,7 @@
 
 ### Facebook
 - [ML-тренировки в Москве](https://www.facebook.com/groups/1413405125598651/)
+
+### ▶️ YouTube и другие видеоплатформы
+- [30 YouTube-каналов и плейлистов о Data Science](https://proglib.io/p/30-youtube-kanalov-i-pleylistov-o-data-science-2020-06-17)
+- [7 лучших видео TED по тематике Data Science](https://proglib.io/p/7-luchshih-video-ted-po-tematike-data-science-2020-01-20) ([ист.](https://towardsdatascience.com/best-ted-talks-for-data-science-11b699544f))

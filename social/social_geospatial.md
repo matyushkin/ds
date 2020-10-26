@@ -1,0 +1,9 @@
+# Публикации по геоданным
+
+## Визуализация
+- [Визуализация результатов выборов в Москве на карте в Jupyter Notebook](https://habr.com/ru/company/ods/blog/338554/)
+
+## Проекции
+- [https://xkcd.com/977/](https://xkcd.com/977/)
+- [Ликбез по картографическим проекциям с картинками](https://habr.com/ru/post/235283/)
+- [YouTube-ролик о типах проекций разъясняющий типы проекций](http://www.youtube.com/watch?v=2lR7s1Y6Zig#t=305)

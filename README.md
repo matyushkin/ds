@@ -11,4 +11,4 @@
 Обработка естественного языка | [Курсы по обработке естественного языка](courses/courses_nlp.md) | [Книги по обработке естественного языка](books/books_nlp.md) | [Данные по филологии и лингвистике](data/data_nlp.md) | [Источники, посвященные вопросам обработки естественного языка](social/social_nlp.md) | +
 Анализ финансовых данных | + | + | [Открытые источники и базы данных с экономической и правовой информацией](data/data_finance.md) | + | +
 Big Data | [Курсы по Big Data](courses/courses_big_data.md) | +  | + | [Источники, посвященные Big Data](social/social_data_science.md) | +
-Геоданные | + | [Книги по обработке геоданных](books/books_geospatial.md) | [Источники геоданных](data/data_geospatial.md) | [Публикации, посвященные геоданным](social/social_geospatial.md) | [Библиотеки для работы с геоданными](software/software_geospatial.md)
+Геоданные | [Курсы по анализу геоданных](courses/courses_geospatial.md) | [Книги по обработке геоданных](books/books_geospatial.md) | [Источники геоданных](data/data_geospatial.md) | [Публикации, посвященные геоданным](social/social_geospatial.md) | [Библиотеки для работы с геоданными](software/software_geospatial.md)

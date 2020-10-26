@@ -1,7 +1,14 @@
 # Лингвистические и филологические данные
 - [Национальный корпус русского языка](https://ruscorpora.ru/), [другие корпусы](https://ruscorpora.ru/new/corpora-other.html)
 
+## Параллельные корпуса 
+- [Europarl](https://www.statmt.org/europarl/)  
+- [UN Corpus](https://conferences.unite.un.org/UNCorpus/)  
+- [Opus](http://opus.nlpl.eu/) 
+
 ## Международные базы данных, корпусы и датасеты
+- [Brown corpus](http://icame.uib.no/brown/bcm.html) 
+- [Корпуса для английского](https://aclweb.org/aclwiki/Corpora_for_English) 
 - [HotspotQA Dataset](https://hotpotqa.github.io/) – датасет вопросов-ответов
 - [Amazon Reviews](https://snap.stanford.edu/data/web-Amazon.html) – около 35 млн отзывов на Amazon за 18 лет: информация о продукте и пользователе, оценки и сам текст отзыва
 - [Google Books Ngrams](https://aws.amazon.com/ru/datasets/google-books-ngrams/) – коллекция слов из Google Книги

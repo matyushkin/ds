@@ -6,3 +6,7 @@
 
 ## Отдельные статьи
 - 💬 [Голосовой DeepFake, или Как работает технология клонирования голоса](https://proglib.io/p/golosovoy-deepfake-ili-kak-rabotaet-tehnologiya-klonirovaniya-golosa-2019-12-11
+
+### Курсы, лекции, комьюнити 
+- [https://nlpwithfriends.com/](https://nlpwithfriends.com/) – PhD рассказывают о своих проектах / статьях
+ - [NLP Highlights](https://soundcloud.com/nlp-highlights) – подкаст про новые статьи

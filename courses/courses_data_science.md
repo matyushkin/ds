@@ -1,17 +1,39 @@
-# Курсы по общим вопросам Data Science
+## Курсы по общим вопросам Data Science
 
-## Если просто хочется понять, интересно или нет
+### Если просто хочется понять, интересно вам это или нет
 - [Аналитик данных](https://praktikum.yandex.ru/data-analyst) (Яндекс.Практикум, бесплатен первый курс)
 - [Специалист по Data Science](https://praktikum.yandex.ru/data-scientist) (Яндекс.Практикум, бесплатен первый курс)
 
-## Data Science в целом
+### Курсы и специализации по Data Science в целом
 - [Доска в Trello, с разбиением по различным тематикам Data Science](https://trello.com/b/rbpEfMld/data-science)
-
-## Курсы и специализации по Data Science
+- [Введение в Data Science и машинное обучение](https://stepik.org/course/4852) (Stepik ★4.9, Институт Биоинформатики, Анатолий Карпов): pandas, решающие деревья, random forest
+- [Демо KarpovCourses Аналитик данных](https://stepik.org/course/74457) (Stepik ★4.9, Анатолий Карпов и Ко) (первые три урока платного курса, много полезного для понимания сферы)
 - [Материалы специализации на Coursera от МФТИ и Yandex Data Factory Машинное обучение и анализ данных](https://github.com/demidovakatya/mashinnoye-obucheniye/), [другой студенческий репозиторий](https://github.com/Coursera-machine-learning-data-analysis/course-materials)
 
-# SQL
-- [Интерактивный тренажер по SQL на Stepik](https://stepik.org/course/63054) – один из лучших курсов по введению в SQL на практических примерах
+### Курсы по математике для Data Science
 
-# Julia
+#### Всего понемногу
+- [Практикум по математике и Python](https://stepik.org/3356) (Stepik ★4.8, Алексей Задойный)
+- [Компьютерное моделирование](https://stepik.org/61480) (Stepik ★4.5, КНИТУ-КАИ им. А. Н. Туполева)
+
+#### Курсы по статистике
+- [Основы статистики](https://stepik.org/76) (Stepik ★4.9, Институт Биоинформатики, Анатолий Карпов и Ко), [Часть 2](https://stepik.org/course/524), [Часть 3](https://stepik.org/course/2152)
+- [Анализ данных, Stepik](https://stepik.org/57623) (Stepik ★4.9, Кафедра статистики РЭУим.Г.В.Плеханова) – несмотря на название, курс в большей мере посвящен статистике
+
+### Курсы по языкам программирования и другим инструментам Data Science
+#### Python
+- [Программирование на Python](https://stepik.org/67) (Stepik ★4.8, Институт Биоинформатики)
+
+#### R
+- [Анализ данных в R](https://stepik.org/129) (Stepik ★4.9, Институт Биоинформатики, Анатолий Карпов и Ко), [вторая часть](https://stepik.org/course/724/): предобработка данных, статистика, функции семейства apply, dplyr, Data.table, ggplot
+- [Основы программирования на R](https://stepik.org/497) (Stepik ★4.9, Институт Биоинформатики, Антон Антонов) – для тех, кто хочет укрепить свои знания в R
+
+#### Julia
 - [Курс про основы Julia для применения в Data Science проектах](https://github.com/JuliaEvangelists/Julia-in-DS)
+
+### Курсы по базам данных
+#### SQL
+- [Интерактивный тренажер по SQL](https://stepik.org/course/63054) (Stepik ★5.0, ДВФУ)– один из лучших курсов по введению в SQL на практических примерах
+- [Введение в базы данных](https://stepik.org/551) (Stepik, Александр Мяснов, Иван Савин)
+- [Базы данных](https://stepik.org/2614) (Stepik, СПбГУ)
+

@@ -25,4 +25,3 @@
 - [https://www.kaggle.com/mlg-ulb/creditcardfraud](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 - [http://pages.cs.wisc.edu/~jdavis/davisgoadrichcamera2.pdf](http://pages.cs.wisc.edu/~jdavis/davisgoadrichcamera2.pdf)
 - [Презентация Богдана Мельника (ld86) про обучение на несбалансированных выборках](https://ld86.github.io/ml-slides/unbalanced.html#/22)
-- [](https://habr.com/ru/post/349078/)

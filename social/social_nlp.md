@@ -10,3 +10,7 @@
 ### Курсы, лекции, комьюнити 
 - [https://nlpwithfriends.com/](https://nlpwithfriends.com/) – PhD рассказывают о своих проектах / статьях
  - [NLP Highlights](https://soundcloud.com/nlp-highlights) – подкаст про новые статьи
+
+
+### YouTube
+- Записи с ML-соревнований по [обработке естественного языка](https://www.youtube.com/watch?v=XYw0OOnS8GM&list=PLTlO6nV_TaGBEBYaaO5rMl0XCunOzR8S7)

@@ -1,8 +1,10 @@
 # Курсы по нейросетям и глубокому обучению
-
+- [Deep Learning на пальцах](https://www.youtube.com/watch?v=_q46x0tq2FQ&list=PL5FkQ0AF9O_o2Eb5Qn8pwCDg7TniyV1Wb) – курс Семена Козлова, разработчика стартапа Instrumental, бывшего сотрудника Dropbox и Microsoft.
 - [Нейронные сети, Институт биоинформатики, Stepik](https://stepik.org/course/401), [студенческие материалы на GitHub](https://github.com/stacymiller/stepic_neural_networks_public)
 - [Нейронные сети и компьютерное зрение, Samsung Research Russia Open Education](https://stepik.org/course/50352), [студенческие файлы семинаров](https://github.com/smartsinovich/Stepik_NeuralNetworks_and_ComputerVision), [студенческий финальный проект](https://github.com/ValentinKovalev/Samsung-stepik-cv-course-final-task)
 - [Нейронные сети и обработка текста, Samsung Research Russia Open Education, Stepik ★4.6](https://stepik.org/course/54098), [материалы курса на GitHub](https://github.com/Samsung-IT-Academy/stepik-dl-nlp)
 - [Deep Learning (семестр 1, весна 2020): базовый поток, Stepik](https://stepik.org/course/65388/)
 - [Материалы летней школы по глубокому обучению](https://github.com/olferuk/MLSummerSchool) (в форме презентаций и блокнотов Jupyter)
 - [Курс "Современные методы машинного обучения" ВШЭ](https://github.com/hse-ds/iad-deep-learning) (блокноты Jupyter)
+- [Видеокурс о генеративно-состязательных нейросетях](https://www.youtube.com/watch?v=SlJgPIOlpiI&list=PL-_cKNuVAYAVA2LtnKTukF6nKGnXhk0OB) (YouTube, Лекториум)
+- [Курс MIT по Deep Learning](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) под руководством Александра Амини содержит 30 часовых лекций об архитектурах нейронных сетей и их ограничениях

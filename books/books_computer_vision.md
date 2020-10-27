@@ -1,2 +1,10 @@
-# Книги по компьютерному зрению
-- [Programming Computer Vision with Python](http://programmingcomputervision.com/)
+## Книги по компьютерному зрению
+- Jan Erik Solem. [Programming Computer Vision with Python](http://programmingcomputervision.com/). На русском издана под названием Программирование компьютерного зрения на языке Python
+- Николенко С., Кадурин А., Архангельская Е. Глубокое обучение. Погружение в мир нейронных сетей
+- Обработка изображений с помощью OpenCV
+- Понс, Форсайт Компьютерное зрение
+- Гонсалес Р. Вудс Р. Цифровая Обработка Изображения
+- Richard Szeliski, Computer Vision: Algorithms and Applications
+
+### Книги по компьютерному зрению для Java-программистов
+- OpenCV и Java. Обработка изображений и компьютерное зрение

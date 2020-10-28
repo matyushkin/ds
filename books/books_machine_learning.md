@@ -1,5 +1,9 @@
 # Книги по статистике машинному обучению
 ## Статистика
+- ["Вводная статистика" Дугласа Шейфера (Douglas Shafer) и соавт. (Saylor
+Foundation)](https://open.umn.edu/opentextbooks/textbooks/introductory-statistics) – преимущество: большое количество примеров и иллюстраций
+- ["OnlineStatBook" Дэвида Лэйна (David Lane), Rice University](http://onlinestatbook.com/)
+- ["Вводная статистика", колледж OpenStax](https://openstax.org/details/introductory-statistics)
 - Брюс П., Брюс Э. Практическая статистика для специалистов Data Science 
 - Katharine Alexis Kormanik. Statistics Fundamentals Succinctly – введение в статистику с практической точки зрения.
 

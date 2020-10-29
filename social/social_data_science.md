@@ -32,6 +32,7 @@
 
 ### Блокноты Jupyter
 - 🌟 [Jupyter Notebook: галерея блокнотов по ML и Data Science](https://proglib.io/p/jupyter-notebook-best) ([ист.](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks))
+- [Добавляем в Jupyter Notebooks красоту и интерактивность](https://habr.com/ru/post/485318/) (Хабр, OvkHabr)
 
 ### Slack
 - [Open Data Science](http://ods.ai) – то, с чего вообще стоит начинать – самое крупное мировое сообщество 

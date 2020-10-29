@@ -7,6 +7,7 @@
 - [Opus](http://opus.nlpl.eu/) 
 
 ## Международные базы данных, корпусы и датасеты
+- [NLPub](https://nlpub.ru/) – каталог ресурсов для обработки естественного языка
 - [Brown corpus](http://icame.uib.no/brown/bcm.html) 
 - [Корпуса для английского](https://aclweb.org/aclwiki/Corpora_for_English) 
 - [HotspotQA Dataset](https://hotpotqa.github.io/) – датасет вопросов-ответов

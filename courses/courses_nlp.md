@@ -3,3 +3,4 @@
 - [Нейронные сети и обработка текста](https://stepik.org/course/54098)  (Stepik, ★4.6), [материалы курса на GitHub](https://github.com/Samsung-IT-Academy/stepik-dl-nlp)
 [Stanford NLP course](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
 - [Материалы курса по глубокому обучению в обработке естественных языков для магистров компьютерной лингвистики ВШЭ](https://github.com/BobaZooba/HSE-Deep-Learning-in-NLP-Course)
+-  [Kaggle: Natural Language Processing](https://www.kaggle.com/learn/natural-language-processing)

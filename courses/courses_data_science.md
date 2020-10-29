@@ -12,6 +12,8 @@
 - [Материалы специализации на Coursera от МФТИ и Yandex Data Factory Машинное обучение и анализ данных](https://github.com/demidovakatya/mashinnoye-obucheniye/), [другой студенческий репозиторий](https://github.com/Coursera-machine-learning-data-analysis/course-materials)
 - Cognitive Class: курсы по [статистике](https://www.youtube.com/watch?v=7rKQBKQOIQw&list=PL-XeOa5hMEYxprJm93wFRM49E5V0ffsfY), [построению чат-ботов](https://www.youtube.com/watch?v=6_l9Zxt4UL4&list=PL-XeOa5hMEYwOlGWMx-uVUpcKeJRggiv5), [Data Science](https://www.youtube.com/watch?v=z1kPKBdYks4&list=PL-XeOa5hMEYz5U0wAu1EvOuG-ndOEoaQr), [методологии науки о данных](https://www.youtube.com/watch?v=gE6Ya-8OB78&list=PL-XeOa5hMEYzF11WYSfDnaiSJIFY5zttH), глубокому обучению с [TensorFlow](https://www.youtube.com/watch?v=MrijcdNl_U4&list=PL-XeOa5hMEYxNzHM7YLRjIwE1k3VQpqEh), [PytTorch](https://www.youtube.com/watch?v=AIVtAiK7Thc&list=PL-XeOa5hMEYw3O0nbqiPagDnWaMSvd-Y0) и [Keras](https://www.youtube.com/watch?v=X1NkMZ5euFw&list=PL-XeOa5hMEYzE-0Om7as8e5dJmSTAS2tm)
 -  [Data Science Tutorials](https://www.youtube.com/channel/UCk5tiFqPvdjsl7yT4mmokmg/playlists) -- небольшие занятия-инструкции по языкам Python, R и их библиотекам
+- [Kaggle: Pandas](https://www.kaggle.com/learn/pandas)
+- [Kaggle: Data Cleaning](https://www.kaggle.com/learn/data-cleaning)
 
 ### Курсы по математике для Data Science
 
@@ -39,4 +41,8 @@
 - [Интерактивный тренажер по SQL](https://stepik.org/course/63054) (Stepik ★5.0, ДВФУ)– один из лучших курсов по введению в SQL на практических примерах
 - [Введение в базы данных](https://stepik.org/551) (Stepik, Александр Мяснов, Иван Савин)
 - [Базы данных](https://stepik.org/2614) (Stepik, СПбГУ)
+- [Kaggle: Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
+- [Kaggle: Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
 
+### Курсы по визуализации данных
+-  [Kaggle: Data Visualization](https://www.kaggle.com/learn/data-visualization)

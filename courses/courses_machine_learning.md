@@ -19,3 +19,8 @@
 -  [Курс о коммуникационной сложности](https://www.youtube.com/watch?v=-s3kucJIawo&list=PL-_cKNuVAYAUhvlUfW7P2cdhWCRDWs0pG) (YouTube, Лекториум)
 -  Лекции Евгения Соколова о [рекомендательных системах](https://www.youtube.com/watch?v=ZyRJ9EMWztg&list=PL-_cKNuVAYAWkYunGd6zKk7UxmExS-GHl)
 -  Лекции Александра Дайняка о [математических методах визуализации данных](https://www.youtube.com/watch?v=qhNkjC_Yjag&list=PL-_cKNuVAYAXCa4FxPy9oi3_76gjSqacM)
+-  [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+-  [Kaggle: Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+-  [Kaggle: Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)
+-  [Kaggle: Microchallenges](https://www.kaggle.com/learn/microchallenges)
+-  [Kaggle: Feature Engineering](https://www.kaggle.com/learn/feature-engineering)

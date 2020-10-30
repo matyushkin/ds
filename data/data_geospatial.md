@@ -11,6 +11,7 @@
 - [Открытый геопространственный консорциум](https://www.ogc.org/) – организация, которая занимается стандартизацией протоколов совместного использования и хранения геоданных: GML, KML, GeoRSS и др.
 - [Набор данных государственных границ](http://thematicmapping.org/downloads/world_borders.php)
 - Набор данных [Blue Marble Next Generation] – синтезированные NASA безоблачные снимки земной поверхности 
+- Данные съёмок SRTM --- [srtm.csi.cgiar.org](http://srtm.csi.cgiar.org/). [Что это такое](http://gis-lab.info/qa/srtm.html)
 
 ## Проекции
 - [Сводная таблица по картографическим проекциям](http://www.radicalcartography.net/?projectionref)

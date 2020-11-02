@@ -17,15 +17,16 @@
 ### Открытые данные отдельных городов и регионов России
 - [Портал открытых данных правительства Москвы](https://data.mos.ru/)
 - [Открытые данные Санкт-Петербурга](https://data.gov.spb.ru/)
+- [Каталог государственных сайтов Санкт-Петербурга](https://esir.gov.spb.ru/)
 - [Портал открытых данных г. Тулы](http://opendata71.ru)
-- Портал открытых данных г. Казани http://data.kzn.ru/
-- Портал открытых данных Пермского края http://opendata.permkrai.ru/opendata/
-- Портал открытых данных Вологодской области http://opendata.gov35.ru/
-- Портал открытых данных Ульяновской области http://data.ulgov.ru/
-- Портал открытых данных Ярославской области http://www.yarregion.ru/opendata/default.aspx
-- Портал открытых данных Республики Тыва http://www.opentuva.ru/
-- Портал открытых данных г. Зеленограда http://www.zelao.ru/opendata/
-- Раздел открытых данных на портале администрации Тюменской области https://www.admtyumen.ru/ogv_ru/gov/open-gov/opendata.htm
+- [Портал открытых данных г. Казани(http://data.kzn.ru/
+- [Портал открытых данных Пермского края](http://opendata.permkrai.ru/opendata/)
+- [Портал открытых данных Вологодской области](http://opendata.gov35.ru/)
+- [Портал открытых данных Ульяновской области](http://data.ulgov.ru/)
+- [Портал открытых данных Ярославской области](http://www.yarregion.ru/opendata/default.aspx)
+- [Портал открытых данных Республики Тыва](http://www.opentuva.ru/)
+- [Портал открытых данных г. Зеленограда](http://www.zelao.ru/opendata/)
+- [Раздел открытых данных на портале администрации Тюменской области]( https://www.admtyumen.ru/ogv_ru/gov/open-gov/opendata.htm)
 - Раздел открытых данных на портале администрации Волгоградской области http://old.volganet.ru/files/opendata/
 - Раздел открытых данных на портале администрации Томской области http://tomsk.gov.ru/ru/otkrytyy-region/otkrytye-dannye/otkrytye-dannye-tomskoy-oblasti/
 - Раздел открытых данных на портале администрации Ставропольского края http://www.stavregion.ru/open/otkrytye-dannye/

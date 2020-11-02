@@ -1,4 +1,4 @@
-# Курсы по нейросетям и глубокому обучению
+## Курсы по нейросетям и глубокому обучению
 - [Deep Learning на пальцах](https://www.youtube.com/watch?v=_q46x0tq2FQ&list=PL5FkQ0AF9O_o2Eb5Qn8pwCDg7TniyV1Wb) – курс Семена Козлова, разработчика стартапа Instrumental, бывшего сотрудника Dropbox и Microsoft.
 - [Нейронные сети, Институт биоинформатики, Stepik](https://stepik.org/course/401), [студенческие материалы на GitHub](https://github.com/stacymiller/stepic_neural_networks_public)
 - [Нейронные сети и компьютерное зрение, Samsung Research Russia Open Education](https://stepik.org/course/50352), [студенческие файлы семинаров](https://github.com/smartsinovich/Stepik_NeuralNetworks_and_ComputerVision), [студенческий финальный проект](https://github.com/ValentinKovalev/Samsung-stepik-cv-course-final-task)

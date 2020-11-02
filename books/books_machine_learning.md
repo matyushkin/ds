@@ -1,5 +1,5 @@
-# Книги по статистике машинному обучению
-## Статистика
+## Книги по статистике машинному обучению
+### Статистика
 - ["Вводная статистика" Дугласа Шейфера (Douglas Shafer) и соавт. (Saylor
 Foundation)](https://open.umn.edu/opentextbooks/textbooks/introductory-statistics) – преимущество: большое количество примеров и иллюстраций
 - ["OnlineStatBook" Дэвида Лэйна (David Lane), Rice University](http://onlinestatbook.com/)
@@ -7,7 +7,7 @@ Foundation)](https://open.umn.edu/opentextbooks/textbooks/introductory-statistic
 - Брюс П., Брюс Э. Практическая статистика для специалистов Data Science 
 - Katharine Alexis Kormanik. Statistics Fundamentals Succinctly – введение в статистику с практической точки зрения.
 
-## Машинное обучение
+### Машинное обучение
 - [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) – прекрасный вводный курс в машинное обучение Hal Daume III (PDF)
 - Hastie, Tibshirani, Friedman. The elements of statistical learning — классический способ начать знакомиться с машинным обучением, если вас не пугает математика
 - [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage) – качественный, прекрасно оформленный и регулярно обновляемый курс David Barber

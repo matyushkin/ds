@@ -1,12 +1,12 @@
-# Лингвистические и филологические данные
+## Лингвистические и филологические данные
 - [Национальный корпус русского языка](https://ruscorpora.ru/), [другие корпусы](https://ruscorpora.ru/new/corpora-other.html)
 
-## Параллельные корпуса 
+### Параллельные корпуса 
 - [Europarl](https://www.statmt.org/europarl/)  
 - [UN Corpus](https://conferences.unite.un.org/UNCorpus/)  
 - [Opus](http://opus.nlpl.eu/) 
 
-## Международные базы данных, корпусы и датасеты
+### Международные базы данных, корпусы и датасеты
 - [NLPub](https://nlpub.ru/) – каталог ресурсов для обработки естественного языка
 - [Brown corpus](http://icame.uib.no/brown/bcm.html) 
 - [Корпуса для английского](https://aclweb.org/aclwiki/Corpora_for_English) 

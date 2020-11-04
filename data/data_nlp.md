@@ -22,3 +22,25 @@
 - [SMS Spam Collection in English](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/) – 5574 спам-смс на английском
 - [Yelp Reviews](https://www.yelp.com/dataset) – датасет от Yelp из 5 млн отзывов
 - [UCI’s Spambase](https://archive.ics.uci.edu/ml/datasets/Spambase) – датасет спам-писем
+
+### Анализ тональности текста
+- [Multidomain sentiment analysis dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/). Немного устаревший датасет, который содержит отзывы на товары с Amazon.
+- [IMDB reviews](http://ai.stanford.edu/~amaas/data/sentiment/). Староватый, относительной небольшой (25 000 отзывов к фильмам) датасет для бинарного анализа тональности.
+- [Stanford Sentiment Treebank](http://nlp.stanford.edu/sentiment/code.html). Стэнфордский датасет для анализа тональности.
+- [Sentiment140](http://help.sentiment140.com/for-students/). Популярный датасет с 160 000 твитов с удалёнными смайликами.
+- [Twitter US Airline Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment). Набор данных из Twitter об авиакомпаниях США, датируемый февралём 2015 года, разделённый на положительные, негативные и нейтральные твиты.
+
+### Обработка естественного языка
+- [HotspotQA Dataset](https://hotpotqa.github.io/). Датасет с вопросами-ответами, позволяющий создавать системы для ответов на вопросы более понятным способом.
+- [Enron Dataset](https://www.cs.cmu.edu/~./enron/). Данные электронной почты от высшего руководства Enron.
+- [Amazon Reviews](https://snap.stanford.edu/data/web-Amazon.html). Содержит около 35 млн отзывов с Amazon за 18 лет. Данные включают информацию о продукте и пользователе, оценки и сам текст отзыва.
+- [Google Books Ngrams](https://aws.amazon.com/ru/datasets/google-books-ngrams/). Коллекция слов из Google Книги.
+- [Blogger Corpus](http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm). Коллекция из 681 288 постов с Blogger. Каждый блог содержит как минимум 200 вхождений часто используемых английских слов.
+- [Wikipedia Links data](https://code.google.com/archive/p/wiki-links/downloads). Датасет, состоящий из веб-страниц, которые удовлетворяют следующим двум условиям: каждая из них содержит хотя бы одну ссылку на Википедию и текст её якоря совпадает или похож на заголовок целевой страницы.
+- [Gutenberg eBooks List](https://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs). Аннотированный список электронных книг проекта «Гутенберг».
+- [Hansards text chunks of Canadian Parliament](https://www.isi.edu/natural-language/download/hansard/). Датасет с 1.3 миллионами пар текстовых файлов, записанных с дебатов 36-го Канадского Парламента.
+- [Jeopardy](https://www.reddit.com/r/datasets/comments/1uyd0t/200000_jeopardy_questions_in_a_json_file/). Архив с более чем 200 000 вопросов с телевикторины Jeopardy.
+- [Rotten Tomatoes Reviews](https://drive.google.com/file/d/1w1TsJB-gmIkZ28d1j7sf1sqcPmHXw352/view). Архив из более чем 480 000 рецензий с Rotten Tomatoes.
+- [SMS Spam Collection in English](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/). Датасет, состоящий из 5574 спам-смс на английском.
+- [Yelp Reviews](https://www.yelp.com/dataset). Датасет от Yelp, содержащий более 5 млн отзывов.
+- [UCI's Spambase](https://archive.ics.uci.edu/ml/datasets/Spambase). Большой датасет спам-писем.

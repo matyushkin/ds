@@ -5,7 +5,7 @@
 - [/textdatamining](https://www.reddit.com/r/textdatamining)
 
 ### Отдельные статьи
-- 💬 [Голосовой DeepFake, или Как работает технология клонирования голоса](https://proglib.io/p/golosovoy-deepfake-ili-kak-rabotaet-tehnologiya-klonirovaniya-golosa-2019-12-11
+- 💬 [Голосовой DeepFake, или Как работает технология клонирования голоса](https://proglib.io/p/golosovoy-deepfake-ili-kak-rabotaet-tehnologiya-klonirovaniya-golosa-2019-12
 
 ### Сообщество
 - [https://nlpwithfriends.com/](https://nlpwithfriends.com/) – PhD рассказывают о своих проектах / статьях

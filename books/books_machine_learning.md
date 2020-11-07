@@ -21,3 +21,4 @@ Foundation)](https://open.umn.edu/opentextbooks/textbooks/introductory-statistic
 - Harrington. Machine Learning in Action — базовое знакомство с методами машинного обучения, без перегрузки математическими деталями
 - Marshland. Machine Learning: An Algorithmic Perspective — приводятся и объясняются реализации разных методов машинного обучения на Python
 - Шай Бен-Давид и Шай Шалев-Шварц. Understanding Machine Learning: From Theory to Algorithms
+- Machine Learning Refined Foundations, Algorithms, and Applications by Jeremy Watt Reza Borhani Aggelos Katsaggelos

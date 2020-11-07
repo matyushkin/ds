@@ -5,6 +5,7 @@
 - Goldberg Y. Neural Network Methods for Natural Language Processing
 - Natural Language Processing in Action: Understanding, analyzing, and generating text with Python
 - Mihalcea R., Radev D. Graph-based Natural Language Processing and Information Retrieval
+- Dipanjan Sarkar. Text Analytics with Python A Practitioners Guide to Natural Language Processing
 - Natural Language Processing for Online Applications: Text Retrieval, Extraction and Categorization (Dr. Peter Jackson, Isabelle Moulinier)
 - Foundations of Statistical Natural Language Processing (Christopher D. Manning, Hinrich Schütze)
 - [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html)

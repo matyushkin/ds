@@ -27,6 +27,9 @@
 - Toomey D. Jupyter for Data Science
 - High Performance Python: Practical Performant Programming for Humans
 Micha Gorelick, Ian Ozsvald – объясняется работа интерпретатора и механик кода, способов взаимодействия с памятью
+- Andriy Burkov. The Hundred-Page Machine Learning Book
+- Aurelien Geron. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow
+- Python Machine Learning. Third edition: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2. Packt. 2019
 
 #### Учебники по R
 - [Advanced R](http://adv-r.had.co.nz/)

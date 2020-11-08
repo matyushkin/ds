@@ -16,6 +16,7 @@ Foundation)](https://open.umn.edu/opentextbooks/textbooks/introductory-statistic
 - [Introduction to Machine Learning](https://arxiv.org/abs/0904.3664v1) – конспект лекций по машинному обучению Амнона Шашуа (Amnon Shashua), охватывающий темы статистического вывода
 - [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/) – книга 1994 г. Michie, Spiegelhalter, Taylor, основана на проекте StatLog ЕС (ESPRIT), в котором сравниваются и оцениваются методы классификации с оценкой их достоинств, недостатков и диапазонов применения
 - [The Elements of Statistical Learning](https://web.archive.org/web/20131027220938/http://www-stat.stanford.edu/~tibs/ElemStatLearn//)
+- Mastering Machine Learning Algorithms, Second Edition
 - Murphy. Machine learning a probabilistic perspective — очень объемная и содержательная книга из MIT (~1000 страниц), освещена большая часть мейнстримовых методов машинного обучения
 - Richert, Coelho. Building Machine Learning Systems with Python — доступное изложение задач машинного обучения (анализ изображений, текстов, звука) с описанием того, как это сделать в Python
 - Harrington. Machine Learning in Action — базовое знакомство с методами машинного обучения, без перегрузки математическими деталями

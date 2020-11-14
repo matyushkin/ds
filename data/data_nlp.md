@@ -23,12 +23,6 @@
 - [Yelp Reviews](https://www.yelp.com/dataset) – датасет от Yelp из 5 млн отзывов
 - [UCI’s Spambase](https://archive.ics.uci.edu/ml/datasets/Spambase) – датасет спам-писем
 
-### Анализ тональности текста
-- [Multidomain sentiment analysis dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/). Немного устаревший датасет, который содержит отзывы на товары с Amazon.
-- [IMDB reviews](http://ai.stanford.edu/~amaas/data/sentiment/). Староватый, относительной небольшой (25 000 отзывов к фильмам) датасет для бинарного анализа тональности.
-- [Stanford Sentiment Treebank](http://nlp.stanford.edu/sentiment/code.html). Стэнфордский датасет для анализа тональности.
-- [Sentiment140](http://help.sentiment140.com/for-students/). Популярный датасет с 160 000 твитов с удалёнными смайликами.
-- [Twitter US Airline Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment). Набор данных из Twitter об авиакомпаниях США, датируемый февралём 2015 года, разделённый на положительные, негативные и нейтральные твиты.
 
 ### Обработка естественного языка
 - [HotspotQA Dataset](https://hotpotqa.github.io/). Датасет с вопросами-ответами, позволяющий создавать системы для ответов на вопросы более понятным способом.
@@ -44,3 +38,12 @@
 - [SMS Spam Collection in English](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/). Датасет, состоящий из 5574 спам-смс на английском.
 - [Yelp Reviews](https://www.yelp.com/dataset). Датасет от Yelp, содержащий более 5 млн отзывов.
 - [UCI's Spambase](https://archive.ics.uci.edu/ml/datasets/Spambase). Большой датасет спам-писем.
+
+### Анализ тональности текста
+- [Multidomain sentiment analysis dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/). Немного устаревший датасет, который содержит отзывы на товары с Amazon.
+- [IMDB reviews](http://ai.stanford.edu/~amaas/data/sentiment/). Староватый, относительной небольшой (25 000 отзывов к фильмам) датасет для бинарного анализа тональности.
+- [Stanford Sentiment Treebank](http://nlp.stanford.edu/sentiment/code.html). Стэнфордский датасет для анализа тональности.
+- [Sentiment140](http://help.sentiment140.com/for-students/). Популярный датасет с 160 000 твитов с удалёнными смайликами.
+- [Twitter US Airline Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment). Набор данных из Twitter об авиакомпаниях США, датируемый февралём 2015 года, разделённый на положительные, негативные и нейтральные твиты.
+- [WordNet-Affect](https://wndomains.fbk.eu/wnaffect.html) – семантический тезаурус, в котором понятия, связанные с эмоциями («эмоциональные концепты», англ. «affective concepts»), представлены с помощью слов, обладающих эмоциональной составляющей («эмоциональные слова», англ. «affective words») ([вики](https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0#%D0%A1%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%82%D0%B5%D0%B7%D0%B0%D1%83%D1%80%D1%83%D1%81%D1%8B))
+- [SenticNet](https://sentic.net/) – семантический тезаурус для работы с наборами эмоциональных понятий ([вики](https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%82%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8_%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0#%D0%A1%D0%B5%D0%BC%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%82%D0%B5%D0%B7%D0%B0%D1%83%D1%80%D1%83%D1%81%D1%8B))

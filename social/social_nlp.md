@@ -7,6 +7,11 @@
 ### Отдельные статьи
 - 💬 [Голосовой DeepFake, или Как работает технология клонирования голоса](https://proglib.io/p/golosovoy-deepfake-ili-kak-rabotaet-tehnologiya-klonirovaniya-golosa-2019-12
 
+
+### Блокноты Jupyter
+- [Анализ эмоциональной окраски текста с помощью spaCy на основе отзывов IMDB](https://github.com/matyushkin/lessons/blob/master/nlp/sentiment_analysis.ipynb) ([в форме статьи](https://proglib.io/p/lyublyu-i-nenavizhu-analiz-emocionalnoy-okraski-teksta-s-pomoshchyu-python-2020-11-13))
+
+
 ### Сообщество
 - [https://nlpwithfriends.com/](https://nlpwithfriends.com/) – PhD рассказывают о своих проектах / статьях
  - [NLP Highlights](https://soundcloud.com/nlp-highlights) – подкаст про новые статьи

@@ -40,10 +40,16 @@
 
 ### Telegram-каналы о Data Science
 - [Новостной канал Open Data Science](https://t.me/opendatascience)
+- [ODS Ru](https://t.me/ods_ru) – другой канал, в основном информация о мероприятиях
 - [Чат по большим данным, обработке и машинному обучению](https://t.me/bigdata_ru)
 - [Чат по Data Science](https://t.me/datasciencechat)
-- - [Spark in me: Internet, statistics, data science, philosophy](https://t.me/snakers4), [чат канала](https://t.me/joinchat/AAAAAEH9JHYBvaPLvaWPGg)
+- [Spark in me: Internet, statistics, data science, philosophy](https://t.me/snakers4), [чат канала](https://t.me/joinchat/AAAAAEH9JHYBvaPLvaWPGg)
 - [Канал с постами с Reddit на DS-тематику](https://t.me/datascientology)
+- [Библиотека Data Scientist (proglib)](https://t.me/dsproglib)
+- [Чат ODS Pet Projects](https://t.me/ods_pet_projects)
+- [Denis Sexy IT](https://t.me/denissexy) – о нейронных сетях, виртуальной реальности и технологиях – простым языком
+- [Machine Learning](https://t.me/ai_machinelearning_big_data) – преимущественно статьи и ссылки на репозитории
+- [ML p(r)ior](https://t.me/mlprior) – новости из мира ИИ
 
 ### VK-группы о Data Science
 - [Data Science](https://vk.com/datascience)

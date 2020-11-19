@@ -52,12 +52,18 @@
 - [ML p(r)ior](https://t.me/mlprior) – новости из мира ИИ
 
 ### VK-группы о Data Science
-- [Data Science](https://vk.com/datascience)
 - [Data Mining Labs](https://vk.com/datamininglabs)
 - [Группа вк про тренировки по машинному обучению](https://vk.com/mltrainings)
 - [Томская группа по машинному обучению](https://vk.com/tomskml)
 - [Мемы про машинное обучение для юных леди](https://vk.com/weirdreparametrizationtrick)
-- [Python, Data Science, нейросети, ИИ](https://vk.com/python_ds)
+- [Машинное обучение, AI, нейронные сети, Big Data](https://vk.com/mashinnoe_obuchenie_ai_big_data)
+- [Группа со ссылками на статьи ArXiv](https://vk.com/datascience_ai)
+- [Cсылки на статьи и новости](https://vk.com/datascience)
+- [Группа слушателей онлайн-курсов Института биоинформатики](https://vk.com/introstats)
+- [Python, Data Science, нейросети, ИИ](https://vk.com/python_ds) --- группа автора этой подборки
+- [Deep Learning School](https://vk.com/dlschool_mipt) --- Глубокое обучение от Физтех-школы Прикладной Математики и Информатики МФТИ (ГУ)
+- [Deep Learning](https://vk.com/deeplearning)
+- [Neurohive](https://vk.com/neurohive) --- новости из мира Data Science и Machine Learning
 
 ### Facebook-страницы по Data Science
 - [ML-тренировки в Москве](https://www.facebook.com/groups/1413405125598651/)

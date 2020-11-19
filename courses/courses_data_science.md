@@ -46,3 +46,7 @@
 
 ### Курсы по визуализации данных
 -  [Kaggle: Data Visualization](https://www.kaggle.com/learn/data-visualization)
+
+### Разделы с научными статьями на arXiv.org
+- cs.AI - Artificial Intelligence ([new](https://arxiv.org/list/cs.AI/new), [recent](https://arxiv.org/list/cs.AI/recent), [current month](https://arxiv.org/list/cs.AI/current))
+- cs.DS - Data Structures and Algorithms([new](https://arxiv.org/list/cs.DS/new), [recent](https://arxiv.org/list/cs.DS/recent), [current month](https://arxiv.org/list/cs.DS/current))

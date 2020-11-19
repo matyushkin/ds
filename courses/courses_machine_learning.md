@@ -24,3 +24,7 @@
 -  [Kaggle: Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)
 -  [Kaggle: Microchallenges](https://www.kaggle.com/learn/microchallenges)
 -  [Kaggle: Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
+
+### Разделы с научными статьями на arXiv.org
+- cs.LG - Machine Learning: ([new](https://arxiv.org/list/cs.LG/new), [recent](https://arxiv.org/list/cs.LG/recent), [current month](https://arxiv.org/list/cs.LG/current))
+- [stat.ML](https://arxiv.org/list/stat.ML/recent)

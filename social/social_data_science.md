@@ -88,3 +88,8 @@
 - На канале популярного питониста-обзорщика [sentdex](https://www.youtube.com/user/sentdex/playlists) есть плейлисты о [машинном обучении с использованием Python](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v), [нейронных сетях с нуля на Python](https://www.youtube.com/watch?v=Wo5dMEP_BbI&list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3), [глубоком обучении с TensorFlow и Keras](https://www.youtube.com/watch?v=wQ8BIBpya2k&list=PLQVvvaa0QuDfhTox0AjmQ6tvTgMBZBEXN), [распознавании лиц](https://www.youtube.com/watch?v=535acCxjHCI&list=PLQVvvaa0QuDcDqgpLLJJM15NpIGNfrKY5)
 - [DeepMind](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/playlists) -- канал британской компании, занимающейся искусственным интеллектом, содержит качественные лекции по различным аспектам глубокого обучения
 - [Springboard](https://www.youtube.com/channel/UCqd6TofKNjqagInm5Waeu7w) публикует [интервью с дата-сайентистами из топовых компаний](https://www.youtube.com/watch?v=qdjR9eAuHDw&list=PLjKxfZpleE6AffdA6XkPZItzcRH7HPqq4)
+- [Karpov.Courses](https://www.youtube.com/channel/UCiZtj9HjyudBwC2TywG0GzQ/videos) – интервью с представителями русскогоязычного Data Science
+
+
+### Twitter
+- [Мой список для чтения](https://twitter.com/i/lists/1333460025780658177)

@@ -12,6 +12,7 @@
 pip install spacy
 ```
 - [thinc](https://github.com/explosion/thinc) – легкая библиотека глубокого обучения c API функционального программирования с проверкой типов для создания моделей с поддержкой слоев, определенных в других средах, таких как PyTorch, TensorFlow и MXNet
+- [fastText](https://github.com/facebookresearch/fastText)
 
 ### GPT
 - [GPT-2 with Javascript Interface](https://colab.research.google.com/github/gpt2ent/gpt2colab-js/blob/master/GPT2_with_Javascript_interface_POC.ipynb)

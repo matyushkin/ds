@@ -13,6 +13,9 @@
 - [Bokeh](https://bokeh.org/) – визуализация данных для веба
 - [Plotly](https://plotly.com/python/) – онлайн-инструмент интерактивной визуализации данных на серверной стороне (публикация в интернете)
 
+### Контроль версий
+- [DVC](https://dvc.org/): [туториал на русском](https://proglib.io/p/git-dlya-data-science-kontrol-versiy-modeley-i-datasetov-s-pomoshchyu-dvc-2020-12-02)
+
 
 ### Блокноты Jupyter
 - [Practical pandas projects](https://github.com/schlende/practical-pandas-projects) – 5 идей для совершенствования навыков Data Science

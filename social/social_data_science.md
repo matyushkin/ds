@@ -29,6 +29,9 @@
 - [/JupyterNotebooks](https://www.reddit.com/r/JupyterNotebooks)
 - [/opendata](https://www.reddit.com/r/opendata)
 
+### Разделы StackExchange
+- [Data Science](https://datascience.stackexchange.com/)
+- [Cross Validated](https://stats.stackexchange.com/)
 
 ### Блокноты Jupyter
 - 🌟 [Jupyter Notebook: галерея блокнотов по ML и Data Science](https://proglib.io/p/jupyter-notebook-best) ([ист.](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks))

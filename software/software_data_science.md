@@ -12,6 +12,7 @@
 - [Seaborn](https://seaborn.pydata.org/) – базируется на Matplotlib, но оптимизирована под визуализацию задач Data Science
 - [Bokeh](https://bokeh.org/) – визуализация данных для веба
 - [Plotly](https://plotly.com/python/) – онлайн-инструмент интерактивной визуализации данных на серверной стороне (публикация в интернете)
+- [K3D](https://github.com/K3D-tools/K3D-jupyter) – работа с трехмерными графиками и изображениями в Jupyter Notebook
 
 ### Контроль версий
 - [DVC](https://dvc.org/): [туториал на русском](https://proglib.io/p/git-dlya-data-science-kontrol-versiy-modeley-i-datasetov-s-pomoshchyu-dvc-2020-12-02)

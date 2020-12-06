@@ -4,7 +4,7 @@
 
 ## Библиотеки машинное обучения
 - [MLflow](https://github.com/mlflow/mlflow) – платформа для оптимизации разработки приложений машинного обучения, предоставляющая набор облегченных API-интерфейсов к TensorFlow, PyTorch, XGBoost и т. д.
-- [scikit-learn](https://scikit-learn.org/stable/)
+- [scikit-learn](https://scikit-learn.org/stable/) – алгоритмы машинного обучения
 - [xgboost](https://xgboost.readthedocs.io/en/latest/)
 - [statsmodels](https://www.statsmodels.org/stable/index.html)
 - [lightgbm](https://lightgbm.readthedocs.io/en/latest/)

@@ -7,7 +7,6 @@
 - [pymorphy2](https://pymorphy2.readthedocs.io/en/stable/) – морфологический анализатор для русского языка на основе словаря OpenCorpora
 - [ruGPT-3 – вариант Сбербанка](https://github.com/sberbank-ai/ru-gpts) ([статья на Хабре о процессе обучения](https://habr.com/ru/company/sberbank/blog/524522/?fbclid=IwAR2E3gx2MgZggqtMdD_5t7j333tAdz24VJXLxQX1zDqSo5GcYVj89ONV-18))
 
-
 ### Библиотеки и фреймворки
 - [gensim](https://radimrehurek.com/gensim/) библиотека обработки естественного языка предназначения для «тематического моделирования»
 - [NLTK](http://nltk.org/) – пакет библиотек и программ для символьной и статистической обработки естественного языка ([вики](https://ru.wikipedia.org/wiki/Natural_Language_Toolkit))

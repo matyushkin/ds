@@ -6,3 +6,7 @@
 
 ### Telegram
 - [Чат Big Data](https://t.me/bigdata_ru)
+
+### Хабы Habr
+- [Big Data](https://habr.com/ru/hub/bigdata/)
+- [Hadoop](https://habr.com/ru/hub/Hadoop/)

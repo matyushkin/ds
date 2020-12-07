@@ -96,3 +96,14 @@
 
 ### Twitter
 - [Мой список для чтения](https://twitter.com/i/lists/1333460025780658177)
+
+### Хабы Habr
+- [Data Engineering](https://habr.com/ru/hub/data_engineering/) – вопросы сбора и подготовки данных
+- [Машинное обучение](https://habr.com/ru/hub/machine_learning/)
+- [Искусственный интеллект](https://habr.com/ru/hub/artificial_intelligence/)
+- [Data Mining](https://habr.com/ru/hub/data_mining/)
+- [Открытые данные](https://habr.com/ru/hub/opendata/)
+- [Визуализация данных](https://habr.com/ru/hub/data_visualization/)
+- [Хранилища данных](https://habr.com/ru/hub/data_warehouse/)
+- [R](https://habr.com/ru/hub/r/)
+- [Julia](https://habr.com/ru/hub/julia/)

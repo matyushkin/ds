@@ -9,3 +9,5 @@
 - [Видеокурс о генеративно-состязательных нейросетях](https://www.youtube.com/watch?v=SlJgPIOlpiI&list=PL-_cKNuVAYAVA2LtnKTukF6nKGnXhk0OB) (YouTube, Лекториум)
 - [Курс MIT по Deep Learning](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) под руководством Александра Амини содержит 30 часовых лекций об архитектурах нейронных сетей и их ограничениях
 - [Kaggle: Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
+- [Practical RL](https://github.com/yandexdataschool/Practical_RL)
+- [Practical DL](https://github.com/yandexdataschool/Practical_DL)

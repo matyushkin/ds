@@ -24,6 +24,8 @@
 -  [Kaggle: Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)
 -  [Kaggle: Microchallenges](https://www.kaggle.com/learn/microchallenges)
 -  [Kaggle: Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
+- [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml) – курс fast.ai
+- [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course) – курс Google
 
 ### Разделы с научными статьями на arXiv.org
 - cs.LG - Machine Learning: ([new](https://arxiv.org/list/cs.LG/new), [recent](https://arxiv.org/list/cs.LG/recent), [current month](https://arxiv.org/list/cs.LG/current))

@@ -4,7 +4,6 @@
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
 - [Датасеты Kaggle](https://www.kaggle.com/datasets)
 - [Global Open Data Index](https://index.okfn.org/)
-- [Репозиторий UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php) – около 500 датасетов для проверки методов обучения
 
 ### Россия
 - [Российский федеральный портал открытых данных](http://data.gov.ru/)

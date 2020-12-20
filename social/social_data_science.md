@@ -94,7 +94,6 @@
 - [Springboard](https://www.youtube.com/channel/UCqd6TofKNjqagInm5Waeu7w) публикует [интервью с дата-сайентистами из топовых компаний](https://www.youtube.com/watch?v=qdjR9eAuHDw&list=PLjKxfZpleE6AffdA6XkPZItzcRH7HPqq4)
 - [Karpov.Courses](https://www.youtube.com/channel/UCiZtj9HjyudBwC2TywG0GzQ/videos) – интервью с представителями русскогоязычного Data Science
 
-
 ### Twitter
 - [Мой список для чтения](https://twitter.com/i/lists/1333460025780658177)
 
@@ -108,3 +107,6 @@
 - [Хранилища данных](https://habr.com/ru/hub/data_warehouse/)
 - [R](https://habr.com/ru/hub/r/)
 - [Julia](https://habr.com/ru/hub/julia/)
+
+### Сайты с соревнованиями по Data Science
+- [Kaggle](https://www.kaggle.com/)

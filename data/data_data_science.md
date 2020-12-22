@@ -4,6 +4,12 @@
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
 - [Датасеты Kaggle](https://www.kaggle.com/datasets)
 - [Global Open Data Index](https://index.okfn.org/)
+- [наборы данных AWS в Amazon](https://registry.opendata.aws/)
+- [Data Portals](https://dataportals.org/search)
+- [Open Data Monitor](https://www.opendatamonitor.eu/)
+- [Quandl](https://www.quandl.com/) Financial, Economic and Alternative Data
+- [Wikipedia: List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
+- сабреддит [Datasets](https://www.reddit.com/r/datasets/)
 
 ### Россия
 - [Российский федеральный портал открытых данных](http://data.gov.ru/)

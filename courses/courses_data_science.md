@@ -14,6 +14,7 @@
 -  [Data Science Tutorials](https://www.youtube.com/channel/UCk5tiFqPvdjsl7yT4mmokmg/playlists) -- небольшие занятия-инструкции по языкам Python, R и их библиотекам
 - [Kaggle: Pandas](https://www.kaggle.com/learn/pandas)
 - [Kaggle: Data Cleaning](https://www.kaggle.com/learn/data-cleaning)
+- Coursera: ["Графические вероятностные модели"](https://www.coursera.org/specializations/probabilistic-graphical-models)
 
 ### Курсы по математике для Data Science
 

@@ -14,7 +14,12 @@
 
 ### Сообщество
 - [https://nlpwithfriends.com/](https://nlpwithfriends.com/) – PhD рассказывают о своих проектах / статьях
- - [NLP Highlights](https://soundcloud.com/nlp-highlights) – подкаст про новые статьи
+- [Вики ACL Anthology](https://aclweb.org/aclwiki/Main_Page)
+- Вики ACL:[ раздел с задачами](https://aclweb.org/aclwiki/State_of_the_art)
+- [NLP Highlights](https://soundcloud.com/nlp-highlights) – подкаст про новые статьи
+- [NLPub](https://nlpub.mipt.ru/)
+- [NeuroNuggets](https://medium.com/neuromation-blog/neuronuggets-acl-in-review-iv-596c6bcce65f)
+- [distill.pub](https://distill.pub/)
 
 ### YouTube
 - Записи с ML-соревнований по [обработке естественного языка](https://www.youtube.com/watch?v=XYw0OOnS8GM&list=PLTlO6nV_TaGBEBYaaO5rMl0XCunOzR8S7)

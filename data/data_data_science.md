@@ -55,3 +55,9 @@
 
 ### Медицинские данные
 -   [MIMIC-III](https://mimic.physionet.org/). Датасет с обезличенными данными о состоянии здоровья ~40 000 пациентов, находящихся на интенсивной терапии. Он включает демографические данные, показатели жизнедеятельности, лабораторные анализы, лекарства и многое другое.
+
+### Научные статьи
+- [scholar.google.com](https://scholar.google.com/)
+- [arxiv.org](https://arxiv.org/)
+- [arxiv-sanity.org](https://arxiv-sanity.org/)
+- [paperswithcode.com](https://paperswithcode.com/)

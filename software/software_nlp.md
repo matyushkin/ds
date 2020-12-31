@@ -5,6 +5,7 @@
 
 ### Русский язык
 - [pymorphy2](https://pymorphy2.readthedocs.io/en/stable/) – морфологический анализатор для русского языка на основе словаря OpenCorpora
+- [youtokentome](https://github.com/VKCOM/YouTokenToMe): инструмент для быстрой токенизации текста от команды ВК
 - [ruGPT-3 – вариант Сбербанка](https://github.com/sberbank-ai/ru-gpts) ([статья на Хабре о процессе обучения](https://habr.com/ru/company/sberbank/blog/524522/?fbclid=IwAR2E3gx2MgZggqtMdD_5t7j333tAdz24VJXLxQX1zDqSo5GcYVj89ONV-18))
 
 ### Библиотеки и фреймворки

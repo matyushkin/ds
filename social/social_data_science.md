@@ -16,6 +16,9 @@
 - [blog.shakirm.com](http://blog.shakirm.com/)
 - [blog.paralleldots.com](https://blog.paralleldots.com)
 - [alexanderdyakonov.wordpress.com](https://dyakonov.org/)
+- [OpenAI блог](https://openai.com/blog/)
+- [Google AI блог](https://ai.googleblog.com/)
+- [Facebook AI Research (FAIR) блог](https://ai.facebook.com/blog/)
 
 ### Ветки Reddit
 - [/analyzit](https://www.reddit.com/r/analyzit)
@@ -110,3 +113,11 @@
 
 ### Сайты с соревнованиями по Data Science
 - [Kaggle](https://www.kaggle.com/)
+- [TopCoder](https://www.topcoder.com/)
+- [DrivenData](https://www.drivendata.org/)
+- [Zindi](https://zindi.africa/)
+- [CodaLab](https://competitions.codalab.org/)
+- [AI Challenger](http://challenge.ai.iqiyi.com/)
+- [Signate](https://signate.jp/)
+- [CrowdAI](https://www.aicrowd.com/)
+- [CrowdAnalytix](https://www.crowdanalytix.com/)

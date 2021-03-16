@@ -41,6 +41,10 @@
 - [Yelp Reviews](https://www.yelp.com/dataset). Датасет от Yelp, содержащий более 5 млн отзывов.
 - [UCI's Spambase](https://archive.ics.uci.edu/ml/datasets/Spambase). Большой датасет спам-писем.
 
+### Синтаксический анализ
+- [Penn Treebank](https://catalog.ldc.upenn.edu/LDC99T42)
+- [SynTagRus](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%A2%D0%B0%D0%B3%D0%A0%D1%83%D1%81) -- корпус синтаксической разметки для русского языка, есть [версия с разметкой для универсальных зависимостей](https://github.com/UniversalDependencies/UD_Russian-SynTagRus)
+
 ### Анализ тональности текста
 - [Multidomain sentiment analysis dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/). Немного устаревший датасет, который содержит отзывы на товары с Amazon.
 - [IMDB reviews](http://ai.stanford.edu/~amaas/data/sentiment/). Староватый, относительной небольшой (25 000 отзывов к фильмам) датасет для бинарного анализа тональности.

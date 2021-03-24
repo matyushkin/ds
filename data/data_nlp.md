@@ -9,7 +9,7 @@
 
 ### Международные базы данных, корпусы и датасеты
 - [Список популярных датасетов](https://github.com/niderhoff/nlp-datasets)
-- [NLPub](https://nlpub.ru/) – каталог ресурсов для обработки естественного языка
+- [NLPub](https://nlpub.ru/) – русскоязычный каталог ресурсов для обработки естественного языка
 - [Brown corpus](http://icame.uib.no/brown/bcm.html) 
 - [Корпуса для английского](https://aclweb.org/aclwiki/Corpora_for_English) 
 - [HotspotQA Dataset](https://hotpotqa.github.io/) – датасет вопросов-ответов

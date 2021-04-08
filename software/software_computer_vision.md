@@ -2,6 +2,7 @@
 - [Pillow](https://pillow.readthedocs.io/en/stable) -- работа со всеми популярными форматами изображений
 - [OpenCV](https://opencv.org/) – множество различных алгоритмов для работы с изображениями
 - [scikit-image](https://scikit-image.org/) – продвинутая обработка изображений
+- [torchvision](https://pytorch.org/vision/stable/index.html) – часть проекта PyTorch для работы с изображениями, `torchvision.datasets` содержит множество популярных датасетов для тестирования алгоритмов computer vision
 
 ### Jupyter and Colab Notebooks о задачах Computer Vision
 - [Google Deep Dream](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb), [GitHub](https://github.com/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb), [пост Александра Мордвинцева](https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html)

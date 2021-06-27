@@ -20,6 +20,20 @@
 - [Google AI блог](https://ai.googleblog.com/)
 - [Facebook AI Research (FAIR) блог](https://ai.facebook.com/blog/)
 
+
+### Сайты с соревнованиями по Data Science
+- [Kaggle](https://www.kaggle.com/)
+- [TopCoder](https://www.topcoder.com/)
+- [DrivenData](https://www.drivendata.org/)
+- [Zindi](https://zindi.africa/)
+- [CodaLab](https://competitions.codalab.org/)
+- [AI Challenger](http://challenge.ai.iqiyi.com/)
+- [Signate](https://signate.jp/)
+- [CrowdAI](https://www.aicrowd.com/)
+- [CrowdAnalytix](https://www.crowdanalytix.com/)
+
+
+
 ### Ветки Reddit
 - [/analyzit](https://www.reddit.com/r/analyzit)
 - [/datascience](https://www.reddit.com/r/datascience)
@@ -96,6 +110,33 @@
 - [DeepMind](https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A/playlists) -- канал британской компании, занимающейся искусственным интеллектом, содержит качественные лекции по различным аспектам глубокого обучения
 - [Springboard](https://www.youtube.com/channel/UCqd6TofKNjqagInm5Waeu7w) публикует [интервью с дата-сайентистами из топовых компаний](https://www.youtube.com/watch?v=qdjR9eAuHDw&list=PLjKxfZpleE6AffdA6XkPZItzcRH7HPqq4)
 - [Karpov.Courses](https://www.youtube.com/channel/UCiZtj9HjyudBwC2TywG0GzQ/videos) – интервью с представителями русскогоязычного Data Science
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)– анимации, посвященные математике и ее наглядным математическим представлениям
+-   [Ken Jee](https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg)
+-   [Tina Huang](https://www.youtube.com/channel/UC2UXDak6o7rBm23k3Vv5dww)
+-   [Data Professor](https://www.youtube.com/channel/UCV8e2g4IWQqK71bbzGDEI4Q)
+-   [Krish Naik](https://www.youtube.com/user/krishnaik06)
+-   [Imaad Mohamed Khan](https://www.youtube.com/channel/UC6VPXglDoZYMOj2kr-flNJQ)
+-   [Import Data](https://www.youtube.com/c/ImportData1/featured)
+-   [James Briggs](https://www.youtube.com/channel/UCv83tO5cePwHMt1952IVVHw)
+-   [Shashank Kalanithi](https://www.youtube.com/user/95shawshankk19)
+-   [Alex The Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg)
+-   [How to Get an Analytics Job](https://www.youtube.com/channel/UC7T_528unh2ZgnVcx1sl7oA/channels)
+-   [Chris Lovejoy](https://www.youtube.com/channel/UCDoIFHMTKsgIweO-OZt1ecw)
+-   [Anastasia K](https://www.youtube.com/channel/UCbWVgqVWcthADXHgxXJn1bA)
+-   [Data Science Jay](https://www.youtube.com/channel/UCcQx1UnmorvmSEZef4X7-6g)
+-   [Nate at StrataScratch](https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ)
+-   [Luke Barousse](https://www.youtube.com/channel/UCLLw7jmFsvfIVaUFsLs8mlQ)
+-   [Madhav Thaker](https://www.youtube.com/user/inferno0709)
+-   [Damsel in Data](https://www.youtube.com/channel/UCenqe6Cvfd47aHAOb9Qe8yA/featured)
+-   [RichardOnData](https://www.youtube.com/channel/UCKPyg5gsnt6h0aA8EBw3i6A)
+-   [Part Time Larry](https://www.youtube.com/channel/UCY2ifv8iH1Dsgjrz-h3lWLQ)
+-   [The High ROI Data Scientist](https://www.youtube.com/channel/UCkYooZtwK_RJAd9SdL1jfeA/featured)
+-   [dataslice](https://www.youtube.com/channel/UCBV194XNr6CIQCCuw1v2rMQ)
+-   [Data Interview Pro](https://www.youtube.com/channel/UCAWsBMQY4KSuOuGODki-l7A)
+-   [Data School](https://www.youtube.com/c/dataschool/featured)
+-   [DataInterview](https://www.youtube.com/channel/UCQSMCVUX1HgrwxJhO_7VrJQ/featured)
+-   [365 Data Science](https://www.youtube.com/c/365DataScience/videos)
+-   [Data Science Society](https://www.youtube.com/channel/UC5Uikv2NXsZ4ZEWOGyW__3A)
 
 ### Twitter
 - [Мой список для чтения](https://twitter.com/i/lists/1333460025780658177)
@@ -111,13 +152,31 @@
 - [R](https://habr.com/ru/hub/r/)
 - [Julia](https://habr.com/ru/hub/julia/)
 
-### Сайты с соревнованиями по Data Science
-- [Kaggle](https://www.kaggle.com/)
-- [TopCoder](https://www.topcoder.com/)
-- [DrivenData](https://www.drivendata.org/)
-- [Zindi](https://zindi.africa/)
-- [CodaLab](https://competitions.codalab.org/)
-- [AI Challenger](http://challenge.ai.iqiyi.com/)
-- [Signate](https://signate.jp/)
-- [CrowdAI](https://www.aicrowd.com/)
-- [CrowdAnalytix](https://www.crowdanalytix.com/)
+
+### Подкасты, посвященные Data Science и родственным вопросам
+-   [Lex Fridman](https://www.youtube.com/user/lexfridman)
+-   [bitgrit_official](https://www.youtube.com/channel/UCsEdlkbxrAH93NVGFgGtgdA)
+-   [Machine Learning Street Talk](https://www.youtube.com/c/MachineLearningStreetTalk/videos)
+-   [Weights & Biases](https://www.youtube.com/c/WeightsBiases)
+-   [Chai Time Data Science](https://www.youtube.com/c/ChaiTimeDataScience/featured)
+-   [Data Skeptic](https://www.youtube.com/channel/UC60gRMJRjTuTskBnl-LkPAg)
+-   [Data Futurology](https://www.youtube.com/c/datafuturology)
+-   [O'Reilly](https://www.youtube.com/oreilly/featured)
+-   [Towards Data Science](https://www.youtube.com/c/TowardsDataScience/videos)
+-   [Open Data Science](https://www.youtube.com/c/OpenDataScienceCon/videos)
+-   [Springboard](https://www.youtube.com/c/springboard/featured)
+-   [Data Science Salon](https://www.youtube.com/c/DataScienceSalon/featured)
+-   [DeepLearningAI](https://www.youtube.com/c/Deeplearningai)
+-   [The Ravit Show](https://www.youtube.com/channel/UC4yopSSlBfw2WAykLPTYH-w/featured)
+
+### YouTube-каналы организаций, связанных с развитием Data Science
+-   [DeepMind](https://www.youtube.com/c/DeepMind/videos)
+-   [TensorFlow](https://www.youtube.com/c/TensorFlow/featured)
+-   [Google Cloud Tech](https://www.youtube.com/user/googlecloudplatform/featured)
+-   [TensorFlow](https://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ)
+-   [HuggingFace](https://www.youtube.com/channel/UCHlNU7kIZhRgSbhHvFoy72w)
+-   [OpenAI](https://www.youtube.com/channel/UCXZCJLdBC09xxGZ6gcdrc6A)
+-   [PyTorch](https://www.youtube.com/channel/UCWXI5YeOsh03QvJ59PMaXFw)
+-   [Kaggle](https://www.youtube.com/user/kaggledotcom)
+-   [H2O.ai](https://www.youtube.com/user/0xdata)
+-   [DataCamp](https://www.youtube.com/c/Datacamp/featured)

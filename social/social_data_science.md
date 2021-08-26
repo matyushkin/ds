@@ -32,8 +32,6 @@
 - [CrowdAI](https://www.aicrowd.com/)
 - [CrowdAnalytix](https://www.crowdanalytix.com/)
 
-
-
 ### Ветки Reddit
 - [/analyzit](https://www.reddit.com/r/analyzit)
 - [/datascience](https://www.reddit.com/r/datascience)

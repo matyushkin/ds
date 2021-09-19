@@ -33,6 +33,7 @@
 #### R
 - [Анализ данных в R](https://stepik.org/129) (Stepik ★4.9, Институт Биоинформатики, Анатолий Карпов и Ко), [вторая часть](https://stepik.org/course/724/): предобработка данных, статистика, функции семейства apply, dplyr, Data.table, ggplot
 - [Основы программирования на R](https://stepik.org/497) (Stepik ★4.9, Институт Биоинформатики, Антон Антонов) – для тех, кто хочет укрепить свои знания в R
+- [Базовый курс R на Codecademy](https://www.codecademy.com/learn/learn-r)
 
 #### Julia
 - [Курс про основы Julia для применения в Data Science проектах](https://github.com/JuliaEvangelists/Julia-in-DS)
@@ -44,6 +45,7 @@
 - [Базы данных](https://stepik.org/2614) (Stepik, СПбГУ)
 - [Kaggle: Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
 - [Kaggle: Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
+- [Вводный курс в SQL на Codecademy](https://www.codecademy.com/learn/learn-sql)
 
 ### Курсы по визуализации данных
 -  [Kaggle: Data Visualization](https://www.kaggle.com/learn/data-visualization)

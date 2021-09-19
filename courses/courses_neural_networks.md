@@ -11,7 +11,7 @@
 - [Kaggle: Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
 - [Practical RL](https://github.com/yandexdataschool/Practical_RL)
 - [Practical DL](https://github.com/yandexdataschool/Practical_DL)
-- [Practical Deep Learning for Coders](https://course.fast.ai/) – курс от fast.ai
+- [Practical Deep Learning for Coders](https://course.fast.ai/) – развернутое введение в глубокое обучение от fast.ai
 - [d2l.ai](https://d2l.ai/) ([GitHub](https://github.com/d2l-ai/d2l-en))
 - [YouTube курс Deep Learning](https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=1) – курс от Яна Лекуна и пр., более 30 ч. Весна 2020.
 - [YouTube курс UC Berkeley](https://www.youtube.com/playlist?list=PLuv1FSpHurUevSXe_k0S7Onh6ruL-_NNh), 66 занятий

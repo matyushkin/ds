@@ -4,9 +4,10 @@
 - [Бесплатные электронные книги по Data Science издательства O'Reilly](https://www.oreilly.com/data/free/archive.html)
 
 ### Книги по Data Science начального уровня
+- Келлехер Джон Д. Наука о данных. Базовый курс, 2021 (совсем азбука, чтобы понять, о чем в принципе идет речь)
 - Грас Дж. Наука о данных с нуля. БХВ-Петербург, 2019
 - Брюс П., Брюс Э. Практическая статистика для специалистов Data Science. БХВ-Петербург, 2018
-- О'Нил, Шатт. Data Science. Инсайдерская информация для новичков. Питер, 2019
+- О'Нил, Шатт. Data Science. Инсайдерская информация для новичков. Питер, 2019 (используется язык R)
 - Силен, Мейсман, Али – Основы Data Science и Big Data. Python и наука о данных. Питер, 2018
 - Prevos P. Principles of Strategic Data Science
 
@@ -47,4 +48,5 @@ Micha Gorelick, Ian Ozsvald – объясняется работа интерп
 - Cole Nussbaumer Knaflic. Storytelling with Data: A Data Visualization Guide for Business Professionals  – как качественно визуализировать результаты
 - Steve Wexler, Jeffrey Shaffer, Andy Cotgreave. The Big Book of Dashboards. Visualizing Your Data Using Real-World Business Scenarios
 
-
+### Подготовка к собеседованиям
+- RocketPrep Ace Your Data Science Interview 300 Practice Questions and Answers

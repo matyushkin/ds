@@ -39,6 +39,7 @@ Micha Gorelick, Ian Ozsvald – объясняется работа интерп
 
 #### Учебники по Julia
 - Шеррингтон М.: Осваиваем язык Julia. Совершенствование мастерства в области
+- Белов Г.В. Краткое описание языка программирования Julia с примерами использования для решения задач аппроксимации и оптимизации [pdf](http://ihed.ras.ru/~thermo/Julia/Brief%20description%20of%20Julia%20language.pdf)
 
 #### Учебники по Data Science на Java
 - R. Shams. Java Data Science Cookbook

@@ -11,9 +11,11 @@
 - Силен, Мейсман, Али – Основы Data Science и Big Data. Python и наука о данных. Питер, 2018
 - Prevos P. Principles of Strategic Data Science
 
-### Научно-популярные книги о Data Science
+### Научно-популярные книги о Data Science (и просто около)
 - Педро Домингос. Верховный алгоритм. Как машинное обучение изменит наш мир
 - Кирилл Еременко. Работа с данными в любой сфере
+- Жаклин Нолис и Эмили Робинсон. Data Science для карьериста (в оригинале Build a Career in Data Science)
+- Хэнд Дэвид. Темные данные: Практическое руководство по принятию правильных решений в мире недостающих данных, 2021
 
 ### Книги по языкам программирования с упором на Data Science
 #### Учебники по Python и библиотекам Python для Data Science
@@ -46,6 +48,7 @@ Micha Gorelick, Ian Ozsvald – объясняется работа интерп
 
 
 ### Книги о визуализации данных
+- Базалева О. И. Мастерство визуализации данных, 2018
 - Cole Nussbaumer Knaflic. Storytelling with Data: A Data Visualization Guide for Business Professionals  – как качественно визуализировать результаты
 - Steve Wexler, Jeffrey Shaffer, Andy Cotgreave. The Big Book of Dashboards. Visualizing Your Data Using Real-World Business Scenarios
 

@@ -58,17 +58,20 @@
 - [Slack Томской группы по ML](https://tomskml.slack.com/) ([анкета для регистрации](https://docs.google.com/forms/d/e/1FAIpQLSdYpgm7T80JpyBPt6NMgRP_4jne7v_qaGFjy8wDrS4fNajMDA/viewform?c=0&w=1))
 
 ### Telegram-каналы о Data Science
-- [Новостной канал Open Data Science](https://t.me/opendatascience)
-- [ODS Ru](https://t.me/ods_ru) – другой канал, в основном информация о мероприятиях
+- [Новостной канал сообщества Open Data Science](https://t.me/opendatascience)
+- [Small Data Science for Russian Adventures](https://t.me/smalldatascience) – канал Александра Дьяконова (dyakonov.org) о машинном обучении, глубоком обучении, анализе данных, науке о данных и математике
+- [ODS Ru](https://t.me/ods_ru)  другой канал, в основном информация о мероприятиях
 - [Чат по большим данным, обработке и машинному обучению](https://t.me/bigdata_ru)
 - [Чат по Data Science](https://t.me/datasciencechat)
 - [Spark in me: Internet, statistics, data science, philosophy](https://t.me/snakers4), [чат канала](https://t.me/joinchat/AAAAAEH9JHYBvaPLvaWPGg)
 - [Канал с постами с Reddit на DS-тематику](https://t.me/datascientology)
 - [Библиотека Data Scientist (proglib)](https://t.me/dsproglib)
 - [Чат ODS Pet Projects](https://t.me/ods_pet_projects)
-- [Denis Sexy IT](https://t.me/denissexy) – о нейронных сетях, виртуальной реальности и технологиях – простым языком
+- [Denis Sexy IT](https://t.me/denissexy) – простым языком о нейронных сетях, виртуальной реальности и технологиях
 - [Machine Learning](https://t.me/ai_machinelearning_big_data) – преимущественно статьи и ссылки на репозитории
 - [ML p(r)ior](https://t.me/mlprior) – новости из мира ИИ
+- [gonzo-обзоры ML статей](https://t.me/gonzo_ML) – Канал о AI/ML/DL, биоинформатике, discrete domain, NLP, RL
+- [Power of data](https://t.me/powerofdata) – канал Петра Ермакова про Data Science и BigData
 
 ### VK-группы о Data Science
 - [Data Mining Labs](https://vk.com/datamininglabs)
@@ -167,6 +170,7 @@
 -   [Data Science Salon](https://www.youtube.com/c/DataScienceSalon/featured)
 -   [DeepLearningAI](https://www.youtube.com/c/Deeplearningai)
 -   [The Ravit Show](https://www.youtube.com/channel/UC4yopSSlBfw2WAykLPTYH-w/featured)
+
 
 ### YouTube-каналы организаций, связанных с развитием Data Science
 -   [DeepMind](https://www.youtube.com/c/DeepMind/videos)

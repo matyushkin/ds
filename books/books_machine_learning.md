@@ -5,7 +5,8 @@ Foundation)](https://open.umn.edu/opentextbooks/textbooks/introductory-statistic
 - ["OnlineStatBook" Дэвида Лэйна (David Lane), Rice University](http://onlinestatbook.com/)
 - ["Вводная статистика", колледж OpenStax](https://openstax.org/details/introductory-statistics)
 - Брюс П., Брюс Э. Практическая статистика для специалистов Data Science 
-- Katharine Alexis Kormanik. Statistics Fundamentals Succinctly – введение в статистику с практической точки зрения.
+- Katharine Alexis Kormanik. Statistics Fundamentals Succinctly – введение в статистику с практической точки зрения
+- [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) введение в методы статистического обучения с лабораторными работами на языке R
 
 ### Машинное обучение
 - [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) – прекрасный вводный курс в машинное обучение Hal Daume III (PDF)
@@ -23,3 +24,5 @@ Foundation)](https://open.umn.edu/opentextbooks/textbooks/introductory-statistic
 - Marshland. Machine Learning: An Algorithmic Perspective — приводятся и объясняются реализации разных методов машинного обучения на Python
 - Шай Бен-Давид и Шай Шалев-Шварц. Understanding Machine Learning: From Theory to Algorithms
 - Machine Learning Refined Foundations, Algorithms, and Applications by Jeremy Watt Reza Borhani Aggelos Katsaggelos
+- Кристоф Мольнар. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) фокусируется на моделях машинного обучения для табличных данных
+- Кэмерон Дэвидсон. [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) — всё о байесовском выводе

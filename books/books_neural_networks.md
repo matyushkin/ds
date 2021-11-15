@@ -2,9 +2,10 @@
 - [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) – введение в нейронные сети и глубокое обучение с кодом на Python
 - [Reinforcement Learning: An Introduction](https://web.archive.org/web/20161120043347/http://webdocs.cs.ualberta.ca:80/~sutton/book/ebook/the-book.html)
+- [Dive Into Deep Learning](https://d2l.ai/) — интерактивная книга по глубокому обучению с кодом, математикой и комментариями. Показаны реализации на NumPy, MXNet, PyTorch и TensorFlow. 
 - Николенко С., Кадурин А., Архангельская Е. Глубокое обучение. Погружение в мир нейронных сетей,
 - Хайкин. Нейронные сети. Полный курс
-- Goodfellow, Bengio, Courville. Deep Learning 
+- [Goodfellow, Bengio, Courville. Deep Learning](https://www.deeplearningbook.org/)
 - Гибсон, Паттерсон. Глубокое обучение с точки зрения практика, 2018
 - Гудфеллоу. Глубокое обучение, 2018
 - Шолле Ф. Глубокое обучение на R, 2018

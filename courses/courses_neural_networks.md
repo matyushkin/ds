@@ -15,3 +15,4 @@
 - [d2l.ai](https://d2l.ai/) ([GitHub](https://github.com/d2l-ai/d2l-en))
 - [YouTube курс Deep Learning](https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=1) – курс от Яна Лекуна и пр., более 30 ч. Весна 2020.
 - [YouTube курс UC Berkeley](https://www.youtube.com/playlist?list=PLuv1FSpHurUevSXe_k0S7Onh6ruL-_NNh), 66 занятий
+- [ШАДовский курс по глубокому обучению «Practical_DL»](github.com/yandexdataschool/Practical_DL)

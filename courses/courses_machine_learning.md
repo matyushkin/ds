@@ -26,7 +26,5 @@
 -  [Kaggle: Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
 - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml) – курс fast.ai
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course) – курс Google
-
-### Разделы с научными статьями на arXiv.org
-- cs.LG - Machine Learning: ([new](https://arxiv.org/list/cs.LG/new), [recent](https://arxiv.org/list/cs.LG/recent), [current month](https://arxiv.org/list/cs.LG/current))
-- [stat.ML](https://arxiv.org/list/stat.ML/recent)
+- [Coursera: Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) – приятный курс Стэнфорда
+- [Seeing Theory](https://seeing-theory.brown.edu/) – короткий курс по теории вероятностей и математической статистике

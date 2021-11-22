@@ -1,4 +1,4 @@
-## Курсы по общим вопросам Data Science
+с## Курсы по общим вопросам Data Science
 
 ### Если просто хочется понять, интересно вам это или нет
 - [Аналитик данных](https://praktikum.yandex.ru/data-analyst) (Яндекс.Практикум, бесплатен первый курс)
@@ -15,6 +15,7 @@
 - [Kaggle: Pandas](https://www.kaggle.com/learn/pandas)
 - [Kaggle: Data Cleaning](https://www.kaggle.com/learn/data-cleaning)
 - Coursera: ["Графические вероятностные модели"](https://www.coursera.org/specializations/probabilistic-graphical-models)
+- [CS109b: Advanced Topics in Data Science](https://harvard-iacs.github.io/2020-CS109B/) -- гарвардский курс
 
 ### Курсы по математике для Data Science
 

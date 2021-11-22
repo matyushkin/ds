@@ -55,3 +55,8 @@
 -   [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/featured)
 -   [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai/featured)
 -   [bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng)
+
+
+### Разделы с научными статьями на arXiv.org
+- cs.LG - Machine Learning: ([new](https://arxiv.org/list/cs.LG/new), [recent](https://arxiv.org/list/cs.LG/recent), [current month](https://arxiv.org/list/cs.LG/current))
+- [stat.ML](https://arxiv.org/list/stat.ML/recent)

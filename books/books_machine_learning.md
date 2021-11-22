@@ -7,6 +7,8 @@ Foundation)](https://open.umn.edu/opentextbooks/textbooks/introductory-statistic
 - Брюс П., Брюс Э. Практическая статистика для специалистов Data Science 
 - Katharine Alexis Kormanik. Statistics Fundamentals Succinctly – введение в статистику с практической точки зрения
 - [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/) введение в методы статистического обучения с лабораторными работами на языке R
+- Dekking и др. [A Modern Introduction to
+Probability and Statistics](https://cis.temple.edu/~latecki/Courses/CIS2033-Spring13/Modern_intro_probability_statistics_Dekking05.pdf) -- подробная и читаемая книга по теорверу и матстату 
 
 ### Машинное обучение
 - [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf) – прекрасный вводный курс в машинное обучение Hal Daume III (PDF)

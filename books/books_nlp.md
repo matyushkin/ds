@@ -1,5 +1,4 @@
 ## Книги по обработке естественного языка
-- Стивен Берд, Эван Кляйн, Эдвард Лопер. Обработка естественного языка с Python
 - [Jurafsky D., Martin J. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition](https://web.stanford.edu/~jurafsky/slp3/)
 - Goldberg Y. Neural Network Methods for Natural Language Processing
 - Natural Language Processing in Action: Understanding, analyzing, and generating text with Python
@@ -15,10 +14,12 @@
 - Большакова Е.И., Клышинский Э.С. [Автоматическая обработка текстов на естественном языке и компьютерная лингвистика](http://clschool.miem.edu.ru/uploads/swfupload/files/011a69a6f0c3a9c6291d6d375f12aa27e349cb67.pdf) (pdf)
 
 ## Переводные
+- Берд, Кляйн и Лопер. Обработка естественного языка с Python
 - Хобсон Лейн, Коул Ховард, Ханнес Хапке «Обработка естественного языка в действии»
 - Сегаран Т. Программируем коллективный разум – упор на практические задачи
+- Бенгфорт Бенджмамин. Прикладной анализ текстовых данных на Python. Машинное обучение и создание приложений обработки естественного языка (2019)
 
-## Периодика 
+## Периодика
 - [ACL Anthology](http://www.aclweb.org/anthology/) - материалы основных конференций по NLP (полезно следить за ACL, EACL, NAACL, RANLP, EMNLP)
 - [Computational Linguistics](https://www.mitpressjournals.org/loi/coli)  
 - [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering)

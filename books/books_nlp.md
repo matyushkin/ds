@@ -1,5 +1,9 @@
 ## Книги по обработке естественного языка
-- [Jurafsky D., Martin J. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition](https://web.stanford.edu/~jurafsky/slp3/)
+- [Jurafsky D., Martin J. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition](https://web.stanford.edu/~jurafsky/slp3/) (2020)
+- Vajjala и др. Practical Natural Language Processing (2020)
+- Гольдберг. Нейросетевые методы в обработке естественного языка (2019)
+- [Bird, Klein, Loper. Natural Language Processing with Python](http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf) (PDF). Переведена на русский под названием «Берд, Кляйн и Лопер. Обработка естественного языка с Python»
+- Alex Tomas. Natural Language Processing with Spark NLP (2020)
 - Goldberg Y. Neural Network Methods for Natural Language Processing
 - Natural Language Processing in Action: Understanding, analyzing, and generating text with Python
 - Mihalcea R., Radev D. Graph-based Natural Language Processing and Information Retrieval
@@ -14,10 +18,13 @@
 - Большакова Е.И., Клышинский Э.С. [Автоматическая обработка текстов на естественном языке и компьютерная лингвистика](http://clschool.miem.edu.ru/uploads/swfupload/files/011a69a6f0c3a9c6291d6d375f12aa27e349cb67.pdf) (pdf)
 
 ## Переводные
-- Берд, Кляйн и Лопер. Обработка естественного языка с Python
-- Хобсон Лейн, Коул Ховард, Ханнес Хапке «Обработка естественного языка в действии»
+- Хобсон, Ханнес, Коул. «Обработка естественного языка в действии» (2020)
+- Ганегедара. Обработка естественного языка с TensorFlow (2020)
+- Макмахан, Рао. Знакомство с PyTorch (2020)
 - Сегаран Т. Программируем коллективный разум – упор на практические задачи
-- Бенгфорт Бенджмамин. Прикладной анализ текстовых данных на Python. Машинное обучение и создание приложений обработки естественного языка (2019)
+- Бенгфорт Б. Прикладной анализ текстовых данных на Python. Машинное обучение и создание приложений обработки естественного языка (2019)
+- Гольдберг. Нейросетевые методы в обработке естественного языка (2019)
+- Риз. Обработка естественного языка на Java (2016)
 
 ## Периодика
 - [ACL Anthology](http://www.aclweb.org/anthology/) - материалы основных конференций по NLP (полезно следить за ACL, EACL, NAACL, RANLP, EMNLP)

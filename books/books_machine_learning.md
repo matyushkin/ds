@@ -20,7 +20,8 @@ Probability and Statistics](https://cis.temple.edu/~latecki/Courses/CIS2033-Spri
 - [Machine Learning, Neural and Statistical Classification](http://www1.maths.leeds.ac.uk/~charles/statlog/) – книга 1994 г. Michie, Spiegelhalter, Taylor, основана на проекте StatLog ЕС (ESPRIT), в котором сравниваются и оцениваются методы классификации с оценкой их достоинств, недостатков и диапазонов применения
 - [The Elements of Statistical Learning](https://web.archive.org/web/20131027220938/http://www-stat.stanford.edu/~tibs/ElemStatLearn//)
 - Mastering Machine Learning Algorithms, Second Edition
-- Murphy. Machine learning a probabilistic perspective — очень объемная и содержательная книга из MIT (~1000 страниц), освещена большая часть мейнстримовых методов машинного обучения
+- Murphy. Machine learning a probabilistic perspective — объемная и содержательная книга из MIT
+- Нильсен Э. Практический анализ временных рядов: прогнозирование со статистикой и машинное обучение. 2021 
 - Richert, Coelho. Building Machine Learning Systems with Python — доступное изложение задач машинного обучения (анализ изображений, текстов, звука) с описанием того, как это сделать в Python
 - Harrington. Machine Learning in Action — базовое знакомство с методами машинного обучения, без перегрузки математическими деталями
 - Marshland. Machine Learning: An Algorithmic Perspective — приводятся и объясняются реализации разных методов машинного обучения на Python

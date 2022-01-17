@@ -12,9 +12,9 @@
 - [Plotly/Plotly Express](https://plotly.com/python/mapbox-layers/)
 - [IpyLeaflet](https://ipyleaflet.readthedocs.io/en/latest/)
 - [Geopandas](https://geopandas.org/)
-- Shapely
-- pyproj
-- GeoDjango
+- [Shapely](https://shapely.readthedocs.io/en/stable/manual.html)
+- [pyproj](https://pyproj4.github.io/pyproj/stable/)
+- [GeoDjango](https://docs.djangoproject.com/en/4.0/ref/contrib/gis/)
 
 ### R
 - геопроекции: [PROJ.4](http://trac.osgeo.org/proj/)

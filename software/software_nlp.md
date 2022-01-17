@@ -1,7 +1,7 @@
 ## Библиотеки и другие готовы решения задач обработки естественного языка
 
 ### WorldWide
-- [Hugging Face](https://huggingface.co/) – библиотека обученных моделей
+- [Hugging Face](https://huggingface.co/) – библиотека предобученных моделей на базе архитектуры «трансформер»
 
 ### Русский язык
 - [pymorphy2](https://pymorphy2.readthedocs.io/en/stable/) – морфологический анализатор для русского языка на основе словаря OpenCorpora

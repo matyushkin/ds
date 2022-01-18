@@ -15,13 +15,14 @@
 - [Shapely](https://shapely.readthedocs.io/en/stable/manual.html)
 - [pyproj](https://pyproj4.github.io/pyproj/stable/)
 - [GeoDjango](https://docs.djangoproject.com/en/4.0/ref/contrib/gis/)
+- ArcGIS API – библиотека для визуализации и анализа геоданных, а также для управления корпоративной ГИС ([руководство на Хабре](https://habr.com/ru/company/technoserv/blog/324124/))
 
 ### R
 - геопроекции: [PROJ.4](http://trac.osgeo.org/proj/)
 
 ### JavaScript
 - [Leaflet.js](http://leafletjs.com/)
-- OpenLayers
+- [OpenLayers](https://openlayers.org/) – библиотека с открытым исходным кодом на JavaScript, предназначенная для создания карт на базе API
 
 ### Коммерческие программы
 - GlobalMapper – «славится поддержкой внушительного списка систем координат» (рекомендовал [Moskus](https://habr.com/ru/users/Moskus/) в [посте на Хабре](https://habr.com/ru/post/235283/))

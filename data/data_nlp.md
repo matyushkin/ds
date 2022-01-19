@@ -2,7 +2,7 @@
 - [Национальный корпус русского языка](https://ruscorpora.ru/), [другие корпусы](https://ruscorpora.ru/new/corpora-other.html)
 - Предобученные вектора для русского языка и интерактивные примеры [RusVectōrēs](https://rusvectores.org/ru/)
 
-### Параллельные корпуса 
+### Параллельные корпуса
 - [Europarl](https://www.statmt.org/europarl/)  
 - [UN Corpus](https://conferences.unite.un.org/UNCorpus/)  
 - [Opus](http://opus.nlpl.eu/) 

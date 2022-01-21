@@ -24,7 +24,7 @@
 - [SMS Spam Collection in English](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/) – 5574 спам-смс на английском
 - [Yelp Reviews](https://www.yelp.com/dataset) – датасет от Yelp из 5 млн отзывов
 - [UCI’s Spambase](https://archive.ics.uci.edu/ml/datasets/Spambase) – датасет спам-писем
-
+- [Apache Software Foundation Public Mail Archives](https://aws.amazon.com/de/datasets/apache-software-foundation-public-mail-archives/) – архив открытых писем, связанных с поддержкой программного обеспечения Apache
 
 ### Обработка естественного языка
 - [HotspotQA Dataset](https://hotpotqa.github.io/). Датасет с вопросами-ответами, позволяющий создавать системы для ответов на вопросы более понятным способом.

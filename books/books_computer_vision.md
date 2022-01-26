@@ -10,6 +10,9 @@
 
 ### Книги по Computer Vision на Python
 - Шакирьянов Э. Д. Компьютерное зрение на Python. Первые шаги, 2021 — учебный курс для школьников, есть цветные иллюстрации и проекты
+- Joseph Howse, Joe Minichino. Learning OpenCV 4 Computer Vision with Python. Pack Publising, 2020.
+- V Kishore Ayyadevara, Yeshwanth Reddy. Modern Computer Vision with PyTorch. Explore deep learning concepts and implement over 50 real-world image applications.  Pack Publising, 2020.
+- Dr. Benjamin Planche, Eliot Andres. Hands-On Computer Vision with TensorFlow 2. Leverage deep learning to create powerful image processing apps with TensorFlow 2.0 and Keras.  Pack Publising, 2019. 
 - Solem J. E. [Programming Computer Vision with Python](http://programmingcomputervision.com/). На русском издана под названием «Программирование компьютерного зрения на языке Python», во многом устарела, так как прибегает в основном к использованию PIL, а не OpenCV; однако теория и алгоримы поданы понятно, много примеров, цветные иллюстрации.
 
 

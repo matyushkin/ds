@@ -1,6 +1,6 @@
 ## Книги по статистике машинному обучению
 ### Статистика
-- Брюс П., Брюс Э. Практическая статистика для специалистов Data Science. БХВ-Петербург, 2021.
+- Брюс П., Брюс Э. Практическая статистика для специалистов Data Science. 50 важнейших понятий. БХВ-Петербург, 2018. — В качестве основного языка используется R.
 - Illowsky B., Dean S. [Introductory Statisctics](https://openstax.org/details/introductory-statistics). OpenStax, 2021.
 - Kormanik K. A. [Statistics Fundamentals Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/statistics-fundamentals-succinctly). 2016 – введение в статистику с практической точки зрения
 - Shafer D. S., Zhang Z. [Introductory Statistics](https://open.umn.edu/opentextbooks/textbooks/introductory-statistics). University of North Carolina, 2012. – большое количество примеров и иллюстраций
@@ -26,9 +26,9 @@ Probability and Statistics](https://cis.temple.edu/~latecki/Courses/CIS2033-Spri
 - Mastering Machine Learning Algorithms, Second Edition
 - Murphy. Machine learning a probabilistic perspective — объемная и содержательная книга из MIT
 - Нильсен Э. Практический анализ временных рядов: прогнозирование со статистикой и машинное обучение. 2021 
-- Richert, Coelho. Building Machine Learning Systems with Python — доступное изложение задач машинного обучения (анализ изображений, текстов, звука) с описанием того, как это сделать в Python
-- Harrington. Machine Learning in Action — базовое знакомство с методами машинного обучения, без перегрузки математическими деталями
-- Marshland. Machine Learning: An Algorithmic Perspective — приводятся и объясняются реализации разных методов машинного обучения на Python
+- Richert, Coelho. Building Machine Learning Systems with Python. Packt Publishing, 2015. — доступное изложение задач машинного обучения (анализ изображений, текстов, звука) с описанием того, как это сделать в Python
+- Harrington P. Machine Learning in Action. Manning, 2012. — базовое знакомство с методами машинного обучения, без перегрузки математическими деталями
+- Marshland S. Machine Learning: An Algorithmic Perspective. CRC Press, 2015. — приводятся и объясняются реализации разных методов машинного обучения на Python
 - Шай Бен-Давид и Шай Шалев-Шварц. Understanding Machine Learning: From Theory to Algorithms
 - Machine Learning Refined Foundations, Algorithms, and Applications by Jeremy Watt Reza Borhani Aggelos Katsaggelos
 - Кристоф Мольнар. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) фокусируется на моделях машинного обучения для табличных данных

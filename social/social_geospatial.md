@@ -1,5 +1,9 @@
 ## Публикации по геоданным
 
+### Ветки Reddit
+- [geospatial](https://www.reddit.com/r/geospatial/)
+- [gis](https://www.reddit.com/r/gis/)
+
 ### Визуализация
 - [Визуализация результатов выборов в Москве на карте в Jupyter Notebook](https://habr.com/ru/company/ods/blog/338554/)
 

@@ -10,6 +10,7 @@
 - [Quandl](https://www.quandl.com/) Financial, Economic and Alternative Data
 - [Wikipedia: List of datasets for machine-learning research](https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research)
 - сабреддит [Datasets](https://www.reddit.com/r/datasets/)
+- [Датасеты проекта Papers with Code](https://paperswithcode.com/datasets?q=&v=lst&o=newest)
 
 
 ### Россия

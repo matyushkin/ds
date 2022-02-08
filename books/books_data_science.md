@@ -41,6 +41,9 @@
 - Свейгарт Эл. Автоматизация рутинных задач с помощью Python. Вильямс, 2016.
 - Boschetti A. Python Data Science Essentials. Packt Publishing, 2015.
 
+#### Книги по Python, не относящиеся напрямую к Data Science, но полезные для создания DS-продуктов
+- Matthew Fowler. Python Concurrency with asyncio. Manning, 2022
+
 #### Учебники по R
 - [Advanced R](http://adv-r.had.co.nz/)
 - [Learning Statistics with R](https://web.archive.org/web/20170319021353/http://health.adelaide.edu.au:80/psychology/ccs/teaching/lsr/)

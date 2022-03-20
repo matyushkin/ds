@@ -15,6 +15,7 @@ Probability and Statistics](https://cis.temple.edu/~latecki/Courses/CIS2033-Spri
 
 
 ### Машинное обучение
+- Лакшманан Валиаппа. Машинное обучение. Паттерны проектирования. БХВ-Петербург, 2022. 
 -  Hal Daume III. [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf). 2015 – прекрасно оформленный вводный курс в машинное обучение (PDF)
 - Hastie T., Tibshirani R., Friedman J.. The elements of statistical learning. 2009. — классический способ начать знакомиться с машинным обучением, если вас не пугает математика
 - [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage) – качественный, прекрасно оформленный и регулярно обновляемый курс David Barber

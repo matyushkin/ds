@@ -1,4 +1,5 @@
 ## Книги по нейронным сетям и глубокому обучению
+- Грессер Лаура, Кенг Ван Лун. Глубокое обучение с подкреплением: теория и практика на языке Python. Питер, 2022.
 - Постолит А. В.Основы искусственного интеллекта в примерах на Python. БХВ-Петербург, 2021. 
 - [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks)
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) – введение в нейронные сети и глубокое обучение с кодом на Python

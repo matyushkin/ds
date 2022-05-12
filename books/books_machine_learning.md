@@ -1,5 +1,7 @@
-## Книги по статистике машинному обучению
-### Статистика
+# Книги по статистике машинному обучению
+
+## Статистика
+
 - Брюс П., Брюс Э. Практическая статистика для специалистов Data Science. 50 важнейших понятий. БХВ-Петербург, 2018. — В качестве основного языка используется R.
 - Illowsky B., Dean S. [Introductory Statisctics](https://openstax.org/details/introductory-statistics). OpenStax, 2021.
 - Kormanik K. A. [Statistics Fundamentals Succinctly](https://www.syncfusion.com/succinctly-free-ebooks/statistics-fundamentals-succinctly). 2016 – введение в статистику с практической точки зрения
@@ -9,14 +11,14 @@
 - Dekking F.M., Kraaikamp C., Lopuhaa H.P., Meester L.E. [A Modern Introduction to
 Probability and Statistics](https://cis.temple.edu/~latecki/Courses/CIS2033-Spring13/Modern_intro_probability_statistics_Dekking05.pdf). 2005. – подробный ясный учебник по теории вероятностей и математической статистике с большим количеством примеров и упражнений
 
+## Машинное обучение для новичков
 
-### Машинное обучение для новичков
 - Бурков А. Машинное обучение без лишних слов. Питер, 2020. — простое и весьма короткое введение в область.
 
+## Машинное обучение
 
-### Машинное обучение
-- Лакшманан Валиаппа. Машинное обучение. Паттерны проектирования. БХВ-Петербург, 2022. 
--  Hal Daume III. [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf). 2015 – прекрасно оформленный вводный курс в машинное обучение (PDF)
+- Лакшманан Валиаппа. Машинное обучение. Паттерны проектирования. БХВ-Петербург, 2022.
+- Hal Daume III. [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf). 2015 – прекрасно оформленный вводный курс в машинное обучение (PDF)
 - Hastie T., Tibshirani R., Friedman J.. The elements of statistical learning. 2009. — классический способ начать знакомиться с машинным обучением, если вас не пугает математика
 - [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage) – качественный, прекрасно оформленный и регулярно обновляемый курс David Barber
 - [A First Encounter with Machine Learning](https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) – курс Max Welling, 2011 г. (PDF)
@@ -26,7 +28,7 @@ Probability and Statistics](https://cis.temple.edu/~latecki/Courses/CIS2033-Spri
 - [The Elements of Statistical Learning](https://web.archive.org/web/20131027220938/http://www-stat.stanford.edu/~tibs/ElemStatLearn//)
 - Mastering Machine Learning Algorithms, Second Edition
 - Murphy. Machine learning a probabilistic perspective — объемная и содержательная книга из MIT
-- Нильсен Э. Практический анализ временных рядов: прогнозирование со статистикой и машинное обучение. 2021 
+- Нильсен Э. Практический анализ временных рядов: прогнозирование со статистикой и машинное обучение. 2021
 - Richert, Coelho. Building Machine Learning Systems with Python. Packt Publishing, 2015. — доступное изложение задач машинного обучения (анализ изображений, текстов, звука) с описанием того, как это сделать в Python
 - Harrington P. Machine Learning in Action. Manning, 2012. — базовое знакомство с методами машинного обучения, без перегрузки математическими деталями
 - Marshland S. Machine Learning: An Algorithmic Perspective. CRC Press, 2015. — приводятся и объясняются реализации разных методов машинного обучения на Python
@@ -35,7 +37,7 @@ Probability and Statistics](https://cis.temple.edu/~latecki/Courses/CIS2033-Spri
 - Кристоф Мольнар. [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/) фокусируется на моделях машинного обучения для табличных данных
 - Кэмерон Дэвидсон. [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) — всё о байесовском выводе
 
-
 ### Рецепты машинного обучения
-- Чжен Э. Машинное обучение: Конструирование признаков. Принципы и техники для аналитиков. Бомбора, 2021. 
+
+- Чжен Э. Машинное обучение: Конструирование признаков. Принципы и техники для аналитиков. Бомбора, 2021.
 - Элбон Крис. Машинное обучение с использованием Python. Сборник рецептов. БХВ-Петербург, 2019. — 200 рецептов решения практических задач с помощью популярных Python-библиотек

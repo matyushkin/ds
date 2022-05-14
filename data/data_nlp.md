@@ -1,17 +1,20 @@
-## Лингвистические и филологические данные
+# Лингвистические и филологические данные
+
 - [Национальный корпус русского языка](https://ruscorpora.ru/), [другие корпусы](https://ruscorpora.ru/new/corpora-other.html)
 - Предобученные вектора для русского языка и интерактивные примеры [RusVectōrēs](https://rusvectores.org/ru/)
 
-### Параллельные корпуса
+## Параллельные корпуса
+
 - [Europarl](https://www.statmt.org/europarl/)  
 - [UN Corpus](https://conferences.unite.un.org/UNCorpus/)  
-- [Opus](http://opus.nlpl.eu/) 
+- [Opus](http://opus.nlpl.eu/)
 
 ### Международные базы данных, корпусы и датасеты
+
 - [Список популярных датасетов](https://github.com/niderhoff/nlp-datasets)
 - [NLPub](https://nlpub.ru/) – русскоязычный каталог ресурсов для обработки естественного языка
-- [Brown corpus](http://icame.uib.no/brown/bcm.html) 
-- [Корпуса для английского](https://aclweb.org/aclwiki/Corpora_for_English) 
+- [Brown corpus](http://icame.uib.no/brown/bcm.html)
+- [Корпуса для английского](https://aclweb.org/aclwiki/Corpora_for_English)
 - [HotspotQA Dataset](https://hotpotqa.github.io/) – датасет вопросов-ответов
 - [Amazon Reviews](https://snap.stanford.edu/data/web-Amazon.html) – около 35 млн отзывов на Amazon за 18 лет: информация о продукте и пользователе, оценки и сам текст отзыва
 - [Google Books Ngrams](https://aws.amazon.com/ru/datasets/google-books-ngrams/) – коллекция слов из Google Книги
@@ -26,7 +29,8 @@
 - [UCI’s Spambase](https://archive.ics.uci.edu/ml/datasets/Spambase) – датасет спам-писем
 - [Apache Software Foundation Public Mail Archives](https://aws.amazon.com/de/datasets/apache-software-foundation-public-mail-archives/) – архив открытых писем, связанных с поддержкой программного обеспечения Apache
 
-### Обработка естественного языка
+## Обработка естественного языка
+
 - [HotspotQA Dataset](https://hotpotqa.github.io/). Датасет с вопросами-ответами, позволяющий создавать системы для ответов на вопросы более понятным способом.
 - [Enron Dataset](https://www.cs.cmu.edu/~./enron/). Данные электронной почты от высшего руководства Enron.
 - [Amazon Reviews](https://snap.stanford.edu/data/web-Amazon.html). Содержит около 35 млн отзывов с Amazon за 18 лет. Данные включают информацию о продукте и пользователе, оценки и сам текст отзыва.
@@ -42,10 +46,12 @@
 - [UCI's Spambase](https://archive.ics.uci.edu/ml/datasets/Spambase). Большой датасет спам-писем.
 
 ### Синтаксический анализ
+
 - [Penn Treebank](https://catalog.ldc.upenn.edu/LDC99T42)
 - [SynTagRus](https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BD%D0%A2%D0%B0%D0%B3%D0%A0%D1%83%D1%81) -- корпус синтаксической разметки для русского языка, есть [версия с разметкой для универсальных зависимостей](https://github.com/UniversalDependencies/UD_Russian-SynTagRus)
 
-### Анализ тональности текста
+## Анализ тональности текста
+
 - [Multidomain sentiment analysis dataset](http://www.cs.jhu.edu/~mdredze/datasets/sentiment/). Немного устаревший датасет, который содержит отзывы на товары с Amazon.
 - [IMDB reviews](http://ai.stanford.edu/~amaas/data/sentiment/). Староватый, относительной небольшой (25 000 отзывов к фильмам) датасет для бинарного анализа тональности.
 - [Stanford Sentiment Treebank](http://nlp.stanford.edu/sentiment/code.html). Стэнфордский датасет для анализа тональности.

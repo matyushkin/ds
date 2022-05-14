@@ -1,6 +1,6 @@
-## Блоги, соцсети и другие издания, посвященные общим вопросам Data Science
+# Блоги, соцсети и другие издания, посвященные общим вопросам Data Science
 
-### Блоги, посвященные Data Science
+## Блоги, посвященные Data Science
 - [Список публикаций matyushkin/lessons](https://github.com/matyushkin/lessons)
 - [distill.pub](https://distill.pub/)
 - [inference.vc](https://www.inference.vc/)
@@ -21,7 +21,7 @@
 - [Facebook AI Research (FAIR) блог](https://ai.facebook.com/blog/)
 
 
-### Сайты с соревнованиями по Data Science
+## Сайты с соревнованиями по Data Science
 - [Kaggle](https://www.kaggle.com/)
 - [TopCoder](https://www.topcoder.com/)
 - [DrivenData](https://www.drivendata.org/)
@@ -32,7 +32,7 @@
 - [CrowdAI](https://www.aicrowd.com/)
 - [CrowdAnalytix](https://www.crowdanalytix.com/)
 
-### Ветки Reddit
+## Ветки Reddit
 - [/analyzit](https://www.reddit.com/r/analyzit)
 - [/datascience](https://www.reddit.com/r/datascience)
 - [/datacleaning](https://www.reddit.com/r/datacleaning)
@@ -44,20 +44,20 @@
 - [/JupyterNotebooks](https://www.reddit.com/r/JupyterNotebooks)
 - [/opendata](https://www.reddit.com/r/opendata)
 
-### Разделы StackExchange
+## Разделы StackExchange
 - [Data Science](https://datascience.stackexchange.com/)
 - [Cross Validated](https://stats.stackexchange.com/)
 
-### Блокноты Jupyter
+## Блокноты Jupyter
 - 🌟 [Jupyter Notebook: галерея блокнотов по ML и Data Science](https://proglib.io/p/jupyter-notebook-best) ([ист.](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks))
 - [Добавляем в Jupyter Notebooks красоту и интерактивность](https://habr.com/ru/post/485318/) (Хабр, OvkHabr)
 - 🌟 [maelfabien/Machine_Learning_Tutorials](https://github.com/maelfabien/Machine_Learning_Tutorials)
 
-### Slack
+## Slack
 - [Open Data Science](http://ods.ai) – то, с чего вообще стоит начинать – самое крупное мировое сообщество 
 - [Slack Томской группы по ML](https://tomskml.slack.com/) ([анкета для регистрации](https://docs.google.com/forms/d/e/1FAIpQLSdYpgm7T80JpyBPt6NMgRP_4jne7v_qaGFjy8wDrS4fNajMDA/viewform?c=0&w=1))
 
-### Telegram-каналы о Data Science
+## Telegram-каналы о Data Science
 - [Новостной канал сообщества Open Data Science](https://t.me/opendatascience)
 - [Small Data Science for Russian Adventures](https://t.me/smalldatascience) – канал Александра Дьяконова (dyakonov.org) о машинном обучении, глубоком обучении, анализе данных, науке о данных и математике
 - [ODS Ru](https://t.me/ods_ru)  другой канал, в основном информация о мероприятиях
@@ -87,10 +87,10 @@
 - [Deep Learning](https://vk.com/deeplearning)
 - [Neurohive](https://vk.com/neurohive) - новости из мира Data Science и Machine Learning
 
-### Facebook-страницы по Data Science
+## Facebook-страницы по Data Science
 - [ML-тренировки в Москве](https://www.facebook.com/groups/1413405125598651/)
 
-### ▶️ YouTube и другие видеоплатформы с информацией о Data Science
+## ▶️ YouTube и другие видеоплатформы с информацией о Data Science
 -  [Computer Science Center](https://www.youtube.com/channel/UC0YHNueF-3Nh3uQT0P4YQZw) -- видеозаписи лекций и докладов преподавателей Computer Science Center, короткие тематические записи на интересные темы в компьютерных науках или программировании. Видео удобно организованы в плейлисты: [машинное обучение](https://www.youtube.com/watch?v=pkI64ocefFU&list=PLlb7e2G7aSpSWVExpq74FnwFnWgLby56L) ([вторая часть](https://www.youtube.com/watch?v=TEyEWTYII64&list=PLlb7e2G7aSpSSsCeUMLN-RxYOLAI9l2ld)), [анализ изображений и видео](https://www.youtube.com/watch?v=zNCvTcoM1I4&list=PLlb7e2G7aSpR6L3pqVh8124ZITsmWckQZ) ([вторая часть](https://www.youtube.com/watch?v=azkzDWi8X64&list=PLlb7e2G7aSpQ4C5ykr2Ce1mfxM01l6_HV)), [введение в обработку естественного языка](https://www.youtube.com/watch?v=1lICvMHJ8RE&list=PLlb7e2G7aSpRTcBciP6VBJJPvdH_DXRXQ), [анализ данных на Python в примерах и задачах](https://www.youtube.com/watch?v=enpPFqcIFj8&list=PLlb7e2G7aSpRb95_Wi7lZ-zA6fOjV3_l7) ([продолжение](https://www.youtube.com/watch?v=enpPFqcIFj8&list=PLlb7e2G7aSpRb95_Wi7lZ-zA6fOjV3_l7)), [анализ данных на R](https://www.youtube.com/watch?v=8mwJ3mEjdIg&list=PLlb7e2G7aSpSSa_PlFEwnd6-3gzAa08_m), [технологии хранения и обработки больших объемов данных](https://www.youtube.com/watch?v=PukjnXwGDaE&list=PLlb7e2G7aSpS_tveNoxgn1Zqmg-VhD95i), [математическая статистика](https://www.youtube.com/watch?v=n_F5V3Bdywk&list=PLlb7e2G7aSpRG_Ve6kuxc9Biuwyf42kJx)
 - [Open Data Science Video](https://www.youtube.com/channel/UCM9ECBAZtlLeEr-m3ldZ7Tw/videos) -- видео сообщества ods.ai о карьере в Data Science, записи выступлений по специальным вопросам и соревнованиям.
 - [30 YouTube-каналов и плейлистов о Data Science](https://proglib.io/p/30-youtube-kanalov-i-pleylistov-o-data-science-2020-06-17)
@@ -140,10 +140,10 @@
 - [365 Data Science](https://www.youtube.com/c/365DataScience/videos)
 - [Data Science Society](https://www.youtube.com/channel/UC5Uikv2NXsZ4ZEWOGyW__3A)
 
-### Twitter
+## Twitter
 - [Мой список для чтения](https://twitter.com/i/lists/1333460025780658177)
 
-### Хабы Habr
+## Хабы Habr
 - [Data Engineering](https://habr.com/ru/hub/data_engineering/) – вопросы сбора и подготовки данных
 - [Машинное обучение](https://habr.com/ru/hub/machine_learning/)
 - [Искусственный интеллект](https://habr.com/ru/hub/artificial_intelligence/)
@@ -172,7 +172,7 @@
 -   [The Ravit Show](https://www.youtube.com/channel/UC4yopSSlBfw2WAykLPTYH-w/featured)
 
 
-### YouTube-каналы организаций, связанных с развитием Data Science
+## YouTube-каналы организаций, связанных с развитием Data Science
 -   [DeepMind](https://www.youtube.com/c/DeepMind/videos)
 -   [TensorFlow](https://www.youtube.com/c/TensorFlow/featured)
 -   [Google Cloud Tech](https://www.youtube.com/user/googlecloudplatform/featured)

@@ -1,8 +1,10 @@
-## Репозитории и программное обеспечение для машинного обучения
+# Репозитории и программное обеспечение для машинного обучения
+
 - [100 репозиториев по машинному обучению](http://meta-guide.com/software-meta-guide/100-best-github-machine-learning)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) — тщательно подобранный список фреймворков, библиотек и программного обеспечения для машинного обучения
 
-## Библиотеки машинного обучения
+# Библиотеки машинного обучения
+
 - [MLflow](https://github.com/mlflow/mlflow) – платформа для оптимизации разработки приложений машинного обучения, предоставляющая набор облегченных API-интерфейсов к TensorFlow, PyTorch, XGBoost и т. д.
 - [scikit-learn](https://scikit-learn.org/stable/) – алгоритмы машинного обучения
 - [xgboost](https://xgboost.readthedocs.io/en/latest/)

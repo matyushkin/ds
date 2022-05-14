@@ -1,12 +1,15 @@
-## Источники, прицельно посвященные вопросам Big Data
+# Источники, прицельно посвященные вопросам Big Data
 
-### Reddit
+## Reddit
+
 - [/bigdata](https://www.reddit.com/r/bigdata)
 - [/bigdatajobs](https://www.reddit.com/r/bigdatajobs)
 
-### Telegram
+## Telegram
+
 - [Чат Big Data](https://t.me/bigdata_ru)
 
-### Хабы Habr
+## Хабы Habr
+
 - [Big Data](https://habr.com/ru/hub/bigdata/)
 - [Hadoop](https://habr.com/ru/hub/Hadoop/)

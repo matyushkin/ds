@@ -1,4 +1,5 @@
-## Открытые данные для компьютерного зрения
+# Открытые данные для компьютерного зрения
+
 - [VisualData](https://www.visualdata.io/). Датасеты для компьютерного зрения, разбитые по категориям. Доступен поиск.
 - [xView](http://xviewdataset.org/#dataset). Один из самых больших общедоступных наборов воздушных снимков земли. Он содержит изображения различных сцен со всего мира, аннотированных с помощью ограничительных рамок.
 - [Labelme](http://labelme.csail.mit.edu/Release3.0/browserTools/php/dataset.php). Большой датасет аннотированных изображений.
@@ -12,7 +13,8 @@
 - [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/). Содержит 20 580 изображений из 120 пород собак.
 - [Indoor Scene Recognition](http://web.mit.edu/torralba/www/indoor.html). Датасет для распознавания интерьера зданий. Содержит 15 620 изображений и 67 категорий.
 
-### Автопилоты
+## Автопилоты
+
 - [Berkeley DeepDrive BDD100k](https://bdd-data.berkeley.edu/). На данный момент это самый большой датасет для автопилотов. Он содержит более 100 000 видео с более чем 1100 часами записей вождения в разное время дня и в различных погодных условиях.
 - [Baidu Apolloscapes](http://apolloscape.auto/). Большой датасет для распознавания 26 семантически разных объектов вроде машин, велосипедов, пешеходов, зданий, уличных фонарей и т. д.
 - [Comma.ai](https://archive.org/details/comma-dataset). Более семи часов езды по шоссе. Датасет включает информацию о скорости машины, ускорении, угле поворота руля и GPS-координатах.
@@ -23,4 +25,3 @@
 - [Bosch Small Traffic Light Dataset](https://hci.iwr.uni-heidelberg.de/node/6132). Датасет с 24 000 аннотированных светофоров.
 - [LaRa Traffic Light Recognition](http://www.lara.prd.fr/benchmarks/trafficlightsrecognition). Ещё один датасет для распознавания светофоров.
 - [WPI datasets](http://computing.wpi.edu/dataset.html). Датасет для распознавания светофоров, пешеходов и дорожной разметки.
-

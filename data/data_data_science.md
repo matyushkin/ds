@@ -1,6 +1,7 @@
-## Источники открытых данных для Data Science
+# Источники открытых данных для Data Science
 
-### Global
+## Global
+
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
 - [Датасеты Kaggle](https://www.kaggle.com/datasets)
 - [Global Open Data Index](https://index.okfn.org/) ― отслеживание открытых данных правительств различных стран
@@ -13,8 +14,8 @@
 - [Датасеты проекта Papers with Code](https://paperswithcode.com/datasets?q=&v=lst&o=newest)
 - [DataHub](https://datahub.io/)
 
+## Россия
 
-### Россия
 - [Российский федеральный портал открытых данных](http://data.gov.ru/)
 - [Мультистат](http://multistat.ru/)
 - [Открытые НКО](https://openngo.ru/)
@@ -27,12 +28,12 @@
 - [Открытые данные Министерства финансов](https://minfin.gov.ru/opendata/)
 - [Открытые данные Министерства культуры](https://opendata.mkrf.ru/)
 
+## Открытые данные отдельных городов России
 
-### Открытые данные отдельных городов России
 - [Портал открытых данных правительства Москвы](https://data.mos.ru/)
 - [Открытые данные Санкт-Петербурга](https://data.gov.spb.ru/)
 - [Каталог государственных сайтов Санкт-Петербурга](https://esir.gov.spb.ru/)
-- [Анапа ](ttp://www.anapa-official.ru/opendata/)
+- [Анапа](ttp://www.anapa-official.ru/opendata/)
 - [Георгиевск](http://www.georgievsk.ru/about/opendata/)
 - [Зеленоград](http://www.zelao.ru/opendata/)
 - [Йошкар-Ола](http://www.i-ola.ru/opendata/)
@@ -43,8 +44,8 @@
 - [Челябинск](http://socchel.ru/otkrytye-dannye)
 - [Южно-Сахалинск](http://yuzhno-sakh.ru/dirs/1462)
 
+## Открытые данные отдельных регионов России
 
-### Открытые данные отдельных регионов России
 - [Астраханская область]( http://egov.astrobl.ru/opendata/nabory-otkrytyh-dannyh)
 - [Волгоградская область](http://old.volganet.ru/files/opendata/)
 - [Вологодсая область](http://opendata.gov35.ru/)
@@ -60,15 +61,17 @@
 - [Хабаровский край](http://www.khv.gov.ru/ODOpenData/ChooseData)
 - [Ярославская область](http://www.yarregion.ru/opendata/default.aspx)
 
+## Открытые данные других стран
 
-### Открытые данные других стран
 - [Data.gov](https://www.data.gov/) –  данные государственных учреждений США
 - [Великобритания](data.gov.uk)
 
-### Медицинские данные
--   [MIMIC-III](https://mimic.physionet.org/). Датасет с обезличенными данными о состоянии здоровья 40 тыс. пациентов, находящихся на интенсивной терапии. Он включает демографические данные, показатели жизнедеятельности, лабораторные анализы
+## Медицинские данные
 
-### Научные статьи
+- [MIMIC-III](https://mimic.physionet.org/). Датасет с обезличенными данными о состоянии здоровья 40 тыс. пациентов, находящихся на интенсивной терапии. Он включает демографические данные, показатели жизнедеятельности, лабораторные анализы
+
+## Научные статьи
+
 - [scholar.google.com](https://scholar.google.com/)
 - [arxiv.org](https://arxiv.org/)
 - [arxiv-sanity.org](https://arxiv-sanity.org/)

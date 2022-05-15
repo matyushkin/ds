@@ -1,4 +1,5 @@
-## Книги по обработке естественного языка
+#Í Книги по обработке естественного языка
+
 - Masato Hagiwara. Real-World Natural Language Processing. Practical applications with Deep Learning. 2021.
 - Azunre P. Transfer Learning for Natural Language Processing. 2021.
 - Bansal A. Advanced Natural Language Processing with TensorFlow 2. 2021.
@@ -9,7 +10,7 @@
 - [Bird, Klein, Loper. Natural Language Processing with Python](http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf) (PDF). Переведена на русский под названием «Берд, Кляйн и Лопер. Обработка естественного языка с Python»
 - Kulkarni A, Shivananda A. Natural Language Processing Recipes Unlocking Text Data with Machine Learning and Deep Learning using Python. 2019.
 - Dipanjan Sarkar. Text Analytics with Python. A Practitioners Guide to Natural Language Processing. Second Edition. 2019.
-- Hobson Lane, Cole Howard, Hannes Max Hapke. Natural Language Processing in Action: Understanding, analyzing, and generating text with Python. 2019. 
+- Hobson Lane, Cole Howard, Hannes Max Hapke. Natural Language Processing in Action: Understanding, analyzing, and generating text with Python. 2019.
 - Goldberg Y. Neural Network Methods for Natural Language Processing. 2017. (Переведена на русский язык: Гольдберг. Нейросетевые методы в обработке естественного языка. 2019)
 - Mihalcea R., Radev D. Graph-based Natural Language Processing and Information Retrieval. 2011.
 - C. D. Manning, P. Raghavan, H. Schütze. Introduction to Information Retrieval (переведена на русский язык: Маннинг К., Рагхаван П., Шютце Х. «Введение в информационный поиск»2011)
@@ -21,9 +22,11 @@
 - C. В. Manning, H. Schütze (1999) [Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/).
 
 ## Книги по обработке естественного языка для русского языка
+
 - Большакова Е.И., Клышинский Э.С. [Автоматическая обработка текстов на естественном языке и компьютерная лингвистика](http://clschool.miem.edu.ru/uploads/swfupload/files/011a69a6f0c3a9c6291d6d375f12aa27e349cb67.pdf) (pdf)
 
 ## Для разных языков на русском языке
+
 - Васильев Ю. Обработка естественного языка. Python и spaCy на практике. Питер, 2021.
 - Хобсон, Ханнес, Коул. «Обработка естественного языка в действии». Питер, 2020.
 - Ганегедара Т. Обработка естественного языка с TensorFlow. ДМК, 2020.
@@ -33,6 +36,7 @@
 - Риз. Обработка естественного языка на Java. 2016.
 
 ## Периодика
+
 - [ACL Anthology](http://www.aclweb.org/anthology/) - материалы основных конференций по NLP (полезно следить за ACL, EACL, NAACL, RANLP, EMNLP)
 - [Computational Linguistics](https://www.mitpressjournals.org/loi/coli)  
 - [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering)

@@ -8,8 +8,9 @@
 ## Hadoop
 
 - Чак Лэм. Hadoop в действии, 2019.
-- White T. Hadoop: The Definitive Guide. [Четвертое издание, 2015](https://grut-computing.com/HadoopBook.pdf).
+- Hadoop BIG DATA Interview Questions You'll Most Likely Be Asked. 2017.
 - Bengfort, Kim. Data Analytics with Hadoop. 2016.
+- White T. Hadoop: The Definitive Guide. [Четвертое издание, 2015](https://grut-computing.com/HadoopBook.pdf).
 
 ## Spark
 

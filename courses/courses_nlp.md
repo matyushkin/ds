@@ -12,6 +12,3 @@
 - Microsoft edX: ["Natural Language Processing"](https://www.edx.org/course/natural-language-processing-nlp)
 - Udacity: ["Become a Natural Language Processing Expert"](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
 
-## Разделы с научными статьями на arXiv.org
-
-- **cs.CL - Computation and Language** ([new](https://arxiv.org/list/cs.CL/new), [recent](https://arxiv.org/list/cs.CL/recent), [current month](https://arxiv.org/list/cs.CL/current))

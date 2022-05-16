@@ -11,4 +11,3 @@
 - Fast.ai:  [YouTube](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9), [блог-пост](https://www.fast.ai/2019/07/08/fastai-nlp/), [репозиторий github](https://github.com/fastai/course-nlp)
 - Microsoft edX: ["Natural Language Processing"](https://www.edx.org/course/natural-language-processing-nlp)
 - Udacity: ["Become a Natural Language Processing Expert"](https://www.udacity.com/course/natural-language-processing-nanodegree--nd892)
-

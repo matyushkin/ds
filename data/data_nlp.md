@@ -4,9 +4,10 @@
 - Предобученные вектора для русского языка и интерактивные примеры [RusVectōrēs](https://rusvectores.org/ru/)
 
 ## Параллельные корпуса
-
+- [Parallel corpora](https://www.clarin.eu/resource-families/parallel-corpora)
 - [Europarl](https://www.statmt.org/europarl/)  
-- [UN Corpus](https://conferences.unite.un.org/UNCorpus/)  
+- [UN Corpus](https://conferences.unite.un.org/UNCorpus/)
+- [LDC Un Parallel text](https://catalog.ldc.upenn.edu/LDC94T4A)
 - [Opus](http://opus.nlpl.eu/)
 
 ### Международные базы данных, корпусы и датасеты

@@ -76,3 +76,7 @@
 - [arxiv.org](https://arxiv.org/)
 - [arxiv-sanity.org](https://arxiv-sanity.org/)
 - [paperswithcode.com](https://paperswithcode.com/)
+
+## Открытые API
+
+- [GitHub-подборка открытых API различного назначения](https://github.com/public-apis/public-apis)

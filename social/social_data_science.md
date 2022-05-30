@@ -59,6 +59,7 @@
 
 ## Telegram-каналы о Data Science
 - [Новостной канал сообщества Open Data Science](https://t.me/opendatascience)
+- [Data Science Info (англ.)](https://t.me/data_science_info)
 - [Small Data Science for Russian Adventures](https://t.me/smalldatascience) – канал Александра Дьяконова (dyakonov.org) о машинном обучении, глубоком обучении, анализе данных, науке о данных и математике
 - [ODS Ru](https://t.me/ods_ru)  другой канал, в основном информация о мероприятиях
 - [Чат по большим данным, обработке и машинному обучению](https://t.me/bigdata_ru)

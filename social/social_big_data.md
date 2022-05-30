@@ -7,7 +7,9 @@
 
 ## Telegram
 
-- [Чат Big Data](https://t.me/bigdata_ru)
+- [Чат Big Data на русском](https://t.me/bigdata_ru)
+- [Чат Big Data на английском](https://t.me/bigdata_en)
+
 
 ## Хабы Habr
 

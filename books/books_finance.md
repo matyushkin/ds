@@ -3,6 +3,7 @@
 ## На английском языке
 
 - Tshepo Chris Nokeri. Econometrics and Data Science. Apply Data Science Techniques to Model Complex Problems and Implement Solutions for Economic Problems. 2021
+- Yves Hilpisch.Python for Algorithmic Trading. 2021
 - Lewinson E. Python for Finance Cookbook. Packt Publishing, 2020.
 - Hilpisch Y. Python for Finance: Mastering Data-Driven Finance. O'Reilly Media, 2019.
 - Yoon Hyup Hwang. Hands-On Data Science for Marketing. Improve your marketing strategies with machine learning using Python and R. Packt, 2019. 

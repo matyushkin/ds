@@ -43,6 +43,7 @@
 - Пратик Дж. Искусственный интеллект с примерами на Python, 2019.
 - Micha Gorelick, Ian Ozsvald. High Performance Python: Practical Performant Programming for Humans. 2020. (объясняется работа интерпретатора и механик кода, способов взаимодействия с памятью)
 - Дэвидсон-Пайлон К. Вероятностное программирование на Python: байесовский вывод и алгоритмы. Питер, 2019.
+- Элбон Крис. Машинное обучение с использованием Python. Сборник рецептов. БХВ-Петербург, 2019
 - Andriy Burkov. The Hundred-Page Machine Learning Book. 2019.
 - Aurelien Geron. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow. O'Reilly Media, 2019.
 - Python Machine Learning. Third edition: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2. Packt. 2019.
@@ -54,6 +55,8 @@
 ### Книги по Python, не относящиеся напрямую к Data Science, но полезные для создания DS-продуктов
 
 - Matthew Fowler. Python Concurrency with asyncio. Manning, 2022
+- Любанович Б. Простой Python. Современный стиль программирования. 2-е изд. 2022.
+- Гифт Ной. Python и DevOps: Ключ к автоматизации Linux. Прогресс книга, 2022
 
 ### Учебники по R
 

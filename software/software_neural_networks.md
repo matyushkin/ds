@@ -5,3 +5,6 @@
 - [TensorFlow](https://www.tensorflow.org/): [документация по API](https://www.tensorflow.org/api_docs)
 - [PyTorch](https://pytorch.org/)
 - [Caffe](http://caffe.berkeleyvision.org/)
+
+# GPT-подобные нейросети
+- [YaLM 100B](https://github.com/yandex/YaLM-100B)

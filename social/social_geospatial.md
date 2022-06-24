@@ -67,3 +67,7 @@
 - [t.me/rumapporn](https://t.me/rumapporn)
 - [t.me/zbikemap_ru](https://t.me/zbikemap_ru)
 - [ActiveTrip.me](https://t.me/activetripme_ru) ([eng](https://t.me/activetripme), [CEO](https://t.me/shirokolobov))
+
+## Хабы 
+- [Геоинформационные сервисы](https://habr.com/ru/hub/geo/)
+- [OpenStreetMap](https://habr.com/ru/hub/openstreetmap/)

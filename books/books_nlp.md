@@ -7,8 +7,10 @@
 - [Jurafsky D., Martin J. Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition](https://web.stanford.edu/~jurafsky/slp3/). 2020.
 - Vajjala S., Majumder B., Gupta A., Surana H. Practical Natural Language Processing. A Comprehensive Guide to Building Real-World NLP Systems. 2020.
 - Alex Tomas. Natural Language Processing with Spark NLP. 2020.
+- Mathangi Sri. Practical Natural Language Processing with Python. 2020. 
 - [Bird, Klein, Loper. Natural Language Processing with Python](http://www.datascienceassn.org/sites/default/files/Natural%20Language%20Processing%20with%20Python.pdf) (PDF). Переведена на русский под названием «Берд, Кляйн и Лопер. Обработка естественного языка с Python»
 - Kulkarni A, Shivananda A. Natural Language Processing Recipes Unlocking Text Data with Machine Learning and Deep Learning using Python. 2019.
+- Sohom Ghosh, Dwight Gunning. Natural Language Processing Fundamentals. Packt Publishing. 2019. 
 - Dipanjan Sarkar. Text Analytics with Python. A Practitioners Guide to Natural Language Processing. Second Edition. 2019.
 - Hobson Lane, Cole Howard, Hannes Max Hapke. Natural Language Processing in Action: Understanding, analyzing, and generating text with Python. 2019.
 - Goldberg Y. Neural Network Methods for Natural Language Processing. 2017. (Переведена на русский язык: Гольдберг. Нейросетевые методы в обработке естественного языка. 2019)

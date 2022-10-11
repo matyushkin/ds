@@ -8,10 +8,11 @@
 ## Hadoop
 
 - Чак Лэм. Hadoop в действии, 2019.
-- Sridhar Alla. Big Data Analytics with Hadoop 3. Pack, 2018.
+- Sridhar Alla. Big Data Analytics with Hadoop 3. Packt, 2018.
+- Dipayan Dev. Deep Learning with Hadoop.Packt, 2017.
 - Hadoop BIG DATA Interview Questions You'll Most Likely Be Asked. 2017.
 - Bengfort, Kim. Data Analytics with Hadoop. 2016.
-- White T. Hadoop: The Definitive Guide. [Четвертое издание, 2015](https://grut-computing.com/HadoopBook.pdf).
+- White T. Hadoop: The Definitive Guide. [Четвертое издание, 2015, есть в переводе Уайт Том. Hadoop: Подробное руководство](https://grut-computing.com/HadoopBook.pdf).
 
 ## Spark
 

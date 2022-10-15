@@ -5,10 +5,9 @@
 - Westra E. Python Geospatial Development, Third Edition. Packt Publishing, 2016
 - Michael Diener. Python Geospatial Analysis Cookbook. Packt Publishing, 2015
 - Joel Lawhead. Learning GeoSpatial Analysis with Python, 2nd Edition. Packt Publishing, 2015
-
+- Michael Dorman. Learning R for Geospatial Analysis. Packt Publishing, 2014
 
 ### На русском языке 
 
 - Нинчуань Сяо. Алгоритмы ГИС. Теория и применение геоинформационных систем и технологий. ДМК Пресс, 2021
 - Вестра Э. Разработка геоприложений на языке Python / пер. с англ. А. В. Логунова. – М.: ДМК Пресс, 2017
-

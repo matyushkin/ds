@@ -45,6 +45,7 @@
 
 - Постолит А. В. Основы искусственного интеллекта в примерах на Python. БХВ-Петербург, 2021.
 - Маккини Уэс. Python и анализ данных. ДМК Пресс, 2020.
+- Себастьян Рашка, Вахид Мирджалили. Python и машинное обучение. Диалектика, 2020.
 - Пратик Дж. Искусственный интеллект с примерами на Python, 2019.
 - Micha Gorelick, Ian Ozsvald. High Performance Python: Practical Performant Programming for Humans. 2020. (объясняется работа интерпретатора и механик кода, способов взаимодействия с памятью)
 - Дэвидсон-Пайлон К. Вероятностное программирование на Python: байесовский вывод и алгоритмы. Питер, 2019.
@@ -64,7 +65,7 @@
 - Гифт Ной. Python и DevOps: Ключ к автоматизации Linux. Прогресс книга, 2022
 
 ### Учебники по R
-
+- Wiley M., Wiley J.F.  Advanced R Statistical Programming and Data Models: Analysis, Machine Learning, and Visualization. Apress, 2019
 - [Advanced R](http://adv-r.had.co.nz/)
 - [Learning Statistics with R](https://web.archive.org/web/20170319021353/http://health.adelaide.edu.au:80/psychology/ccs/teaching/lsr/)
 - Кабаков. R в действии. Анализ и визуализация данных на языке R

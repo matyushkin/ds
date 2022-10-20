@@ -66,10 +66,15 @@
 - Гифт Ной. Python и DevOps: Ключ к автоматизации Linux. Прогресс книга, 2022
 
 ### Учебники по R
+- Zumel N., Mount J. Practical Data Science with R, 2nd edition. 2020
+- Yves Croissant, Giovanni Millo. Panel Data Econometrics with R. Wiley, 2019. 
 - Wiley M., Wiley J.F.  Advanced R Statistical Programming and Data Models: Analysis, Machine Learning, and Visualization. Apress, 2019
 - [Advanced R](http://adv-r.had.co.nz/)
 - [Learning Statistics with R](https://web.archive.org/web/20170319021353/http://health.adelaide.edu.au:80/psychology/ccs/teaching/lsr/)
 - Кабаков. R в действии. Анализ и визуализация данных на языке R
+- Togo L. Data Mining with R: Learning with Case Studies, 2nd Edition. 2017.
+- Hadley Wickham and Garrett Grolemund. R for Data Science. O’Reilly Media, 2017.
+- Long J.D., Teetor P. R Cookbook Proven Recipes for Data Analysis, Statistics, and Graphics (на русском в переводе: Лонг Дж.Д., Титор П. R. Книга рецептов. ДМК Пресс, 2009)
 
 ### Учебники по Julia
 - Kalicharan N. Julia — Bit by Bit. Programming for Beginners. Springer, 2021.
@@ -80,7 +85,9 @@
 
 ### Учебники по Data Science на Java
 
-- R. Shams. Java Data Science Cookbook
+- R. Shams. Java Data Science Cookbook. Packt, 2017.
+- Reese J., Reese R. Java for Data Science. Packt, 2017.
+- Reese R.M., Reese J.L., Grigorev A. Java: Data Science Made Easy. Packt, 2017.
 
 ## Визуализация данных
 

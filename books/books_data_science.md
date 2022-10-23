@@ -66,17 +66,20 @@
 - Гифт Ной. Python и DevOps: Ключ к автоматизации Linux. Прогресс книга, 2022
 
 ### Учебники по R
+
 - Zumel N., Mount J. Practical Data Science with R, 2nd edition. 2020
-- Yves Croissant, Giovanni Millo. Panel Data Econometrics with R. Wiley, 2019. 
-- Wiley M., Wiley J.F.  Advanced R Statistical Programming and Data Models: Analysis, Machine Learning, and Visualization. Apress, 2019
+- Yves Croissant, Giovanni Millo. Panel Data Econometrics with R. Wiley, 2019.
+- Wiley M., Wiley J.F. Advanced R Statistical Programming and Data Models: Analysis, Machine Learning, and Visualization. Apress, 2019
 - [Advanced R](http://adv-r.had.co.nz/)
 - [Learning Statistics with R](https://web.archive.org/web/20170319021353/http://health.adelaide.edu.au:80/psychology/ccs/teaching/lsr/)
 - Кабаков. R в действии. Анализ и визуализация данных на языке R
 - Togo L. Data Mining with R: Learning with Case Studies, 2nd Edition. 2017.
 - Hadley Wickham and Garrett Grolemund. R for Data Science. O’Reilly Media, 2017.
+- Norman Matloff. Parallel Computing for Data Science: With Examples in R, C++ and CUDA. Chapman and Hall/CRC. 2015
 - Long J.D., Teetor P. R Cookbook Proven Recipes for Data Analysis, Statistics, and Graphics (на русском в переводе: Лонг Дж.Д., Титор П. R. Книга рецептов. ДМК Пресс, 2009)
 
 ### Учебники по Julia
+
 - Kalicharan N. Julia — Bit by Bit. Programming for Beginners. Springer, 2021.
 - Julia 1.0 Programming Complete Reference Guide. Packt Publishing, 2019.
 - McNicholas P.D., Tait P. Data Science with Julia. CRC Press, 2019.
@@ -91,13 +94,15 @@
 
 ## Визуализация данных
 
-- Базалева О. И. Мастерство визуализации данных, 2018
-- Cole Nussbaumer Knaflic. Storytelling with Data: A Data Visualization Guide for Business Professionals  – как качественно визуализировать результаты
+- Molin S. Hands-On Data Analysis with Pandas: Efficiently perform data collection, wrangling, analysis, and visualization using Python. Packt, 2019.
+- Базалева О. И. Мастерство визуализации данных. Диалектика-Вильямс, 2018.
+- Kieran Healy. Data Visualization: A Practical Introduction. Princeton University Press, 2018.
+- Cole Nussbaumer Knaflic. Storytelling with Data: A Data Visualization Guide for Business Professionals – как качественно визуализировать результаты
 - Steve Wexler, Jeffrey Shaffer, Andy Cotgreave. The Big Book of Dashboards. Visualizing Your Data Using Real-World Business Scenarios
 
 ## Подготовка к собеседованиям
 
-- RocketPrep Ace Your Data Science Interview 300 Practice Questions and Answers
+- Zack Austin. RocketPrep Ace Your Data Science Interview 300 Practice Questions and Answers
 
 ## Разделы с научными статьями на arXiv.org
 

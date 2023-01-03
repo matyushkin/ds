@@ -34,8 +34,8 @@
 ## Курсы по языкам программирования и другим инструментам Data Science
 
 ### Python
-
 - [Программирование на Python](https://stepik.org/67) (Stepik ★4.8, Институт Биоинформатики)
+- [Основы Python](https://ru.hexlet.io/courses/js-basics) (Hexlet)
 
 ### R
 
@@ -62,3 +62,18 @@
 
 - [Kaggle: Data Visualization](https://www.kaggle.com/learn/data-visualization)
 
+## Бесплатные курсы по смежным дисциплинам Computer Science
+
+### Linux
+- [Основы командной строки](https://ru.hexlet.io/courses/cli-basics) (Hexlet)
+- [Операционные системы](https://ru.hexlet.io/courses/operating_systems) (Hexlet)
+
+### Протоколы
+- [Введение в интернет](https://ru.hexlet.io/courses/internet-fundamentals) (Hexlet)
+
+### Frontend
+- [Основы современной верстки](https://ru.hexlet.io/courses/layout-designer-basics) (Hexlet)
+- [Основы JavaScript](https://ru.hexlet.io/courses/js-basics) (Hexlet)
+
+### Backend
+- [Основы Go](https://ru.hexlet.io/courses/go-basics) (Hexlet)

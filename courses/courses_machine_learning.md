@@ -28,3 +28,4 @@
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course) – курс Google
 - [Coursera: Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) – приятный курс Стэнфорда
 - [Seeing Theory](https://seeing-theory.brown.edu/) – короткий курс по теории вероятностей и математической статистике
+- [Machine Learning with Python: A Practical Introduction](https://www.edx.org/course/machine-learning-with-python-a-practical-introduct) – бесплатный курс IBM на EDX

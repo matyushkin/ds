@@ -4,6 +4,7 @@
 
 - [Аналитик данных](https://praktikum.yandex.ru/data-analyst) (Яндекс.Практикум, бесплатен первый курс)
 - [Специалист по Data Science](https://praktikum.yandex.ru/data-scientist) (Яндекс.Практикум, бесплатен первый курс)
+- [Data Science: будущее для каждого](https://netology.ru/programs/dsfuture) (Нетология, 3 занятия)
 
 ## Курсы и специализации по Data Science в целом
 

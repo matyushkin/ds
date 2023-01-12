@@ -14,3 +14,7 @@
 - [Hnswlib](https://github.com/nmslib/hnswlib) – библиотека быстрого приближенного поиска ближайших соседей
 - [Non-Metric Space Library](https://github.com/nmslib/nmslib) – библиотека поиска подобия и набор инструментов для оценки поиска
 - [Faiss](https://github.com/facebookresearch/faiss) – библиотека для поиска сходства и кластеризации плотных векторов
+
+# Обертки высокого уровня абстракции
+
+- [pycaret](https://pycaret.gitbook.io/docs/)

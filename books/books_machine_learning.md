@@ -9,7 +9,7 @@
 - Lane D. etc. [OnlineStatBook](http://onlinestatbook.com/). Rice University
 - James G., Witen D., Hastie T., Tibshirani R. [An Introduction to Statistical Learning](https://www.ime.unicamp.br/~dias/Intoduction%20to%20Statistical%20Learning.pdf) — введение в методы статистического обучения с лабораторными работами на языке R
 - Dekking F.M., Kraaikamp C., Lopuhaa H.P., Meester L.E. [A Modern Introduction to
-Probability and Statistics](https://cis.temple.edu/~latecki/Courses/CIS2033-Spring13/Modern_intro_probability_statistics_Dekking05.pdf). 2005. – подробный ясный учебник по теории вероятностей и математической статистике с большим количеством примеров и упражнений
+  Probability and Statistics](https://cis.temple.edu/~latecki/Courses/CIS2033-Spring13/Modern_intro_probability_statistics_Dekking05.pdf). 2005. – подробный ясный учебник по теории вероятностей и математической статистике с большим количеством примеров и упражнений
 
 ## Машинное обучение для новичков
 
@@ -17,6 +17,7 @@ Probability and Statistics](https://cis.temple.edu/~latecki/Courses/CIS2033-Spri
 
 ## Машинное обучение
 
+- Григорьев Алексей. Машинное обучение. Портфолио реальных проектов. Питер, 2023. - практическое введение в базовое машинное обучение, NumPy, scikit-learn, pandas, TensorFlow, обучение с развертыванием в Kubernetes на AWS
 - Лакшманан Валиаппа. Машинное обучение. Паттерны проектирования. БХВ-Петербург, 2022.
 - Hal Daume III. [A Course in Machine Learning](http://ciml.info/dl/v0_9/ciml-v0_9-all.pdf). 2015 – прекрасно оформленный вводный курс в машинное обучение (PDF)
 - Hastie T., Tibshirani R., Friedman J.. The elements of statistical learning. 2009. — классический способ начать знакомиться с машинным обучением, если вас не пугает математика

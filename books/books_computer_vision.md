@@ -1,5 +1,6 @@
 # Книги по компьютерному (машинному) зрению (Computer Vision)
 
+- Коул Анирад, Ганджу Сидха, Казам Мехер. Искусственный интеллект и компьютерное зрение. Реальные проекты на Python, Keras и TensorFlow. Питер, 2023.
 - Клетте Р. Компьютерное зрение: теория и алгоритмы. 2019 (обработка и анализ изображений, сегментация, реконструкция, обнаружение объектов; есть цветные иллюстрации, упражнения, нужно владеть математическим аппаратом).
 - Justin Solomon. Numerical Algorithms. Methods for Computer Vision, Machine learning and Graphics. 2015 (очень емкое, но при этом практичное введение в те части линейной алгебры, оптимизационных методов, матанализа и дифференциальных, которые пригождаются в компьютерном зрении и машинном обучении).
 - Шапиро Л., Стокман Дж. Компьютерное зрение. 2015 (основные аспекты алгоритмического распознавания образов: базовый анализ изображений, фильтрация, цвет, текстура, восприятие движения и трехмерных сцен; алгоритмы даны на псевдокоде; качественный перевод Богуславского, достойные иллюстрации)
@@ -12,8 +13,8 @@
 
 - Шакирьянов Э. Д. Компьютерное зрение на Python. Первые шаги, 2021 — учебный курс для школьников, есть цветные иллюстрации и проекты
 - Joseph Howse, Joe Minichino. Learning OpenCV 4 Computer Vision with Python. Pack Publising, 2020.
-- V Kishore Ayyadevara, Yeshwanth Reddy. Modern Computer Vision with PyTorch. Explore deep learning concepts and implement over 50 real-world image applications.  Pack Publising, 2020.
-- Dr. Benjamin Planche, Eliot Andres. Hands-On Computer Vision with TensorFlow 2. Leverage deep learning to create powerful image processing apps with TensorFlow 2.0 and Keras.  Pack Publising, 2019.
+- V Kishore Ayyadevara, Yeshwanth Reddy. Modern Computer Vision with PyTorch. Explore deep learning concepts and implement over 50 real-world image applications. Pack Publising, 2020.
+- Dr. Benjamin Planche, Eliot Andres. Hands-On Computer Vision with TensorFlow 2. Leverage deep learning to create powerful image processing apps with TensorFlow 2.0 and Keras. Pack Publising, 2019.
 - Solem J. E. [Programming Computer Vision with Python](http://programmingcomputervision.com/). На русском издана под названием «Программирование компьютерного зрения на языке Python», во многом устарела, так как прибегает в основном к использованию PIL, а не OpenCV; однако теория и алгоримы поданы понятно, много примеров, цветные иллюстрации.
 - Bryan WC Chung. Pro Processing for Images and Computer Vision with OpenCV. Apress Media, 2017.
 - Computer Vision with Python 3. Packt Publishing, 2017.
@@ -32,8 +33,8 @@
 
 ## Книги по Computer Vision на LabVIEW
 
-- Белиовская Л. Г.,  Белиовский Н.А. Основы машинного зрения в среде LabVIEW (предназначена для школьного учебного курса). ДМК Пресс, 2017.
+- Белиовская Л. Г., Белиовский Н.А. Основы машинного зрения в среде LabVIEW (предназначена для школьного учебного курса). ДМК Пресс, 2017.
 
-## Научно популярные книги о биологическом и компьютерном зрении 
+## Научно популярные книги о биологическом и компьютерном зрении
 
 - Крейман Г. Биологическое и компьютерное зрение. ДМК Пресс, 2022.

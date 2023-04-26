@@ -18,6 +18,6 @@
 
 ## Spark
 
-- Перрен Жан. Spark в действии. ДМК Пресс, 2021.
-- Jean-Georges Perrin. Spark in Action, Second Edition. 2020.
+- Jean-Georges Perrin. Spark in Action, Second Edition. 2020. Переводное издание: Перрен Жан. Spark в действии. ДМК Пресс, 2021.
+  -Rachel Warren, Holden Karau. High Performance Spark
 - Карау Х., Захария М., Венделл П., Конвински Э. Изучаем Spark. Молниеносный анализ данных. ДМК Пресс, 2015.

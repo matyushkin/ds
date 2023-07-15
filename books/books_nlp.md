@@ -1,5 +1,7 @@
 # Книги по обработке естественного языка
 
+## Книги для работы с английским языком и книги для разных языков
+
 - Masato Hagiwara. Real-World Natural Language Processing. Practical applications with Deep Learning. 2021.
 - Azunre P. Transfer Learning for Natural Language Processing. 2021.
 - Bansal A. Advanced Natural Language Processing with TensorFlow 2. 2021.
@@ -22,6 +24,10 @@
 - [Probabilistic Models in the Study of Language](http://idiom.ucsd.edu/~rlevy/pmsl_textbook/text.html)
 - Abduction, belief and context in dialogue: studies in computational pragmatics. Edited by Harry Bunt, William Black. 2000.
 - C. В. Manning, H. Schütze (1999) [Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/).
+
+## Большие языковые модели
+
+- Aymen El Amri. OpenAI GPT For Python Developers Аймен Эль Амри. Leanpub. Перевод на русский: GPT-3: программирование на Python в примерах. ДМК Пресс, 2023. — Книга грешит повторяющимся кодом, но можно использовать для ознакомления с устройством OpenAI API для разных GPT-моделей.
 
 ## Книги по обработке естественного языка для русского языка
 

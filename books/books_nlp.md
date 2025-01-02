@@ -26,7 +26,7 @@
 - C. В. Manning, H. Schütze (1999) [Statistical Natural Language Processing](https://nlp.stanford.edu/fsnlp/).
 
 ## Большие языковые модели
-
+- Келен Оливье, Блете Мари-Алис.Разработка приложений на базе GPT-4 и ChatGPT. Sprint Book, 2024
 - Aymen El Amri. OpenAI GPT For Python Developers Аймен Эль Амри. Leanpub. Перевод на русский: GPT-3: программирование на Python в примерах. ДМК Пресс, 2023. — Книга грешит повторяющимся кодом, но можно использовать для ознакомления с устройством OpenAI API для разных GPT-моделей.
 
 ## Книги по обработке естественного языка для русского языка

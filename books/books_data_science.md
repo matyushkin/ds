@@ -56,7 +56,7 @@
 - Элбон Крис. Машинное обучение с использованием Python. Сборник рецептов. БХВ-Петербург, 2019
 - Andriy Burkov. The Hundred-Page Machine Learning Book. 2019.
 - Aurelien Geron. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow. O'Reilly Media, 2019.
-- Python Machine Learning. Third edition: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2. Packt. 2019.
+- Python Machine Learning. Third edition: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2. Packt, 2019.
 - Вандер Плас Дж. Python для сложных задач. Наука о данных и машинное обучение. Питер, 2018.
 - Мюллер А., Гвидо С. Введение в машинное обучение с помощью Python. Вильямс, 2017.
 - Свейгарт Эл. Автоматизация рутинных задач с помощью Python. Вильямс, 2016.

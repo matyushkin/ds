@@ -1,14 +1,14 @@
 # Книги по Big Data
 
-- Алекс Горелик. Корпоративное озеро больших данных. Новый подход к использованию Big Data и Data Science в бизнесе. Бомбора, 2023. 
-- Wolohan J. T. Mastering Large Datasets with Python. Parallelize and Distribute Your Python Code-Manning. Manning, 2020.
+- Алекс Горелик. Корпоративное озеро больших данных. Новый подход к использованию Big Data и Data Science в бизнесе. Бомбора, 2023.
+- Высоконагруженные приложения. Программирование, масштабирование, поддержка. Питер, 2022.
 - Су К., Ын А. Теоретический минимум по Big Data. Всё что нужно знать о больших данных. Питер, 2019.
 - Ульман Д. Д., Раджараман А., Лесковец Ю. Анализ больших наборов данных. ДМК Пресс, 2016.
-- Высоконагруженные приложения. Программирование, масштабирование, поддержка. Питер, 2022.
+
 
 ## Python
-
 - Big Data Analysis with Python. Packt Publishing, 2019. Рассматривается связка Python + Spark для больших данных
+- Wolohan J. T. Mastering Large Datasets with Python. Parallelize and Distribute Your Python Code-Manning. Manning, 2020.
 
 ## Hadoop
 - Garry Turkington. Hadoop Beginner's Guide. Packt Publishing, 2024.
@@ -25,5 +25,5 @@
 - Тандон А. и др. Расширенная аналитика с PySpark. БХВ, 2023.
 - Jean-Georges Perrin. Spark in Action, Second Edition. 2020. Переводное издание: Перрен Жан. Spark в действии. ДМК Пресс, 2021.
 - Rachel Warren, Holden Karau. High Performance Spark
-- Spark для профессионалов. Современные паттерны обработки больших данных. Питер, 2017
+- Сэнди Риза, Ури Лезерсон, Шон Оуэн, Джош Уиллс. Spark для профессионалов. Современные паттерны обработки больших данных. Питер, 2017
 - Карау Х., Захария М., Венделл П., Конвински Э. Изучаем Spark. Молниеносный анализ данных. ДМК Пресс, 2015.

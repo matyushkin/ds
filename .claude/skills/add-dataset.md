@@ -1,7 +1,7 @@
 # Add Dataset Skill
 
 ## Description
-This skill helps add a new dataset or data source to the appropriate section of the repository.
+This skill helps add a new dataset or data source to the appropriate section of the repository. Datasets can be documented in any language with proper language flags.
 
 ## Instructions for Claude
 
@@ -21,7 +21,8 @@ When a user wants to add a dataset, follow these steps:
    - Dataset name
    - Source/Platform (Kaggle, UCI ML Repository, Google Dataset Search, etc.)
    - Link to the dataset
-   - Brief description (in Russian): what it contains, what tasks it's suitable for
+   - Dataset language/documentation (🇬🇧 English, 🇷🇺 Russian, etc.)
+   - Brief description (in the same language): what it contains, what tasks it's suitable for
    - Dataset size (if known)
    - Data format (CSV, JSON, Images, etc.)
    - License (if important)
@@ -58,28 +59,29 @@ You should:
 4. Inform the user about the result
 
 ## Important Notes
-- Descriptions should be in Russian (repository content language)
+- **Always start entries with a language flag emoji** (🇬🇧 🇷🇺 etc.) based on dataset documentation language
+- Descriptions should be in the same language as the dataset documentation
 - Maintain the existing structure and formatting
 - Include relevant metadata (size, format, license)
 - Ensure the dataset link is accessible
 
 ## Format Examples
 
-Common formats found in data files:
+All entries must start with a language flag emoji:
 
-**Simple list with link:**
+**English dataset:**
 ```markdown
-- [Dataset Name](https://kaggle.com/dataset) – описание датасета, для каких задач подходит
+🇬🇧 [MNIST Dataset](http://yann.lecun.com/exdb/mnist/) – handwritten digits for image classification tasks (60k training, 10k test images)
+```
+
+**Russian dataset:**
+```markdown
+🇷🇺 [Датасет отзывов на товары](https://kaggle.com/...) – корпус отзывов для анализа тональности (формат: CSV, 100k записей)
 ```
 
 **With metadata:**
 ```markdown
-- [Dataset Name](https://url) (формат: CSV, размер: 100MB) – описание
-```
-
-**With source:**
-```markdown
-- [Dataset Name](https://url) от Source/Organization – описание
+🇬🇧 [ImageNet](http://www.image-net.org/) (format: images, size: 150GB) – large-scale image database for object recognition
 ```
 
 **Always match the existing format in the target file.**

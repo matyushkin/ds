@@ -1,7 +1,7 @@
 # Add Book Skill
 
 ## Description
-This skill helps add a new book to the appropriate section of the repository.
+This skill helps add a new book to the appropriate section of the repository. The repository is multilingual - books in any language are welcome with proper language flags.
 
 ## Instructions for Claude
 
@@ -18,11 +18,12 @@ When a user wants to add a book, follow these steps:
    - Big Data → `books/books_big_data.md`
 
 2. **Collect book information:**
-   - Title (in English and Russian if available)
+   - Title (in original language)
    - Author(s)
    - Publication year
    - Link to the book (if freely available)
-   - Brief description (in Russian - repository language)
+   - Language of the book (🇬🇧 English, 🇷🇺 Russian, 🇩🇪 German, 🇫🇷 French, 🇪🇸 Spanish, 🇨🇳 Chinese, 🇯🇵 Japanese, etc.)
+   - Brief description (in the same language as the book)
    - Difficulty level (beginner/intermediate/advanced)
 
 3. **Read the existing file:**
@@ -56,27 +57,42 @@ You should:
 4. Inform the user about the result
 
 ## Important Notes
-- Descriptions should be in Russian (repository content language)
+- **Always start entries with a language flag emoji** (🇬🇧 🇷🇺 🇩🇪 🇫🇷 🇪🇸 🇨🇳 🇯🇵 etc.)
+- Descriptions should be in the same language as the resource
 - Maintain the existing structure and formatting
 - Ensure the book is added to the correct category
+- If the same book exists in multiple languages, list each version with its flag
 
 ## Format Examples
 
-Common formats found in book files:
+All entries must start with a language flag emoji. Common formats:
 
-**Simple list format:**
+**Russian book:**
 ```markdown
-- Автор. Название книги. Издательство, год.
+🇷🇺 Флах П. Машинное обучение. Издательство, 2015 (описание на русском)
+```
+
+**English book:**
+```markdown
+🇬🇧 Hastie T., Tibshirani R. The Elements of Statistical Learning. Springer, 2009 (description in English)
+```
+
+**Book with translations:**
+```markdown
+🇬🇧 Goodfellow I. Deep Learning. MIT Press, 2016
+🇷🇺 Перевод: Гудфеллоу Я. Глубокое обучение. ДМК Пресс, 2018
 ```
 
 **With link:**
 ```markdown
-- [Название книги](https://example.com/book.pdf) (автор, год)
+🇬🇧 [Python for Data Analysis](https://example.com) by Wes McKinney (2017)
 ```
 
-**With description:**
+**Other languages (German, French, Chinese, etc.):**
 ```markdown
-- Автор. Название книги. Издательство, год (краткое описание).
+🇩🇪 Autor. Buchtitel. Verlag, 2020 (Beschreibung auf Deutsch)
+🇫🇷 Auteur. Titre du livre. Éditeur, 2020 (description en français)
+🇨🇳 作者. 书名. 出版社, 2020 (中文描述)
 ```
 
 **Always match the existing format in the target file.**

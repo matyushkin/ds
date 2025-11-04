@@ -1,7 +1,7 @@
 # Add Article Skill
 
 ## Description
-This skill helps add a new article, blog post, or online publication to the appropriate section of the repository.
+This skill helps add a new article, blog post, or online publication to the appropriate section of the repository. Articles in any language are welcome with proper language flags.
 
 ## Instructions for Claude
 
@@ -22,8 +22,8 @@ When a user wants to add an article, follow these steps:
    - Publication source (Medium, Habr, personal blog, etc.)
    - Publication date (if relevant)
    - Link to the article
-   - Brief description (in Russian - repository language)
-   - Article language (Russian/English)
+   - Brief description (in the same language as the article)
+   - Article language (🇬🇧 English, 🇷🇺 Russian, 🇩🇪 German, 🇫🇷 French, etc.)
    - Main topics covered
    - Difficulty level (beginner/intermediate/advanced)
 
@@ -58,29 +58,34 @@ You should:
 4. Inform the user about the result
 
 ## Important Notes
-- Descriptions should be in Russian (repository content language)
+- **Always start entries with a language flag emoji** (🇬🇧 🇷🇺 🇩🇪 🇫🇷 etc.)
+- Descriptions should be in the same language as the article
 - Maintain the existing structure and formatting
-- Include the article language indicator if different from description
 - Ensure the article link is accessible
 - Add publication date if it's relevant for time-sensitive content
 
 ## Format Examples
 
-Common formats found in social/article files:
+All entries must start with a language flag emoji:
 
-**Simple article entry:**
+**Russian article:**
 ```markdown
-- [Название статьи](https://habr.com/article) – краткое описание
+🇷🇺 [Введение в нейронные сети](https://habr.com/...) – обзор основных архитектур и их применение
 ```
 
-**With author and source:**
+**English article:**
 ```markdown
-- [Название статьи](https://medium.com/article) by Author Name (Medium) – описание
+🇬🇧 [Understanding Transformers](https://medium.com/...) by Author Name – deep dive into attention mechanisms
 ```
 
 **With date:**
 ```markdown
-- [Название статьи](https://url) (автор, 2023) – описание статьи
+🇷🇺 [Новые подходы в NLP](https://url) (Иванов И., 2024) – обзор последних достижений
+```
+
+**Other languages:**
+```markdown
+🇩🇪 [Machine Learning Grundlagen](https://url) – Einführung in ML-Konzepte
 ```
 
 **Always match the existing format in the target file.**

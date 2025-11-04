@@ -1,7 +1,7 @@
 # Add Course Skill
 
 ## Description
-This skill helps add a new online course to the appropriate section of the repository.
+This skill helps add a new online course to the appropriate section of the repository. The repository is multilingual - courses in any language are welcome with proper language flags.
 
 ## Instructions for Claude
 
@@ -18,12 +18,12 @@ When a user wants to add a course, follow these steps:
    - Big Data → `courses/courses_big_data.md`
 
 2. **Collect course information:**
-   - Course title (in English and/or Russian)
+   - Course title (in original language)
    - Platform (Coursera, Stepik, YouTube, edX, etc.)
    - Instructor/Author
-   - Course language (Russian/English)
+   - Course language (🇬🇧 English, 🇷🇺 Russian, 🇩🇪 German, 🇫🇷 French, 🇪🇸 Spanish, 🇨🇳 Chinese, etc.)
    - Link to the course
-   - Brief description (in Russian - repository language)
+   - Brief description (in the same language as the course)
    - Difficulty level
    - Rating (if available)
    - Is the course free
@@ -59,28 +59,35 @@ You should:
 4. Inform the user about the result
 
 ## Important Notes
-- Descriptions should be in Russian (repository content language)
+- **Always start entries with a language flag emoji** (🇬🇧 🇷🇺 🇩🇪 🇫🇷 🇪🇸 🇨🇳 etc.)
+- Descriptions should be in the same language as the resource
 - Maintain the existing structure and formatting
 - Ensure the course is added to the correct category
 - Indicate if the course is free or paid
 
 ## Format Examples
 
-Common formats found in course files:
+All entries must start with a language flag emoji. Common formats:
 
-**With platform and rating:**
+**Russian course:**
 ```markdown
-- [Название курса](https://stepik.org/course/123) (Stepik, ★4.9)
+🇷🇺 [Введение в машинное обучение](https://stepik.org/course/123) (Stepik, ★4.9)
+```
+
+**English course:**
+```markdown
+🇬🇧 [Machine Learning Specialization](https://coursera.org/...) by Andrew Ng (Coursera, free with certificate option)
 ```
 
 **With description:**
 ```markdown
-- [Название курса](https://url) (платформа) – краткое описание курса
+🇷🇺 [Курс по Deep Learning](https://url) (YouTube, ВШЭ) – основы нейронных сетей и их применение
 ```
 
-**With instructor:**
+**Other languages:**
 ```markdown
-- [Курс Автора "Название"](https://url) (YouTube, Организация)
+🇩🇪 [Maschinelles Lernen](https://url) (Plattform, Universität) – Einführung in ML
+🇫🇷 [Apprentissage Automatique](https://url) (Plateforme) – cours d'introduction
 ```
 
 **Always match the existing format in the target file.**

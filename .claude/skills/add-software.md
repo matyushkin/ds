@@ -1,7 +1,7 @@
 # Add Software Skill
 
 ## Description
-This skill helps add a new library, framework, or tool to the appropriate section of the repository.
+This skill helps add a new library, framework, or tool to the appropriate section of the repository. Software can be documented in any language with proper language flags.
 
 ## Instructions for Claude
 
@@ -21,7 +21,8 @@ When a user wants to add software, follow these steps:
    - Programming language (Python, R, Julia, etc.)
    - Link to GitHub or official website
    - Link to documentation
-   - Brief description of purpose (in Russian - repository language)
+   - Documentation language (🇬🇧 English, 🇷🇺 Russian, etc.)
+   - Brief description of purpose (in the same language as documentation)
    - Main features/capabilities
    - Popularity (GitHub stars, if relevant)
    - Dependencies or requirements
@@ -59,7 +60,8 @@ You should:
 4. Inform the user about the result
 
 ## Important Notes
-- Descriptions should be in Russian (repository content language)
+- **Always start entries with a language flag emoji** (🇬🇧 🇷🇺 etc.) based on documentation language
+- Descriptions should be in the same language as the documentation
 - Maintain the existing structure and formatting
 - Include links to both repository and documentation
 - Mention the programming language
@@ -67,21 +69,21 @@ You should:
 
 ## Format Examples
 
-Common formats found in software files:
+All entries must start with a language flag emoji:
 
-**Simple library entry:**
+**English library:**
 ```markdown
-- [Library Name](https://github.com/user/repo) – описание библиотеки (Python)
+🇬🇧 [scikit-learn](https://github.com/scikit-learn/scikit-learn) ([docs](https://scikit-learn.org)) – machine learning library for Python (⭐60k stars)
 ```
 
-**With documentation:**
+**Russian library:**
 ```markdown
-- [Library Name](https://github.com/user/repo) ([docs](https://docs.url)) – описание
+🇷🇺 [pymorphy2](https://github.com/kmike/pymorphy2) – морфологический анализатор для русского языка (Python)
 ```
 
 **With metadata:**
 ```markdown
-- [Library Name](https://github.com/user/repo) (Python, ⭐15k) – описание возможностей
+🇬🇧 [TensorFlow](https://github.com/tensorflow/tensorflow) (Python/C++, ⭐185k) – end-to-end platform for machine learning
 ```
 
 **Always match the existing format in the target file.**

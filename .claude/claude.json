@@ -1,0 +1,17 @@
+{
+  "project": {
+    "name": "Data Science Resources",
+    "description": "Коллекция бесплатных ресурсов по Data Science и Machine Learning",
+    "version": "1.0.0"
+  },
+  "skills": {
+    "directory": ".claude/skills"
+  },
+  "commands": {
+    "directory": ".claude/commands"
+  },
+  "settings": {
+    "language": "ru",
+    "autoCommit": false
+  }
+}

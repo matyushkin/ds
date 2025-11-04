@@ -30,15 +30,21 @@ When a user wants to add a dataset, follow these steps:
 3. **Read the existing file:**
    Use the Read tool to read the corresponding file in the `data/` directory
 
-4. **Identify the format:**
+4. **Check for duplicates:**
+   - Search the file content for the dataset name or similar datasets
+   - If a similar entry is found, inform the user
+   - Ask if they want to: update the existing entry, skip, or add anyway
+   - If no duplicate found, proceed to the next step
+
+5. **Identify the format:**
    Study the existing entry format in the file and use a similar format
 
-5. **Add the dataset:**
+6. **Add the dataset:**
    - Use the Edit tool to add the dataset to the appropriate section
    - Group by data type or application area
    - Maintain consistent formatting
 
-6. **Inform the user:**
+7. **Inform the user:**
    Show what was added and to which file
 
 ## Usage Example
@@ -56,3 +62,24 @@ You should:
 - Maintain the existing structure and formatting
 - Include relevant metadata (size, format, license)
 - Ensure the dataset link is accessible
+
+## Format Examples
+
+Common formats found in data files:
+
+**Simple list with link:**
+```markdown
+- [Dataset Name](https://kaggle.com/dataset) – описание датасета, для каких задач подходит
+```
+
+**With metadata:**
+```markdown
+- [Dataset Name](https://url) (формат: CSV, размер: 100MB) – описание
+```
+
+**With source:**
+```markdown
+- [Dataset Name](https://url) от Source/Organization – описание
+```
+
+**Always match the existing format in the target file.**

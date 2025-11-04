@@ -30,15 +30,21 @@ When a user wants to add an article, follow these steps:
 3. **Read the existing file:**
    Use the Read tool to read the corresponding file in the `social/` directory
 
-4. **Identify the format:**
+4. **Check for duplicates:**
+   - Search the file content for the article title or URL
+   - If a similar entry is found, inform the user
+   - Ask if they want to: update the existing entry, skip, or add anyway
+   - If no duplicate found, proceed to the next step
+
+5. **Identify the format:**
    Study the existing entry format in the file and use a similar format
 
-5. **Add the article:**
+6. **Add the article:**
    - Use the Edit tool to add the article to the appropriate section
    - Group by topic, source, or date if the file is organized that way
    - Maintain consistent formatting
 
-6. **Inform the user:**
+7. **Inform the user:**
    Show what was added and to which file
 
 ## Usage Example
@@ -57,3 +63,24 @@ You should:
 - Include the article language indicator if different from description
 - Ensure the article link is accessible
 - Add publication date if it's relevant for time-sensitive content
+
+## Format Examples
+
+Common formats found in social/article files:
+
+**Simple article entry:**
+```markdown
+- [Название статьи](https://habr.com/article) – краткое описание
+```
+
+**With author and source:**
+```markdown
+- [Название статьи](https://medium.com/article) by Author Name (Medium) – описание
+```
+
+**With date:**
+```markdown
+- [Название статьи](https://url) (автор, 2023) – описание статьи
+```
+
+**Always match the existing format in the target file.**

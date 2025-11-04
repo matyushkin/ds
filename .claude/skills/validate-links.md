@@ -3,6 +3,19 @@
 ## Description
 This skill helps validate all links in the markdown files to ensure they are accessible and not broken.
 
+## ⚠️ Performance Warning
+
+**This skill may take a long time to complete** (minutes to hours) depending on the number of links to check:
+- A single file: ~1-5 minutes
+- One directory (e.g., `books/`): ~5-15 minutes
+- All files in repository: ~30-60+ minutes
+
+**Recommendations:**
+- Start with a smaller scope (single file or directory) for testing
+- Run during off-hours if checking the entire repository
+- Be patient - the tool adds delays between requests to respect rate limits
+- Consider saving the report for future reference
+
 ## Instructions for Claude
 
 When a user wants to validate links, follow these steps:

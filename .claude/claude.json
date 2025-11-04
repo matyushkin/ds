@@ -2,7 +2,20 @@
   "project": {
     "name": "Data Science Resources",
     "description": "Коллекция бесплатных ресурсов по Data Science и Machine Learning",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "repository": "https://github.com/matyushkin/ds",
+    "author": "Leo Matyushkin",
+    "license": "MIT",
+    "topics": [
+      "data-science",
+      "machine-learning",
+      "neural-networks",
+      "computer-vision",
+      "geospatial",
+      "nlp",
+      "finance",
+      "big-data"
+    ]
   },
   "skills": {
     "directory": ".claude/skills"
@@ -12,6 +25,7 @@
   },
   "settings": {
     "language": "ru",
-    "autoCommit": false
+    "autoCommit": false,
+    "defaultBranch": "main"
   }
 }

@@ -30,16 +30,22 @@ When a user wants to add software, follow these steps:
 3. **Read the existing file:**
    Use the Read tool to read the corresponding file in the `software/` directory
 
-4. **Identify the format:**
+4. **Check for duplicates:**
+   - Search the file content for the software/library name
+   - If a similar entry is found, inform the user
+   - Ask if they want to: update the existing entry, skip, or add anyway
+   - If no duplicate found, proceed to the next step
+
+5. **Identify the format:**
    Study the existing entry format in the file and use a similar format
 
-5. **Add the software:**
+6. **Add the software:**
    - Use the Edit tool to add to the appropriate section
    - Group by type (libraries, frameworks, tools)
    - Maintain consistent formatting
    - Ensure links are working
 
-6. **Inform the user:**
+7. **Inform the user:**
    Show what was added and to which file
 
 ## Usage Example
@@ -58,3 +64,24 @@ You should:
 - Include links to both repository and documentation
 - Mention the programming language
 - Add relevant metadata (popularity, license)
+
+## Format Examples
+
+Common formats found in software files:
+
+**Simple library entry:**
+```markdown
+- [Library Name](https://github.com/user/repo) – описание библиотеки (Python)
+```
+
+**With documentation:**
+```markdown
+- [Library Name](https://github.com/user/repo) ([docs](https://docs.url)) – описание
+```
+
+**With metadata:**
+```markdown
+- [Library Name](https://github.com/user/repo) (Python, ⭐15k) – описание возможностей
+```
+
+**Always match the existing format in the target file.**

@@ -28,15 +28,21 @@ When a user wants to add a book, follow these steps:
 3. **Read the existing file:**
    Use the Read tool to read the corresponding file in the `books/` directory
 
-4. **Identify the format:**
+4. **Check for duplicates:**
+   - Search the file content for the book title or author
+   - If a similar entry is found, inform the user
+   - Ask if they want to: update the existing entry, skip, or add anyway
+   - If no duplicate found, proceed to the next step
+
+5. **Identify the format:**
    Study the existing entry format in the file and use a similar format
 
-5. **Add the book:**
+6. **Add the book:**
    - Use the Edit tool to add the book to the appropriate section
    - Maintain consistent formatting
    - Add the book to a logical section (by level or topic)
 
-6. **Inform the user:**
+7. **Inform the user:**
    Show what was added and to which file
 
 ## Usage Example
@@ -53,3 +59,24 @@ You should:
 - Descriptions should be in Russian (repository content language)
 - Maintain the existing structure and formatting
 - Ensure the book is added to the correct category
+
+## Format Examples
+
+Common formats found in book files:
+
+**Simple list format:**
+```markdown
+- Автор. Название книги. Издательство, год.
+```
+
+**With link:**
+```markdown
+- [Название книги](https://example.com/book.pdf) (автор, год)
+```
+
+**With description:**
+```markdown
+- Автор. Название книги. Издательство, год (краткое описание).
+```
+
+**Always match the existing format in the target file.**

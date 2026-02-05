@@ -1,36 +1,45 @@
 ## Курсы по машинному обучению
+
+### Русский
+
 - [Введение в Data Science и машинное обучение](https://stepik.org/course/4852) (Stepik, ★4.9)
-- [Курс лекций К.В.Воронцова](http://machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%28%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%2C_%D0%9A.%D0%92.%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%29). На YouTube-канале Яндекса [Компьютерные науки](https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA/playlists) можно прослушать [курс К.В. Воронцова](https://www.youtube.com/watch?v=SZkrxWhI5qM&list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK), прочитанный в 2019 г. 
+- [Курс лекций К.В.Воронцова](http://machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%28%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%2C_%D0%9A.%D0%92.%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%29). На YouTube-канале Яндекса [Компьютерные науки](https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA/playlists) можно прослушать [курс К.В. Воронцова](https://www.youtube.com/watch?v=SZkrxWhI5qM&list=PLJOzdkh8T5krxc4HsHbB8g8f0hu7973fK), прочитанный в 2019 г.
 - [Материалы курсов Дьяконова "Введение в машинное обучение"](https://github.com/Dyakonov/IML)
 - [Машинное обучение](https://stepik.org/course/8057/) (Stepik, ★4.9)
 - [Записи семинаров Евгения Соколова по машинному обучению, ВМК МГУ](https://github.com/esokolov/ml-course-msu)
 - [Курс Евгения Соколова "Машинное обучение" на ФКН ВШЭ](https://github.com/esokolov/ml-course-hse) (блокноты Jupyter), [видео на YouTube](https://www.youtube.com/watch?v=OBG6EUSRC9g&list=PLEqoHzpnmTfDwuwrFHWVHdr1-qJsfqCUX)
-- [Курс по науке о данных Open Source Society University (OSSU)](https://github.com/ossu/data-science) – в виде GitHub-репозитория
 - [Материалы курса "Машинное обучение" на ФАЛТ МФТИ](https://github.com/ml-dafe/ml_mipt_dafe_major)
 - [Материалы курса от ВШЭ и ШАД на coursera.org "Введение в машинное обучение"](https://github.com/tyz910/hse-shad-ml)
 - [Репозиторий курса "Введение в машинное обучение" в Техносфере](https://github.com/shestakoff/sphere-ml-intro)
 - [Введение в анализ данных и машинное обучение](https://github.com/agzamovr/ml-course-uz) (блокноты Jupyter)
 - [Курс по машинному обучению для магистров компьютерной лингвистики 1-го курса в Высшей Школе Экономики](https://github.com/mannefedov/hse_ml_m1)
 - [YouTube-курс по машинному обучению Computer Science Center](https://www.youtube.com/watch?v=pkI64ocefFU&list=PLlb7e2G7aSpSWVExpq74FnwFnWgLby56L) ([вторая часть](https://www.youtube.com/watch?v=TEyEWTYII64&list=PLlb7e2G7aSpSSsCeUMLN-RxYOLAI9l2ld))
--  [Байесовские методы в машинном обучении](https://www.youtube.com/watch?v=Ejsr3S79gcQ&list=PLEqoHzpnmTfCiJpMPccTWXD9DB4ERQkyw) (YouTube, ФКН ВШЭ)
--  [Анализ сетевых структур](https://www.youtube.com/watch?v=JPLl72fRb80&list=PLEqoHzpnmTfABLQAiiRHGsYHexERVoEb7) (YouTube, ФКН ВШЭ, последний на английском)
--  [Курс Сергея Николенко о машинном обучении](https://www.youtube.com/watch?v=BPcicsBuRdc&list=PL-_cKNuVAYAWXoVzVEDCT-usTEBHUf4AF) (YouTube, Лекториум)
--  [Курс о байесовском выводе](https://www.youtube.com/watch?v=dVm6LKr9rLY&list=PL-_cKNuVAYAU0vPERG07V2B_fykSxiL7z)  (YouTube, Лекториум)
--  [Курс о коммуникационной сложности](https://www.youtube.com/watch?v=-s3kucJIawo&list=PL-_cKNuVAYAUhvlUfW7P2cdhWCRDWs0pG) (YouTube, Лекториум)
--  Лекции Евгения Соколова о [рекомендательных системах](https://www.youtube.com/watch?v=ZyRJ9EMWztg&list=PL-_cKNuVAYAWkYunGd6zKk7UxmExS-GHl)
--  Лекции Александра Дайняка о [математических методах визуализации данных](https://www.youtube.com/watch?v=qhNkjC_Yjag&list=PL-_cKNuVAYAXCa4FxPy9oi3_76gjSqacM)
--  [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
--  [Kaggle: Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
--  [Kaggle: Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)
--  [Kaggle: Microchallenges](https://www.kaggle.com/learn/microchallenges)
--  [Kaggle: Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
+- [Байесовские методы в машинном обучении](https://www.youtube.com/watch?v=Ejsr3S79gcQ&list=PLEqoHzpnmTfCiJpMPccTWXD9DB4ERQkyw) (YouTube, ФКН ВШЭ)
+- [Анализ сетевых структур](https://www.youtube.com/watch?v=JPLl72fRb80&list=PLEqoHzpnmTfABLQAiiRHGsYHexERVoEb7) (YouTube, ФКН ВШЭ, последний на английском)
+- [Курс Сергея Николенко о машинном обучении](https://www.youtube.com/watch?v=BPcicsBuRdc&list=PL-_cKNuVAYAWXoVzVEDCT-usTEBHUf4AF) (YouTube, Лекториум)
+- [Курс о байесовском выводе](https://www.youtube.com/watch?v=dVm6LKr9rLY&list=PL-_cKNuVAYAU0vPERG07V2B_fykSxiL7z) (YouTube, Лекториум)
+- [Курс о коммуникационной сложности](https://www.youtube.com/watch?v=-s3kucJIawo&list=PL-_cKNuVAYAUhvlUfW7P2cdhWCRDWs0pG) (YouTube, Лекториум)
+- Лекции Евгения Соколова о [рекомендательных системах](https://www.youtube.com/watch?v=ZyRJ9EMWztg&list=PL-_cKNuVAYAWkYunGd6zKk7UxmExS-GHl)
+- Лекции Александра Дайняка о [математических методах визуализации данных](https://www.youtube.com/watch?v=qhNkjC_Yjag&list=PL-_cKNuVAYAXCa4FxPy9oi3_76gjSqacM)
+
+### English
+
+- [Курс по науке о данных Open Source Society University (OSSU)](https://github.com/ossu/data-science) – в виде GitHub-репозитория
+- [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+- [Kaggle: Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+- [Kaggle: Machine Learning Explainability](https://www.kaggle.com/learn/machine-learning-explainability)
+- [Kaggle: Microchallenges](https://www.kaggle.com/learn/microchallenges)
+- [Kaggle: Feature Engineering](https://www.kaggle.com/learn/feature-engineering)
 - [Introduction to Machine Learning for Coders](http://course18.fast.ai/ml) – курс fast.ai
 - [Machine Learning Crash Course with TensorFlow APIs](https://developers.google.com/machine-learning/crash-course) – курс Google
 - [Coursera: Introduction to Statistics](https://www.coursera.org/learn/stanford-statistics) – приятный курс Стэнфорда
 - [Seeing Theory](https://seeing-theory.brown.edu/) – короткий курс по теории вероятностей и математической статистике
 - [Machine Learning with Python: A Practical Introduction](https://www.edx.org/course/machine-learning-with-python-a-practical-introduct) – бесплатный курс IBM на EDX
+- [MIT 6.036: Introduction to Machine Learning](https://ocw.mit.edu/courses/6-036-introduction-to-machine-learning-fall-2020/) – материалы курса MIT OpenCourseWare
 
 ## Вебинары
+
+### Русский
 
 - [Введение в анализ данных. Основные инструменты](https://live.skillbox.ru/webinars/code/vvedenie-v-analiz-dannykh-osnovnye-instrumenty261222/)
 - [Просто о сложной математике в Data Science](https://live.skillbox.ru/webinars/code/prosto-o-slozhnoi-matematike-v-data-science281222/)

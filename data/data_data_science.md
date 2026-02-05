@@ -2,10 +2,13 @@
 
 ## Global
 
+### English
+
 - [Google Dataset Search](https://datasetsearch.research.google.com/)
 - [Датасеты Kaggle](https://www.kaggle.com/datasets)
 - [Global Open Data Index](https://index.okfn.org/) ― отслеживание открытых данных правительств различных стран
 - [наборы данных AWS в Amazon](https://registry.opendata.aws/)
+- [BigQuery Public Datasets](https://docs.cloud.google.com/bigquery/public-data)
 - [Data Portals](https://dataportals.org/search)
 - [Open Data Monitor](https://www.opendatamonitor.eu/)
 - [Quandl](https://www.quandl.com/) Financial, Economic and Alternative Data
@@ -15,6 +18,8 @@
 - [DataHub](https://datahub.io/)
 
 ## Россия
+
+### Русский
 
 - [Российский федеральный портал открытых данных](http://data.gov.ru/)
 - [Мультистат](http://multistat.ru/)
@@ -30,10 +35,12 @@
 
 ## Открытые данные отдельных городов России
 
+### Русский
+
 - [Портал открытых данных правительства Москвы](https://data.mos.ru/)
 - [Открытые данные Санкт-Петербурга](https://data.gov.spb.ru/)
 - [Каталог государственных сайтов Санкт-Петербурга](https://esir.gov.spb.ru/)
-- [Анапа](ttp://www.anapa-official.ru/opendata/)
+- [Анапа](https://www.anapa-official.ru/opendata/)
 - [Георгиевск](http://www.georgievsk.ru/about/opendata/)
 - [Зеленоград](http://www.zelao.ru/opendata/)
 - [Йошкар-Ола](http://www.i-ola.ru/opendata/)
@@ -45,6 +52,8 @@
 - [Южно-Сахалинск](http://yuzhno-sakh.ru/dirs/1462)
 
 ## Открытые данные отдельных регионов России
+
+### Русский
 
 - [Астраханская область]( http://egov.astrobl.ru/opendata/nabory-otkrytyh-dannyh)
 - [Волгоградская область](http://old.volganet.ru/files/opendata/)
@@ -63,14 +72,20 @@
 
 ## Открытые данные других стран
 
+### English
+
 - [Data.gov](https://www.data.gov/) –  данные государственных учреждений США
-- [Великобритания](data.gov.uk)
+- [Великобритания](https://www.data.gov.uk/)
 
 ## Медицинские данные
+
+### English
 
 - [MIMIC-III](https://mimic.physionet.org/). Датасет с обезличенными данными о состоянии здоровья 40 тыс. пациентов, находящихся на интенсивной терапии. Он включает демографические данные, показатели жизнедеятельности, лабораторные анализы
 
 ## Научные статьи
+
+### English
 
 - [scholar.google.com](https://scholar.google.com/)
 - [arxiv.org](https://arxiv.org/)
@@ -78,5 +93,7 @@
 - [paperswithcode.com](https://paperswithcode.com/)
 
 ## Открытые API
+
+### English
 
 - [GitHub-подборка открытых API различного назначения](https://github.com/public-apis/public-apis)

@@ -2,16 +2,19 @@
 
 ## Reddit
 
-- [/bigdata](https://www.reddit.com/r/bigdata)
-- [/bigdatajobs](https://www.reddit.com/r/bigdatajobs)
+### English
+
+- [/bigdata](https://www.reddit.com/r/bigdata/)
+- [/dataengineering](https://www.reddit.com/r/dataengineering/)
 
 ## Telegram
 
-- [Чат Big Data на русском](https://t.me/bigdata_ru)
-- [Чат Big Data на английском](https://t.me/bigdata_en)
+### Русский
 
+- [Большие Данные](https://t.me/bigdata_ru)
 
 ## Хабы Habr
 
-- [Big Data](https://habr.com/ru/hub/bigdata/)
-- [Hadoop](https://habr.com/ru/hub/Hadoop/)
+### Русский
+
+- [Big Data](https://habr.com/ru/hub/big_data/)

@@ -1,4 +1,7 @@
 ## Курсы по нейросетям и глубокому обучению
+
+### Русский
+
 - [Deep Learning на пальцах](https://www.youtube.com/watch?v=_q46x0tq2FQ&list=PL5FkQ0AF9O_o2Eb5Qn8pwCDg7TniyV1Wb) – курс Семена Козлова, разработчика стартапа Instrumental, бывшего сотрудника Dropbox и Microsoft.
 - [Нейронные сети, Институт биоинформатики, Stepik](https://stepik.org/course/401), [студенческие материалы на GitHub](https://github.com/stacymiller/stepic_neural_networks_public)
 - [Нейронные сети и компьютерное зрение, Samsung Research Russia Open Education](https://stepik.org/course/50352), [студенческие файлы семинаров](https://github.com/smartsinovich/Stepik_NeuralNetworks_and_ComputerVision), [студенческий финальный проект](https://github.com/ValentinKovalev/Samsung-stepik-cv-course-final-task)
@@ -7,12 +10,16 @@
 - [Материалы летней школы по глубокому обучению](https://github.com/olferuk/MLSummerSchool) (в форме презентаций и блокнотов Jupyter)
 - [Курс "Современные методы машинного обучения" ВШЭ](https://github.com/hse-ds/iad-deep-learning) (блокноты Jupyter)
 - [Видеокурс о генеративно-состязательных нейросетях](https://www.youtube.com/watch?v=SlJgPIOlpiI&list=PL-_cKNuVAYAVA2LtnKTukF6nKGnXhk0OB) (YouTube, Лекториум)
+- [YouTube курс Deep Learning](https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=1) – курс от Яна Лекуна и пр., более 30 ч. Весна 2020.
+- [ШАДовский курс по глубокому обучению «Practical_DL»](github.com/yandexdataschool/Practical_DL)
+
+### English
+
 - [Курс MIT по Deep Learning](https://www.youtube.com/watch?v=njKP3FqW3Sk&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) под руководством Александра Амини содержит 30 часовых лекций об архитектурах нейронных сетей и их ограничениях
 - [Kaggle: Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
 - [Practical RL](https://github.com/yandexdataschool/Practical_RL)
 - [Practical DL](https://github.com/yandexdataschool/Practical_DL)
 - [Practical Deep Learning for Coders](https://course.fast.ai/) – развернутое введение в глубокое обучение от fast.ai
 - [d2l.ai](https://d2l.ai/) ([GitHub](https://github.com/d2l-ai/d2l-en))
-- [YouTube курс Deep Learning](https://www.youtube.com/watch?v=0bMe_vCZo30&list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq&index=1) – курс от Яна Лекуна и пр., более 30 ч. Весна 2020.
 - [YouTube курс UC Berkeley](https://www.youtube.com/playlist?list=PLuv1FSpHurUevSXe_k0S7Onh6ruL-_NNh), 66 занятий
-- [ШАДовский курс по глубокому обучению «Practical_DL»](github.com/yandexdataschool/Practical_DL)
+- [MIT 6.S191: Introduction to Deep Learning](https://introtodeeplearning.com/) – материалы курса MIT

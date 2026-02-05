@@ -2,10 +2,14 @@
 
 ## Смешанные подборки книг по различным тематикам Data Science
 
+### English
+
 - [100 бесплатных книг по Data Science](https://www.learndatasci.com/free-data-science-books/) (англ.)
 - [Бесплатные электронные книги по Data Science издательства O'Reilly](https://www.oreilly.com/data/free/archive.html)
 
 ## Научно-популярные книги о Data Science (и просто около)
+
+### Русский
 
 - Сейновски Т. Антология машинного обучения: важнейшие исследования в области ИИ за последние 60 лет. Бомбора (Эксмо). 2022.
 - Шумский С. А. Воспитание машин. Новая история разума. 2021.
@@ -29,87 +33,124 @@
 
 ## Книги по Data Science начального уровня
 
+### Русский
+
 - Математика для Data Science. Управляем данными с помощью линейной алгебры, теории вероятностей и статистики. SprintBook. 2025.
 - Апельцин Л. Data Science в действии. Питер, 2023.
 - Дейтел Пол, Дейтел Харви. Python: Искусственный интеллект, большие данные и облачные вычисления. Прогресс книга, 2022.
 - Келлехер Джон Д. Наука о данных. Базовый курс. 2021 (совсем азбука, чтобы понять, о чем речь).
-- Стивен Скиена: Наука о данных. Учебный курс. Вильямс, 2020. Базовый курс от автора популярного учебника по алгоритмам. Нет ориентации на отдельные языки. Есть сопроводительные материалы в виде [слайдов и видеолекций](http://www.data-manual.com) и ссылки на подходящие конкурсы Kaggle.
+- Стивен Скиена: Наука о данных. Учебный курс. Вильямс, 2020. Базовый курс от автора популярного учебника по алгоритмам. Нет ориентации на отдельные языки. Есть сопроводительные материалы в виде [слайдов и видеолекций](https://www.data-manual.com) и ссылки на подходящие конкурсы Kaggle.
 - О'Нил, Шатт. Data Science. Инсайдерская информация для новичков. Питер. 2019 (используется язык R).
-- Prevos P. Principles of Strategic Data Science. Packt, 2019.
 - Брюс П., Брюс Э., Гедек П. Практическая статистика для специалистов Data Science. 50+ важнейших понятий с использованием R и Python. БХD, 2021. — 2-е издание (в первом используется только R).
 - Силен, Мейсман, Али – Основы Data Science и Big Data. Python и наука о данных. Питер, 2018
-- Alex Galea. Applied Data Science with Python and Jupyter. Packt, 2018.
 - Грас Д. Наука о данных с нуля. БХВ-Петербург. 2021 (2-е издание). — лучше читать второе издание, в нём чище код и более реалистичные примеры, книга рассматривает всё «галопом по европам», лучше использовать как дополнение.
 - Силен Дэви, Мейсман Арно. Основы Data Science и Big Data. Python и наука о данных. Питер, 2018.
 - Пасквинелли М. Машины, формирующие(ся в) логику: нейронные сети и искаженная автоматизация интеллекта в качестве статистического вывода.
+
+### English
+
+- Prevos P. Principles of Strategic Data Science. Packt, 2019.
+- Alex Galea. Applied Data Science with Python and Jupyter. Packt, 2018.
 
 ## Книги по языкам программирования с упором на Data Science
 
 ### Учебники по Python и библиотекам Python для Data Science
 
+#### Русский
+
 - Постолит А. В. Основы искусственного интеллекта в примерах на Python. БХВ-Петербург, 2021.
 - Маккини Уэс. Python и анализ данных. ДМК Пресс, 2020.
 - Себастьян Рашка, Вахид Мирджалили. Python и машинное обучение. Диалектика, 2020.
 - Пратик Дж. Искусственный интеллект с примерами на Python, 2019.
-- Micha Gorelick, Ian Ozsvald. High Performance Python: Practical Performant Programming for Humans. 2020. (объясняется работа интерпретатора и механик кода, способов взаимодействия с памятью)
 - Дэвидсон-Пайлон К. Вероятностное программирование на Python: байесовский вывод и алгоритмы. Питер, 2019.
 - Элбон Крис. Машинное обучение с использованием Python. Сборник рецептов. БХВ-Петербург, 2019
-- Andriy Burkov. The Hundred-Page Machine Learning Book. 2019.
-- Aurelien Geron. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow. O'Reilly Media, 2019.
-- Python Machine Learning. Third edition: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2. Packt, 2019.
 - Вандер Плас Дж. Python для сложных задач. Наука о данных и машинное обучение. Питер, 2018.
 - Мюллер А., Гвидо С. Введение в машинное обучение с помощью Python. Вильямс, 2017.
 - Свейгарт Эл. Автоматизация рутинных задач с помощью Python. Вильямс, 2016.
+
+#### English
+
+- Micha Gorelick, Ian Ozsvald. High Performance Python: Practical Performant Programming for Humans. 2020. (объясняется работа интерпретатора и механик кода, способов взаимодействия с памятью)
+- Andriy Burkov. The Hundred-Page Machine Learning Book. 2019.
+- Aurelien Geron. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow. O'Reilly Media, 2019.
+- Python Machine Learning. Third edition: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow 2. Packt, 2019.
 - Boschetti A. Python Data Science Essentials. Packt Publishing, 2015.
 
 ### Книги по Python, не относящиеся напрямую к Data Science, но полезные для создания DS-продуктов
 
+#### Русский
+
 - Патрик Виафоре. Надежный Python. БХВ, 2023
-- Matthew Fowler. Python Concurrency with asyncio. Manning, 2022
 - Любанович Б. Простой Python. Современный стиль программирования. 2-е изд. 2022.
 - Гифт Ной. Python и DevOps: Ключ к автоматизации Linux. Прогресс книга, 2022
 
+#### English
+
+- Matthew Fowler. Python Concurrency with asyncio. Manning, 2022
+
 ### Учебники по R
 
-- Zumel N., Mount J. Practical Data Science with R, 2nd edition. 2020.
+#### Русский
+
 - Мэтлофф Норман. Искусство программирования на R. Питер, 2019.
+- Роберт И. Кабаков. R в действии.Анализ и визуализация данных на языке R. 3-е издание. ДМК Пресс, 2023.
+- Long J.D., Teetor P. R Cookbook Proven Recipes for Data Analysis, Statistics, and Graphics (на русском в переводе: Лонг Дж.Д., Титор П. R. Книга рецептов. ДМК Пресс, 2009)
+
+#### English
+
+- Zumel N., Mount J. Practical Data Science with R, 2nd edition. 2020.
 - Yves Croissant, Giovanni Millo. Panel Data Econometrics with R. Wiley, 2019.
 - Wiley M., Wiley J.F. Advanced R Statistical Programming and Data Models: Analysis, Machine Learning, and Visualization. Apress, 2019
 - [Advanced R](http://adv-r.had.co.nz/)
 - [Learning Statistics with R](https://web.archive.org/web/20170319021353/http://health.adelaide.edu.au:80/psychology/ccs/teaching/lsr/)
-- Роберт И. Кабаков. R в действии.Анализ и визуализация данных на языке R. 3-е издание. ДМК Пресс, 2023.
 - Togo L. Data Mining with R: Learning with Case Studies, 2nd Edition. 2017.
 - Hadley Wickham and Garrett Grolemund. R for Data Science. O’Reilly Media, 2017.
 - Norman Matloff. Parallel Computing for Data Science: With Examples in R, C++ and CUDA. Chapman and Hall/CRC. 2015
-- Long J.D., Teetor P. R Cookbook Proven Recipes for Data Analysis, Statistics, and Graphics (на русском в переводе: Лонг Дж.Д., Титор П. R. Книга рецептов. ДМК Пресс, 2009)
 
 ### Учебники по Julia
+
+#### Русский
+
 - Эрик Энгхейм. Julia в качестве второго языка. ДМК Пресс, 2023.
+- Шеррингтон М.: Осваиваем язык Julia. Совершенствование мастерства в области аналитики и программирования. ДМК-Пресс, 2017.
+- Белов Г.В. Краткое описание языка программирования Julia с примерами использования для решения задач аппроксимации и оптимизации 
+#### English
+
 - Kalicharan N. Julia — Bit by Bit. Programming for Beginners. Springer, 2021.
 - Julia 1.0 Programming Complete Reference Guide. Packt Publishing, 2019.
 - McNicholas P.D., Tait P. Data Science with Julia. CRC Press, 2019.
-- Шеррингтон М.: Осваиваем язык Julia. Совершенствование мастерства в области аналитики и программирования. ДМК-Пресс, 2017.
-- Белов Г.В. Краткое описание языка программирования Julia с примерами использования для решения задач аппроксимации и оптимизации [pdf](http://ihed.ras.ru/~thermo/Julia/Brief%20description%20of%20Julia%20language.pdf)
 
 ### Учебники по Data Science на Java
+
+#### English
 
 - R. Shams. Java Data Science Cookbook. Packt, 2017.
 - Reese J., Reese R. Java for Data Science. Packt, 2017.
 - Reese R.M., Reese J.L., Grigorev A. Java: Data Science Made Easy. Packt, 2017.
 
 ## Визуализация данных
+
+### Русский
+
 - Основы визуализации данных. Пособие по эффективной и убедительной подаче информации. Бомбора, 2024
-- Molin S. Hands-On Data Analysis with Pandas: Efficiently perform data collection, wrangling, analysis, and visualization using Python. Packt, 2019.
 - Базалева О. И. Мастерство визуализации данных. Диалектика-Вильямс, 2018.
+
+### English
+
+- Molin S. Hands-On Data Analysis with Pandas: Efficiently perform data collection, wrangling, analysis, and visualization using Python. Packt, 2019.
 - Kieran Healy. Data Visualization: A Practical Introduction. Princeton University Press, 2018.
 - Cole Nussbaumer Knaflic. Storytelling with Data: A Data Visualization Guide for Business Professionals – как качественно визуализировать результаты
 - Steve Wexler, Jeffrey Shaffer, Andy Cotgreave. The Big Book of Dashboards. Visualizing Your Data Using Real-World Business Scenarios
 
 ## Подготовка к собеседованиям
 
+### English
+
 - Zack Austin. RocketPrep Ace Your Data Science Interview 300 Practice Questions and Answers
 
 ## Разделы с научными статьями на arXiv.org
+
+### English
 
 - cs.AI - Artificial Intelligence ([new](https://arxiv.org/list/cs.AI/new), [recent](https://arxiv.org/list/cs.AI/recent), [current month](https://arxiv.org/list/cs.AI/current))
 - cs.DS - Data Structures and Algorithms([new](https://arxiv.org/list/cs.DS/new), [recent](https://arxiv.org/list/cs.DS/recent), [current month](https://arxiv.org/list/cs.DS/current))

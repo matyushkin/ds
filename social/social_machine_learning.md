@@ -2,9 +2,13 @@
 
 ## Чтобы понять – интересно вам это или нет
 
+### Русский
+
 - [Про машинное обучение простым языком](https://vas3k.ru/blog/machine_learning/)
 
 ## Ветки Reddit
+
+### English
 
 - [/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning)
 - [/MachineLearning](https://www.reddit.com/r/MachineLearning)
@@ -15,22 +19,31 @@
 
 ## Блокноты Jupyter
 
+### Русский
+
 - 🌟 [Jupyter Notebook: галерея блокнотов по ML и Data Science](https://proglib.io/p/jupyter-notebook-best) ([ист.](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks))
 
 ## Публикации по метрикам
+
+### Русский
 
 - [Метрики в задачах машинного обучения](https://habr.com/en/company/ods/blog/328372/)
 - [Анализ с помощью ROC-кривой](https://wiki.loginom.ru/articles/roc-analysis.html?_ga=2.70714516.50663422.1603560142-625801188.1603560142)
 
 ## Публикации по несбалансированным данным
 
-Можно считать, что выборка несбалансирована, когда размеры классов отличаются более, чем в 10 раз. Больший класс называют доминирующим, меньший класс называется минорным. Качество можно повысить с помощью корректировки весов объектов, искусственной модификации датасета. Accuracy и AUC слабо изменяются при изменении модели, более чувствительна метрика F-Score.
+### Русский
+
+- [Презентация Богдана Мельника (ld86) про обучение на несбалансированных выборках](https://ld86.github.io/ml-slides/unbalanced.html#/22)
+
+### English
 
 - [https://www.kaggle.com/mlg-ulb/creditcardfraud](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 - [http://pages.cs.wisc.edu/~jdavis/davisgoadrichcamera2.pdf](http://pages.cs.wisc.edu/~jdavis/davisgoadrichcamera2.pdf)
-- [Презентация Богдана Мельника (ld86) про обучение на несбалансированных выборках](https://ld86.github.io/ml-slides/unbalanced.html#/22)
 
 ## YouTube-каналы, посвященные общим вопросам машинного обучения
+
+### English
 
 - [What's AI](https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg)
 - [Daniel Bourke](https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ)
@@ -56,6 +69,8 @@
 
 ### YouTube-каналы, посвященные публикациям в области машинного обучения и ИИ
 
+#### English
+
 - [AI Journal](https://www.youtube.com/c/AIJournal)
 - [Arxiv Insights](https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg)
 - [Yannic Kilcher](https://www.youtube.com/c/YannicKilcher/featured)
@@ -63,6 +78,8 @@
 - [bycloud](https://www.youtube.com/channel/UCgfe2ooZD3VJPB6aJAnuQng)
 
 ## Разделы с научными статьями на arXiv.org
+
+### English
 
 - cs.LG - Machine Learning: ([new](https://arxiv.org/list/cs.LG/new), [recent](https://arxiv.org/list/cs.LG/recent), [current month](https://arxiv.org/list/cs.LG/current))
 - [stat.ML](https://arxiv.org/list/stat.ML/recent)

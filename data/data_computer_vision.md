@@ -1,5 +1,9 @@
 # Открытые данные для компьютерного зрения
 
+## Основные датасеты
+
+### English
+
 - [VisualData](https://www.visualdata.io/). Датасеты для компьютерного зрения, разбитые по категориям. Доступен поиск.
 - [xView](http://xviewdataset.org/#dataset). Один из самых больших общедоступных наборов воздушных снимков земли. Он содержит изображения различных сцен со всего мира, аннотированных с помощью ограничительных рамок.
 - [Labelme](http://labelme.csail.mit.edu/Release3.0/browserTools/php/dataset.php). Большой датасет аннотированных изображений.
@@ -11,9 +15,13 @@
 - [Google's Open Images](https://ai.googleblog.com/2016/09/introducing-open-images-dataset.html). Коллекция из 9 миллионов URL-адресов к изображениям, «которые были помечены метками, охватывающими более 6000 категорий» под лицензией Creative Commons.
 - [Labelled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/). Набор из 13 000 размеченных изображений лиц людей для использования приложений, которые предполагают использование технологии распознавания лиц.
 - [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/). Содержит 20 580 изображений из 120 пород собак.
+- [KITTI Vision Benchmark Suite](https://www.cvlibs.net/datasets/kitti/) – наборы данных для задач автономного вождения
+- [Cityscapes Dataset](https://www.cityscapes-dataset.com/) – разметка уличных сцен для сегментации и детекции
 - [Indoor Scene Recognition](http://web.mit.edu/torralba/www/indoor.html). Датасет для распознавания интерьера зданий. Содержит 15 620 изображений и 67 категорий.
 
 ## Автопилоты
+
+### English
 
 - [Berkeley DeepDrive BDD100k](https://bdd-data.berkeley.edu/). На данный момент это самый большой датасет для автопилотов. Он содержит более 100 000 видео с более чем 1100 часами записей вождения в разное время дня и в различных погодных условиях.
 - [Baidu Apolloscapes](http://apolloscape.auto/). Большой датасет для распознавания 26 семантически разных объектов вроде машин, велосипедов, пешеходов, зданий, уличных фонарей и т. д.

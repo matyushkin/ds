@@ -2,14 +2,23 @@
 
 ## Telegram
 
-- [Канал сообщества DeepLearning](https://t.me/deeplearning_ru)
+### Русский
+
+- [Чат Machine Learning](https://t.me/mltrainings) (Cообщество ML Trainigs)
+- [DeepLearningMachine](https://t.me/deeplearningmachine)
+- [DS/ML](https://t.me/datasciencechat)
 
 ## VK
 
-- [Deep Learning](https://vk.com/deeplearning)
-- [DeepLearning (Глубокие нейронные сети)](https://vk.com/deeplearning_ru)
+### Русский
+
+- [Нейронные сети](https://vk.com/neural_net)
+- [Нейронные сети](https://vk.com/neural_nets)
+- [Neural networks](https://vk.com/neural_nets_education)
+- [Нейронные сети и глубокое обучение](https://vk.com/neural_nets_edu)
 
 ## Отдельные статьи
 
-- 🤼 [Генеративно-состязательная нейросеть: ваша первая GAN-модель на PyTorch](https://proglib.io/p/generativno-sostyazatelnaya-neyroset-vasha-pervaya-gan-model-na-pytorch-2020-08-11) ([Jupyter](https://github.com/matyushkin/lessons/blob/master/neural_networks/GAN_intro.ipynb)) ([ист.](https://realpython.com/generative-adversarial-networks/))
-- [Иллюстрированный туториал о BERT](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) (англ.)
+### Русский
+
+- [Глубокое обучение](https://habr.com/ru/post/249879/)

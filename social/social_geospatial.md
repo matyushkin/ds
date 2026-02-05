@@ -2,24 +2,37 @@
 
 ## Ветки Reddit
 
+### English
+
 - [geospatial](https://www.reddit.com/r/geospatial/)
 - [gis](https://www.reddit.com/r/gis/)
 
 ## Визуализация
 
+### Русский
+
 - [Визуализация результатов выборов в Москве на карте в Jupyter Notebook](https://habr.com/ru/company/ods/blog/338554/)
 
 ## Проекции
 
-- [xkcd.com/977/](https://xkcd.com/977/)
+### Русский
+
 - [Ликбез по картографическим проекциям с картинками](https://habr.com/ru/post/235283/)
+
+### English
+
+- [xkcd.com/977/](https://xkcd.com/977/)
 - [YouTube-ролик о типах проекций разъясняющий типы проекций](http://www.youtube.com/watch?v=2lR7s1Y6Zig#t=305)
 
 ## Отдельные посты
 
+### Русский
+
 - Андрей Кармацкий. [Дизайн Яндекс.Карт как наука и увлечение](https://habr.com/ru/company/yandex/blog/185952/)
 
 ## Telegram-группы Telegram по тематике ГИС
+
+### Русский
 
 - [t.me/gislab](https://t.me/gislab)
 - [t.me/QGIS_mutual_aid](https://t.me/QGIS_mutual_aid)
@@ -33,19 +46,29 @@
 - [t.me/gisconf](https://t.me/gisconf)
 - [t.me/geofludilka](https://t.me/geofludilka)
 - [Сообщество природоохранных ГИС](https://t.me/joinchat/Fc0NIRIxIU1Pvx9iRPEipQ)
-- [QGIS Community](https://t.me/joinchat/Aq2V5RPoxYYhXqUPoxRWPQ) (eng)
+
+### English
+
+- [QGIS Community](https://t.me/joinchat/Aq2V5RPoxYYhXqUPoxRWPQ)
 
 ## Telegram-каналы по тематике ГИС
+
+### Русский
 
 - [t.me/geomess](https://t.me/geomess)
 - [t.me/geosemantica](https://t.me/geosemantica)
 - [t.me/nextgis_ru](https://t.me/nextgis_ru)
 - [t.me/rusgisnews](https://t.me/rusgisnews)
-- [t.me/geoentelegram](https://t.me/geoentelegram) (eng, esp)
-- [t.me/gistipsITA](https://t.me/gistipsITA) (eng)
 - [t.me/georg_chronicles](https://t.me/georg_chronicles)
 
+### English
+
+- [t.me/geoentelegram](https://t.me/geoentelegram)
+- [t.me/gistipsITA](https://t.me/gistipsITA)
+
 ## Telegram-группы по тематике географических карт
+
+### Русский
 
 - [t.me/locus_rus](https://t.me/locus_rus)
 - [t.me/mapbox_ru](https://t.me/mapbox_ru)
@@ -57,17 +80,32 @@
 - [t.me/yndx_mapeditor](https://t.me/yndx_mapeditor)
 - [t.me/heredev](https://t.me/heredev)
 - [t.me/SAS_Planet](https://t.me/SAS_Planet)
-- [ActiveTrip chat](https://t.me/activetripme_community_ru) ([eng](https://t.me/activetripme_community), [CEO](https://t.me/shirokolobovchat))
+- [ActiveTrip chat](https://t.me/activetripme_community_ru)
+
+### English
+
+- [ActiveTrip chat (eng)](https://t.me/activetripme_community)
+- [ActiveTrip CEO chat](https://t.me/shirokolobovchat)
 
 ## Telegram-каналы по тематике географических карт
+
+### Русский
 
 - [t.me/mapsanddata](https://t.me/mapsanddata)
 - [t.me/sputnik_maps](https://t.me/sputnik_maps)
 - [t.me/gizhru](https://t.me/gizhru)
 - [t.me/rumapporn](https://t.me/rumapporn)
 - [t.me/zbikemap_ru](https://t.me/zbikemap_ru)
-- [ActiveTrip.me](https://t.me/activetripme_ru) ([eng](https://t.me/activetripme), [CEO](https://t.me/shirokolobov))
+- [ActiveTrip.me](https://t.me/activetripme_ru)
 
-## Хабы 
+### English
+
+- [ActiveTrip.me (eng)](https://t.me/activetripme)
+- [ActiveTrip CEO](https://t.me/shirokolobov)
+
+## Хабы
+
+### Русский
+
 - [Геоинформационные сервисы](https://habr.com/ru/hub/geo/)
 - [OpenStreetMap](https://habr.com/ru/hub/openstreetmap/)

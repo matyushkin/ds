@@ -17,12 +17,13 @@
 - [Prefect](https://www.prefect.io/) — оркестрация data/ML-пайплайнов
 - [Airflow](https://airflow.apache.org/) — планировщик DAG-пайплайнов
 
-## Версионирование данных
+## Версионирование данных и метаданных
 
 ### English
 
 - [DVC](https://dvc.org/) — версионирование данных и ML-моделей поверх Git
 - [LakeFS](https://lakefs.io/) — Git-подобное версионирование для data lakes
+- [ML Metadata (MLMD)](https://github.com/google/ml-metadata) (Google) — отслеживание артефактов и линейджа ML-пайплайнов
 
 ## Деплой и serving
 

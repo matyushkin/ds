@@ -20,6 +20,5 @@
 
 - [MMLU](https://huggingface.co/datasets/cais/mmlu) — 57 предметов, стандартный бенчмарк знаний LLM
 - [HumanEval](https://github.com/openai/human-eval) (OpenAI) — бенчмарк генерации кода
-- [MT-Bench](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard) — многоходовые диалоги, судит LLM
-- [LMSYS Chatbot Arena](https://chat.lmsys.org/) — парные сравнения моделей, ELO-рейтинг
+- [Chatbot Arena](https://lmarena.ai/) (LMSYS) — парные сравнения моделей, ELO-рейтинг
 - [IFEval](https://github.com/google-research/google-research/tree/master/instruction_following_eval) — оценка следования инструкциям
